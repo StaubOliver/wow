@@ -9,7 +9,7 @@
     return isTouch && isSmallScreen;
   }
 
-  if isProbablyMobile() {
+  if (isProbablyMobile()) {
     window.location.href = 'reversocontext://context.reverso.net/definitions/'+urlParams.get("search");
   }
   else {
