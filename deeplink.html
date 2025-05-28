@@ -6,7 +6,7 @@
   function isProbablyMobile() {
     const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
     const isSmallScreen = window.innerWidth <= 768;
-    return isTouch && isSmallScreen;
+    return isTouch || isSmallScreen;
   }
 
   if (isProbablyMobile()) {
