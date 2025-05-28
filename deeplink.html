@@ -2,9 +2,19 @@
 <script>
   const queryString = window.location.search;
   const urlParams = new URLSearchParams(queryString);
-  
-  window.location.href = 'reversocontext://context.reverso.net/definitions/'+urlParams.get("search");
-  console.log(params.get("search"));
+
+  function isProbablyMobile() {
+    const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
+    const isSmallScreen = window.innerWidth <= 768;
+    return isTouch && isSmallScreen;
+  }
+
+  if isProbablyMobile() {
+    window.location.href = 'reversocontext://context.reverso.net/definitions/'+urlParams.get("search");
+  }
+  else {
+    window.location.href = 'https://dictionary.reverso.net/english-definition/'+urlParams.get("search");
+  }
 </script>
   <body>
     <p>redirecting...</p>
