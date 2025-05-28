@@ -1,6 +1,9 @@
 <html>
 <script>
-  window.location.href = 'reversocontext://context.reverso.net/definitions/'+params.get("search");
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  
+  window.location.href = 'reversocontext://context.reverso.net/definitions/'+urlParams.get("search");
   console.log(params.get("search"));
 </script>
   <body>
