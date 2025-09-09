@@ -124,6 +124,7 @@ while len(selected_dates)!=4:
 	rand = random.randint(0, len(past_terms_candidates)-1)
 	if rand not in selected_dates:
 		selected_dates.append(rand)
+selected_dates.sort()
 
 for i in zip(selected_dates,["word","word", "expression", "expression"]):
 	index,term = i
