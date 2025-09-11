@@ -102,7 +102,7 @@ def get_masked_expression(expression):
 	wc = len(expression.split(" "))
 	if wc>1:
 		one_or_two = 1 if wc == 2 or wc == 3 else 2
-		expression_masked = " ".join(expression.split(" ")[0:-one_or_two]+["_"*len(i) for i in expression.split(" ")[-one_or_two:]])
+		expression_masked = " ".join(expression.split(" ")[0:-one_or_two]+["_"*(len(i) if len(i)==1 else len(i)-1) for i in expression.split(" ")[-one_or_two:]])
 
 	return expression_masked
 
