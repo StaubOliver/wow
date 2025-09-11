@@ -97,6 +97,15 @@ def get_wod_image():
 	response = requests.get(url)
 	return response.json()
 
+def get_masked_expression(expression):
+	expression_masked = expression
+	wc = len(expression.split(" "))
+	if wc>1:
+		one_or_two = 1 if wc == 2 or wc == 3 else 2
+		expression_masked = " ".join(expression.split(" ")[0:-one_or_two]+["_"*len(i) for i in expression.split(" ")[-one_or_two:]])
+
+	return expression_masked
+
 today = datetime.now().date()
 today_str = str(today)
 
@@ -105,6 +114,8 @@ past = read_csv("past.csv",";")
 wod = get_wod()
 word = wod["word"]["entry"]
 expression = wod["expression"]["entry"]
+
+expression_masked = get_masked_expression(expression)
 
 past.append({"date":today_str, "word":word, "expression":expression})
 write_csv(past, "past.csv")
@@ -124,6 +135,7 @@ while len(selected_dates)!=4:
 	rand = random.randint(0, len(past_terms_candidates)-1)
 	if rand not in selected_dates:
 		selected_dates.append(rand)
+
 selected_dates.sort()
 
 for i in zip(selected_dates,["word","word", "expression", "expression"]):
@@ -133,6 +145,7 @@ for i in zip(selected_dates,["word","word", "expression", "expression"]):
 
 today = {
 	"today":dtStylish(datetime.now().date()),
+    "expression":expression_masked,
 	"past_terms_1":past_terms[0],
 	"past_terms_2":past_terms[1],
 	"past_terms_3":past_terms[2],
