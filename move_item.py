@@ -83,8 +83,7 @@ def  read_csv(path, deli=";"):
 def ordinal(n):
     return str(n)+("th" if 4<=n%100<=20 else {1:"st",2:"nd",3:"rd"}.get(n%10, "th"))
 
-def dtStylish(dt):
-    f= '%B {th}, %Y'
+def dtStylish(dt, f='%B {th}, %Y'):
     return dt.strftime(f).replace("{th}", ordinal(dt.day))
 
 def get_wod():
@@ -142,7 +141,7 @@ selected_dates.sort()
 
 for i in zip(selected_dates,["word","word", "expression", "expression"]):
 	index,term = i
-	past_terms.append({"date":dtStylish(past_terms_candidates[index]["date"]), "term":past_terms_candidates[index][term]})
+	past_terms.append({"date":dtStylish(past_terms_candidates[index]["date"], f='%b {th}'), "term":past_terms_candidates[index][term]})
 
 
 today = {
