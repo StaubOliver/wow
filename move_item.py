@@ -117,7 +117,9 @@ expression = wod["expression"]["entry"]
 
 expression_masked = get_masked_expression(expression)
 
-past.append({"date":today_str, "word":word, "expression":expression})
+if len([i["date"] for i in past if i["date"]==today_str])==0:
+	past.append({"date":today_str, "word":word, "expression":expression})
+
 write_csv(past, "past.csv")
 
 
@@ -125,7 +127,7 @@ for i in past:
 	tmp = datetime.strptime(i["date"], "%Y-%m-%d").date()
 	i["date"]=tmp
 
-past_terms_candidates = [i for i in past if i["date"]>datetime.now().date()-timedelta(days=14)]
+past_terms_candidates = [i for i in past if i["date"]>datetime.now().date()-timedelta(days=14) and i["date"]!= datetime.now().date()]
 
 past_terms = []
 
