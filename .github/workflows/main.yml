@@ -21,6 +21,10 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
+      - name: Set up locale
+        run: |
+          sudo apt-get install locales -y
+
       - name: Run Python script to update word of the day
         run: |
           python move_item.py
