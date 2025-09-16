@@ -5,6 +5,7 @@ import requests
 import csv 
 import unicodedata
 import random
+import locale
 
 source_path = "data.jsonl"
 target_path = "index.json"
@@ -83,8 +84,20 @@ def  read_csv(path, deli=";"):
 def ordinal(n):
     return str(n)+("th" if 4<=n%100<=20 else {1:"st",2:"nd",3:"rd"}.get(n%10, "th"))
 
-def dtStylish(dt, f='%B {th}, %Y'):
-    return dt.strftime(f).replace("{th}", ordinal(dt.day))
+def dtStylish(dt,  local="en", include_year=True):
+	if local == "en":
+		f = '%B {th}, %Y'
+		if not include_year:
+			f = '%B {th}'
+		locale.setlocale(locale.LC_TIME, "en_US")
+		return dt.strftime(f).replace("{th}", ordinal(dt.day))
+	
+	elif local == "fr":
+		f = "{th} %B %Y"
+		if not include_year:
+			f = "{th} %B"
+		locale.setlocale(locale.LC_TIME, "fr_FR")
+		return dt.strftime(f).replace("{th}", str(dt.day))
 
 def get_wod():
 	url = "https://definition-api.reverso.net/v1/api/todiscover/en"
@@ -101,7 +114,7 @@ def get_masked_expression(expression):
 	wc = len(expression.split(" "))
 	if wc>1:
 		one_or_two = 1 if wc == 2 or wc == 3 else 2
-		expression_masked = " ".join(expression.split(" ")[0:-one_or_two]+["_"*(len(i) if len(i)==1 else len(i)-1) for i in expression.split(" ")[-one_or_two:]])
+		expression_masked = " ".join(expression.split(" ")[0:-one_or_two]+["_"*len(i) for i in expression.split(" ")[-one_or_two:]])
 
 	return expression_masked
 
@@ -116,9 +129,7 @@ expression = wod["expression"]["entry"]
 
 expression_masked = get_masked_expression(expression)
 
-if len([i["date"] for i in past if i["date"]==today_str])==0:
-	past.append({"date":today_str, "word":word, "expression":expression})
-
+past.append({"date":today_str, "word":word, "expression":expression})
 write_csv(past, "past.csv")
 
 
@@ -126,7 +137,7 @@ for i in past:
 	tmp = datetime.strptime(i["date"], "%Y-%m-%d").date()
 	i["date"]=tmp
 
-past_terms_candidates = [i for i in past if i["date"]>datetime.now().date()-timedelta(days=14) and i["date"]!= datetime.now().date()]
+past_terms_candidates = [i for i in past if i["date"]>datetime.now().date()-timedelta(days=14)]
 
 past_terms = []
 
@@ -141,12 +152,17 @@ selected_dates.sort()
 
 for i in zip(selected_dates,["word","word", "expression", "expression"]):
 	index,term = i
-	past_terms.append({"date":dtStylish(past_terms_candidates[index]["date"], f='%b {th}'), "term":past_terms_candidates[index][term]})
+	past_terms.append(
+		{
+			"date":dtStylish(past_terms_candidates[index]["date"], include_year=False), 
+			"date_fr":dtStylish(past_terms_candidates[index]["date"], include_year=False, local="fr"), 
+			"term":past_terms_candidates[index][term]
+		})
 
 
 today = {
 	"today":dtStylish(datetime.now().date()),
-    "expression":expression_masked,
+	"date_fr":dtStylish(datetime.now().date(), local="fr"),
 	"past_terms_1":past_terms[0],
 	"past_terms_2":past_terms[1],
 	"past_terms_3":past_terms[2],
