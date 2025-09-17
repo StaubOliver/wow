@@ -89,14 +89,12 @@ def dtStylish(dt,  local="en", include_year=True):
 		f = '%B {th}, %Y'
 		if not include_year:
 			f = '%B {th}'
-		locale.setlocale(locale.LC_TIME, "en_US")
 		return dt.strftime(f).replace("{th}", ordinal(dt.day))
 	
 	elif local == "fr":
 		f = "{th} %B %Y"
 		if not include_year:
 			f = "{th} %B"
-		locale.setlocale(locale.LC_TIME, "fr_FR")
 		return dt.strftime(f).replace("{th}", str(dt.day))
 
 def get_wod():
