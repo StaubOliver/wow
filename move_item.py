@@ -197,6 +197,7 @@ for i in zip(selected_dates,["word","word", "expression", "expression"]):
 		})
 
 today = {
+	"expression":expression_masked,
 	"today":dtStylish(datetime.now().date()),
 	"date_fr":dtStylish(datetime.now().date(), locale="fr"),
 	"date_es":dtStylish(datetime.now().date(), locale="es"),
