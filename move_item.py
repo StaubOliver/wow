@@ -210,4 +210,4 @@ today = {
 }
 
 
-json.dump(today, open(today_path, "w"))	
+json.dump(today, open(today_path, "w"), indent=4)	
