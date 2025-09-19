@@ -171,7 +171,7 @@ for i in past:
 	tmp = datetime.strptime(i["date"], "%Y-%m-%d").date()
 	i["date"]=tmp
 
-past_terms_candidates = [i for i in past if i["date"]>datetime.now().date()-timedelta(days=14)]
+past_terms_candidates = [i for i in past if i["date"]>datetime.now().date()-timedelta(days=14) and i["date"] != datetime.now().date()]
 
 past_terms = []
 
