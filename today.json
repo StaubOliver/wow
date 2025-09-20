@@ -1,17 +1,17 @@
 {
-    "expression": "by the ____",
-    "today": "September 19th, 2025",
-    "date_fr": "19 septembre 2025",
-    "date_es": "19 de septiembre de 2025",
-    "date_it": "19 settembre 2025",
-    "date_ru": "19 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "bury the _______",
+    "today": "September 20th, 2025",
+    "date_fr": "20 septembre 2025",
+    "date_es": "20 de septiembre de 2025",
+    "date_it": "20 settembre 2025",
+    "date_ru": "20 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "September 8th",
-        "date_fr": "8 septembre",
-        "date_es": "8 de septiembre",
-        "date_it": "8 settembre",
-        "date_ru": "8 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "bric-a-brac"
+        "date": "September 7th",
+        "date_fr": "7 septembre",
+        "date_es": "7 de septiembre",
+        "date_it": "7 settembre",
+        "date_ru": "7 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "predicament"
     },
     "past_terms_2": {
         "date": "September 9th",
@@ -22,19 +22,19 @@
         "term": "hasten"
     },
     "past_terms_3": {
-        "date": "September 10th",
-        "date_fr": "10 septembre",
-        "date_es": "10 de septiembre",
-        "date_it": "10 settembre",
-        "date_ru": "10 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "nook and cranny"
+        "date": "September 15th",
+        "date_fr": "15 septembre",
+        "date_es": "15 de septiembre",
+        "date_it": "15 settembre",
+        "date_ru": "15 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "on the payroll"
     },
     "past_terms_4": {
-        "date": "September 14th",
-        "date_fr": "14 septembre",
-        "date_es": "14 de septiembre",
-        "date_it": "14 settembre",
-        "date_ru": "14 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "speak one's mind"
+        "date": "September 19th",
+        "date_fr": "19 septembre",
+        "date_es": "19 de septiembre",
+        "date_it": "19 settembre",
+        "date_ru": "19 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "by the book"
     }
 }
