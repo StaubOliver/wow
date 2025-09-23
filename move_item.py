@@ -163,7 +163,10 @@ expression = wod["expression"]["entry"]
 
 expression_masked = get_masked_expression(expression)
 
-past.append({"date":today_str, "word":word, "expression":expression})
+wod_image = get_wod_image()["word"]
+
+if len([i["date"] for i in past if i["date"]==today_str])==0:
+	past.append({"date":today_str, "word":word, "expression":expression, "image":wod_image})
 write_csv(past, "past.csv")
 
 
