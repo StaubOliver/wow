@@ -1,10 +1,10 @@
 {
-    "expression": "worth a ____",
-    "today": "September 22nd, 2025",
-    "date_fr": "22 septembre 2025",
-    "date_es": "22 de septiembre de 2025",
-    "date_it": "22 settembre 2025",
-    "date_ru": "22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "all hell _____ _____",
+    "today": "September 23rd, 2025",
+    "date_fr": "23 septembre 2025",
+    "date_es": "23 de septiembre de 2025",
+    "date_it": "23 settembre 2025",
+    "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "September 13th",
         "date_fr": "13 septembre",
@@ -14,27 +14,27 @@
         "term": "condone"
     },
     "past_terms_2": {
-        "date": "September 17th",
-        "date_fr": "17 septembre",
-        "date_es": "17 de septiembre",
-        "date_it": "17 settembre",
-        "date_ru": "17 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "gratefully"
+        "date": "September 14th",
+        "date_fr": "14 septembre",
+        "date_es": "14 de septiembre",
+        "date_it": "14 settembre",
+        "date_ru": "14 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "remnant"
     },
     "past_terms_3": {
-        "date": "September 17th",
-        "date_fr": "17 septembre",
-        "date_es": "17 de septiembre",
-        "date_it": "17 settembre",
-        "date_ru": "17 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "blessing in disguise"
+        "date": "September 15th",
+        "date_fr": "15 septembre",
+        "date_es": "15 de septiembre",
+        "date_it": "15 settembre",
+        "date_ru": "15 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "on the payroll"
     },
     "past_terms_4": {
-        "date": "September 18th",
-        "date_fr": "18 septembre",
-        "date_es": "18 de septiembre",
-        "date_it": "18 settembre",
-        "date_ru": "18 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "can of worms"
+        "date": "September 19th",
+        "date_fr": "19 septembre",
+        "date_es": "19 de septiembre",
+        "date_it": "19 settembre",
+        "date_ru": "19 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "by the book"
     }
 }
