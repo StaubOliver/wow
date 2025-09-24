@@ -1,40 +1,40 @@
 {
-    "expression": "all hell _____ _____",
-    "today": "September 23rd, 2025",
-    "date_fr": "23 septembre 2025",
-    "date_es": "23 de septiembre de 2025",
-    "date_it": "23 settembre 2025",
-    "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "hang out __ ___",
+    "today": "September 24th, 2025",
+    "date_fr": "24 septembre 2025",
+    "date_es": "24 de septiembre de 2025",
+    "date_it": "24 settembre 2025",
+    "date_ru": "24 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
+        "date": "September 13th",
+        "date_fr": "13 septembre",
+        "date_es": "13 de septiembre",
+        "date_it": "13 settembre",
+        "date_ru": "13 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "condone"
+    },
+    "past_terms_2": {
+        "date": "September 14th",
+        "date_fr": "14 septembre",
+        "date_es": "14 de septiembre",
+        "date_it": "14 settembre",
+        "date_ru": "14 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "remnant"
+    },
+    "past_terms_3": {
         "date": "September 17th",
         "date_fr": "17 septembre",
         "date_es": "17 de septiembre",
         "date_it": "17 settembre",
         "date_ru": "17 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "gratefully"
-    },
-    "past_terms_2": {
-        "date": "September 19th",
-        "date_fr": "19 septembre",
-        "date_es": "19 de septiembre",
-        "date_it": "19 settembre",
-        "date_ru": "19 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "ubiquitous"
-    },
-    "past_terms_3": {
-        "date": "September 20th",
-        "date_fr": "20 septembre",
-        "date_es": "20 de septiembre",
-        "date_it": "20 settembre",
-        "date_ru": "20 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "bury the hatchet"
+        "term": "blessing in disguise"
     },
     "past_terms_4": {
-        "date": "September 22nd",
-        "date_fr": "22 septembre",
-        "date_es": "22 de septiembre",
-        "date_it": "22 settembre",
-        "date_ru": "22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "worth a shot"
+        "date": "September 18th",
+        "date_fr": "18 septembre",
+        "date_es": "18 de septiembre",
+        "date_it": "18 settembre",
+        "date_ru": "18 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "can of worms"
     }
 }
