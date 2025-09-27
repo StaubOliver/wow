@@ -1,10 +1,10 @@
 {
-    "expression": "turn a ____ ___",
-    "today": "September 26th, 2025",
-    "date_fr": "26 septembre 2025",
-    "date_es": "26 de septiembre de 2025",
-    "date_it": "26 settembre 2025",
-    "date_ru": "26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "in a _____ ______",
+    "today": "September 27th, 2025",
+    "date_fr": "27 septembre 2025",
+    "date_es": "27 de septiembre de 2025",
+    "date_it": "27 settembre 2025",
+    "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "September 14th",
         "date_fr": "14 septembre",
@@ -22,19 +22,19 @@
         "term": "ubiquitous"
     },
     "past_terms_3": {
-        "date": "September 20th",
-        "date_fr": "20 septembre",
-        "date_es": "20 de septiembre",
-        "date_it": "20 settembre",
-        "date_ru": "20 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "bury the hatchet"
-    },
-    "past_terms_4": {
         "date": "September 21st",
         "date_fr": "21 septembre",
         "date_es": "21 de septiembre",
         "date_it": "21 settembre",
         "date_ru": "21 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
         "term": "know the drill"
+    },
+    "past_terms_4": {
+        "date": "September 23rd",
+        "date_fr": "23 septembre",
+        "date_es": "23 de septiembre",
+        "date_it": "23 settembre",
+        "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "all hell broke loose"
     }
 }
