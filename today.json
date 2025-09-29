@@ -1,40 +1,40 @@
 {
-    "expression": "go through ___ ____",
-    "today": "September 28th, 2025",
-    "date_fr": "28 septembre 2025",
-    "date_es": "28 de septiembre de 2025",
-    "date_it": "28 settembre 2025",
-    "date_ru": "28 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "it's a _____ _____",
+    "today": "September 29th, 2025",
+    "date_fr": "29 septembre 2025",
+    "date_es": "29 de septiembre de 2025",
+    "date_it": "29 settembre 2025",
+    "date_ru": "29 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "September 15th",
-        "date_fr": "15 septembre",
-        "date_es": "15 de septiembre",
-        "date_it": "15 settembre",
-        "date_ru": "15 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "gambit"
+        "date": "September 18th",
+        "date_fr": "18 septembre",
+        "date_es": "18 de septiembre",
+        "date_it": "18 settembre",
+        "date_ru": "18 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "outset"
     },
     "past_terms_2": {
-        "date": "September 20th",
-        "date_fr": "20 septembre",
-        "date_es": "20 de septiembre",
-        "date_it": "20 settembre",
-        "date_ru": "20 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "seasickness"
-    },
-    "past_terms_3": {
         "date": "September 23rd",
         "date_fr": "23 septembre",
         "date_es": "23 de septiembre",
         "date_it": "23 settembre",
         "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "all hell broke loose"
+        "term": "gauzy"
+    },
+    "past_terms_3": {
+        "date": "September 27th",
+        "date_fr": "27 septembre",
+        "date_es": "27 de septiembre",
+        "date_it": "27 settembre",
+        "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "in a split second"
     },
     "past_terms_4": {
-        "date": "September 25th",
-        "date_fr": "25 septembre",
-        "date_es": "25 de septiembre",
-        "date_it": "25 settembre",
-        "date_ru": "25 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "pay through the nose"
+        "date": "September 28th",
+        "date_fr": "28 septembre",
+        "date_es": "28 de septiembre",
+        "date_it": "28 settembre",
+        "date_ru": "28 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "go through the roof"
     }
 }
