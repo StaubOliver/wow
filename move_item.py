@@ -133,22 +133,28 @@ def dtStylish(dt,  locale="en", include_year=True):
 	day = ordinal(dt.day)
 	year = f", {dt.year}" if include_year else ""
 	return f"{month} {day}{year}"
-def get_wod():
-	url = "https://definition-api.reverso.net/v1/api/todiscover/en"
+	
+def get_wod(lang="en"):
+	url = f"https://definition-api.reverso.net/v1/api/todiscover/{lang}"
 	response = requests.get(url)
 	return response.json()
 
-def get_wod_image():
-	url = "https://definition-api.reverso.net/v1/api/todiscoverimage/en"
+def get_wod_image(lang="en"):
+	url = f"https://definition-api.reverso.net/v1/api/todiscoverimage/{lang}"
 	response = requests.get(url)
 	return response.json()
 
 def get_masked_expression(expression):
 	expression_masked = expression
+	print(len("".join(expression.split(" ")[:2])), "".join(expression.split(" ")[:2]))
 	wc = len(expression.split(" "))
 	if wc>1:
 		one_or_two = 1 if wc == 2 or wc == 3 else 2
-		expression_masked = " ".join(expression.split(" ")[0:-one_or_two]+["_"*len(i) for i in expression.split(" ")[-one_or_two:]])
+		print(one_or_two)
+		if len("".join(expression.split(" ")[:2])) <= 5 and one_or_two == 2:
+			one_or_two = 1
+		
+		expression_masked = " ".join(expression.split(" ")[0:-one_or_two]+["_"*(len(i) if len(i)==1 else len(i)-1) for i in expression.split(" ")[-one_or_two:]])
 
 	return expression_masked
 
@@ -168,6 +174,14 @@ wod_image = get_wod_image()["word"]
 if len([i["date"] for i in past if i["date"]==today_str])==0:
 	past.append({"date":today_str, "word":word, "expression":expression, "image":wod_image})
 write_csv(past, "past.csv")
+
+past_fr = read_csv("past_fr.csv", ";")
+wod_fr = get_wod("fr")
+word_fr = wod_fr["word"]["entry"]
+expression_fr = wod_fr["expression"]["entry"]
+if len([i["date"] for i in past_fr if i["date"]==today_str])==0:
+	past_fr.append({"date":today_str, "word":word_fr, "expression":expression_fr})
+write_csv(past_fr, "past_fr.csv")
 
 
 for i in past:
