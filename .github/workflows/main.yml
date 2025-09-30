@@ -30,6 +30,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git add data.jsonl index.json today.json past.csv
+          git add data.jsonl index.json today.json past.csv past_fr.csv
           git commit -m "chore: move one JSONL item [skip ci]" || echo "No changes to commit"
           git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git HEAD:main
