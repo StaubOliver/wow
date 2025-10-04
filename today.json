@@ -1,40 +1,40 @@
 {
-    "expression": "have the ____ __",
-    "today": "October 3rd, 2025",
-    "date_fr": "3 octobre 2025",
-    "date_es": "3 de octubre de 2025",
-    "date_it": "3 ottobre 2025",
-    "date_ru": "3 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "all is not ___",
+    "today": "October 4th, 2025",
+    "date_fr": "4 octobre 2025",
+    "date_es": "4 de octubre de 2025",
+    "date_it": "4 ottobre 2025",
+    "date_ru": "4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "September 21st",
-        "date_fr": "21 septembre",
-        "date_es": "21 de septiembre",
-        "date_it": "21 settembre",
-        "date_ru": "21 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "indulge"
+        "date": "September 27th",
+        "date_fr": "27 septembre",
+        "date_es": "27 de septiembre",
+        "date_it": "27 settembre",
+        "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "errand"
     },
     "past_terms_2": {
-        "date": "September 22nd",
-        "date_fr": "22 septembre",
-        "date_es": "22 de septiembre",
-        "date_it": "22 settembre",
-        "date_ru": "22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "hitchhiker"
+        "date": "September 28th",
+        "date_fr": "28 septembre",
+        "date_es": "28 de septiembre",
+        "date_it": "28 settembre",
+        "date_ru": "28 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "inmate"
     },
     "past_terms_3": {
-        "date": "September 23rd",
-        "date_fr": "23 septembre",
-        "date_es": "23 de septiembre",
-        "date_it": "23 settembre",
-        "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "all hell broke loose"
+        "date": "September 30th",
+        "date_fr": "30 septembre",
+        "date_es": "30 de septiembre",
+        "date_it": "30 settembre",
+        "date_ru": "30 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "go through the motions"
     },
     "past_terms_4": {
-        "date": "September 26th",
-        "date_fr": "26 septembre",
-        "date_es": "26 de septiembre",
-        "date_it": "26 settembre",
-        "date_ru": "26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "turn a deaf ear"
+        "date": "October 3rd",
+        "date_fr": "3 octobre",
+        "date_es": "3 de octubre",
+        "date_it": "3 ottobre",
+        "date_ru": "3 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "have the final say"
     }
 }
