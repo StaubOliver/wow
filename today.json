@@ -1,25 +1,25 @@
 {
-    "expression": "live on __ ___",
-    "today": "October 6th, 2025",
-    "date_fr": "6 octobre 2025",
-    "date_es": "6 de octubre de 2025",
-    "date_it": "6 ottobre 2025",
-    "date_ru": "6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "bring to _ __",
+    "today": "October 7th, 2025",
+    "date_fr": "7 octobre 2025",
+    "date_es": "7 de octubre de 2025",
+    "date_it": "7 ottobre 2025",
+    "date_ru": "7 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "September 25th",
-        "date_fr": "25 septembre",
-        "date_es": "25 de septiembre",
-        "date_it": "25 settembre",
-        "date_ru": "25 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "luscious"
-    },
-    "past_terms_2": {
         "date": "September 27th",
         "date_fr": "27 septembre",
         "date_es": "27 de septiembre",
         "date_it": "27 settembre",
         "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
         "term": "errand"
+    },
+    "past_terms_2": {
+        "date": "September 30th",
+        "date_fr": "30 septembre",
+        "date_es": "30 de septiembre",
+        "date_it": "30 settembre",
+        "date_ru": "30 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "stench"
     },
     "past_terms_3": {
         "date": "October 2nd",
@@ -30,11 +30,11 @@
         "term": "go down the drain"
     },
     "past_terms_4": {
-        "date": "October 3rd",
-        "date_fr": "3 octobre",
-        "date_es": "3 de octubre",
-        "date_it": "3 ottobre",
-        "date_ru": "3 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "have the final say"
+        "date": "October 5th",
+        "date_fr": "5 octobre",
+        "date_es": "5 de octubre",
+        "date_it": "5 ottobre",
+        "date_ru": "5 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "old habits die hard"
     }
 }
