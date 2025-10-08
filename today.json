@@ -1,25 +1,25 @@
 {
-    "expression": "bring to _ __",
-    "today": "October 7th, 2025",
-    "date_fr": "7 octobre 2025",
-    "date_es": "7 de octubre de 2025",
-    "date_it": "7 ottobre 2025",
-    "date_ru": "7 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "at each ______ ______",
+    "today": "October 8th, 2025",
+    "date_fr": "8 octobre 2025",
+    "date_es": "8 de octubre de 2025",
+    "date_it": "8 ottobre 2025",
+    "date_ru": "8 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "September 27th",
-        "date_fr": "27 septembre",
-        "date_es": "27 de septiembre",
-        "date_it": "27 settembre",
-        "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "errand"
+        "date": "September 26th",
+        "date_fr": "26 septembre",
+        "date_es": "26 de septiembre",
+        "date_it": "26 settembre",
+        "date_ru": "26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "galore"
     },
     "past_terms_2": {
-        "date": "September 30th",
-        "date_fr": "30 septembre",
-        "date_es": "30 de septiembre",
-        "date_it": "30 settembre",
-        "date_ru": "30 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "stench"
+        "date": "October 1st",
+        "date_fr": "1er octobre",
+        "date_es": "1 de octubre",
+        "date_it": "1 ottobre",
+        "date_ru": "1 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "unravel"
     },
     "past_terms_3": {
         "date": "October 2nd",
