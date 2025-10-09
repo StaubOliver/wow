@@ -1,10 +1,10 @@
 {
-    "expression": "at each ______ ______",
-    "today": "October 8th, 2025",
-    "date_fr": "8 octobre 2025",
-    "date_es": "8 de octubre de 2025",
-    "date_it": "8 ottobre 2025",
-    "date_ru": "8 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "water under __ _____",
+    "today": "October 9th, 2025",
+    "date_fr": "9 octobre 2025",
+    "date_es": "9 de octubre de 2025",
+    "date_it": "9 ottobre 2025",
+    "date_ru": "9 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "September 26th",
         "date_fr": "26 septembre",
@@ -14,20 +14,20 @@
         "term": "galore"
     },
     "past_terms_2": {
-        "date": "October 1st",
-        "date_fr": "1er octobre",
-        "date_es": "1 de octubre",
-        "date_it": "1 ottobre",
-        "date_ru": "1 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "unravel"
+        "date": "September 28th",
+        "date_fr": "28 septembre",
+        "date_es": "28 de septiembre",
+        "date_it": "28 settembre",
+        "date_ru": "28 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "inmate"
     },
     "past_terms_3": {
-        "date": "October 2nd",
-        "date_fr": "2 octobre",
-        "date_es": "2 de octubre",
-        "date_it": "2 ottobre",
-        "date_ru": "2 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "go down the drain"
+        "date": "September 30th",
+        "date_fr": "30 septembre",
+        "date_es": "30 de septiembre",
+        "date_it": "30 settembre",
+        "date_ru": "30 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "go through the motions"
     },
     "past_terms_4": {
         "date": "October 5th",
