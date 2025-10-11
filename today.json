@@ -1,10 +1,10 @@
 {
-    "expression": "as the crow ____",
-    "today": "October 10th, 2025",
-    "date_fr": "10 octobre 2025",
-    "date_es": "10 de octubre de 2025",
-    "date_it": "10 ottobre 2025",
-    "date_ru": "10 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "down in __ ____",
+    "today": "October 11th, 2025",
+    "date_fr": "11 octobre 2025",
+    "date_es": "11 de octubre de 2025",
+    "date_it": "11 ottobre 2025",
+    "date_ru": "11 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "September 29th",
         "date_fr": "29 septembre",
@@ -14,27 +14,27 @@
         "term": "paucity"
     },
     "past_terms_2": {
-        "date": "September 30th",
-        "date_fr": "30 septembre",
-        "date_es": "30 de septiembre",
-        "date_it": "30 settembre",
-        "date_ru": "30 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "stench"
-    },
-    "past_terms_3": {
-        "date": "October 1st",
-        "date_fr": "1er octobre",
-        "date_es": "1 de octubre",
-        "date_it": "1 ottobre",
-        "date_ru": "1 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "shoot for the stars"
-    },
-    "past_terms_4": {
         "date": "October 4th",
         "date_fr": "4 octobre",
         "date_es": "4 de octubre",
         "date_it": "4 ottobre",
         "date_ru": "4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "all is not lost"
+        "term": "retaliate"
+    },
+    "past_terms_3": {
+        "date": "October 6th",
+        "date_fr": "6 octobre",
+        "date_es": "6 de octubre",
+        "date_it": "6 ottobre",
+        "date_ru": "6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "live on the edge"
+    },
+    "past_terms_4": {
+        "date": "October 9th",
+        "date_fr": "9 octobre",
+        "date_es": "9 de octubre",
+        "date_it": "9 ottobre",
+        "date_ru": "9 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "water under the bridge"
     }
 }
