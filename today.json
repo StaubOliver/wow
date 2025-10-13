@@ -1,40 +1,40 @@
 {
-    "expression": "keep a straight ___",
-    "today": "October 12th, 2025",
-    "date_fr": "12 octobre 2025",
-    "date_es": "12 de octubre de 2025",
-    "date_it": "12 ottobre 2025",
-    "date_ru": "12 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "tough nut _ ____",
+    "today": "October 13th, 2025",
+    "date_fr": "13 octobre 2025",
+    "date_es": "13 de octubre de 2025",
+    "date_it": "13 ottobre 2025",
+    "date_ru": "13 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "September 29th",
-        "date_fr": "29 septembre",
-        "date_es": "29 de septiembre",
-        "date_it": "29 settembre",
-        "date_ru": "29 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "paucity"
+        "date": "September 30th",
+        "date_fr": "30 septembre",
+        "date_es": "30 de septiembre",
+        "date_it": "30 settembre",
+        "date_ru": "30 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "stench"
     },
     "past_terms_2": {
-        "date": "October 3rd",
-        "date_fr": "3 octobre",
-        "date_es": "3 de octubre",
-        "date_it": "3 ottobre",
-        "date_ru": "3 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "jigsaw"
+        "date": "October 5th",
+        "date_fr": "5 octobre",
+        "date_es": "5 de octubre",
+        "date_it": "5 ottobre",
+        "date_ru": "5 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "heinous"
     },
     "past_terms_3": {
-        "date": "October 4th",
-        "date_fr": "4 octobre",
-        "date_es": "4 de octubre",
-        "date_it": "4 ottobre",
-        "date_ru": "4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "all is not lost"
+        "date": "October 8th",
+        "date_fr": "8 octobre",
+        "date_es": "8 de octubre",
+        "date_it": "8 ottobre",
+        "date_ru": "8 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "at each other's throats"
     },
     "past_terms_4": {
-        "date": "October 6th",
-        "date_fr": "6 octobre",
-        "date_es": "6 de octubre",
-        "date_it": "6 ottobre",
-        "date_ru": "6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "live on the edge"
+        "date": "October 9th",
+        "date_fr": "9 octobre",
+        "date_es": "9 de octubre",
+        "date_it": "9 ottobre",
+        "date_ru": "9 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "water under the bridge"
     }
 }
