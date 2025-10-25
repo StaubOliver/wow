@@ -1,25 +1,25 @@
 {
-    "expression": "dead as _ _______",
-    "today": "October 24th, 2025",
-    "date_fr": "24 octobre 2025",
-    "date_es": "24 de octubre de 2025",
-    "date_it": "24 ottobre 2025",
-    "date_ru": "24 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "on the safe ___",
+    "today": "October 25th, 2025",
+    "date_fr": "25 octobre 2025",
+    "date_es": "25 de octubre de 2025",
+    "date_it": "25 ottobre 2025",
+    "date_ru": "25 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "October 11th",
-        "date_fr": "11 octobre",
-        "date_es": "11 de octubre",
-        "date_it": "11 ottobre",
-        "date_ru": "11 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "itchy"
-    },
-    "past_terms_2": {
         "date": "October 13th",
         "date_fr": "13 octobre",
         "date_es": "13 de octubre",
         "date_it": "13 ottobre",
         "date_ru": "13 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
         "term": "smitten"
+    },
+    "past_terms_2": {
+        "date": "October 15th",
+        "date_fr": "15 octobre",
+        "date_es": "15 de octubre",
+        "date_it": "15 ottobre",
+        "date_ru": "15 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "relocate"
     },
     "past_terms_3": {
         "date": "October 16th",
@@ -30,11 +30,11 @@
         "term": "get a handle on"
     },
     "past_terms_4": {
-        "date": "October 18th",
-        "date_fr": "18 octobre",
-        "date_es": "18 de octubre",
-        "date_it": "18 ottobre",
-        "date_ru": "18 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "jump on the bandwagon"
+        "date": "October 19th",
+        "date_fr": "19 octobre",
+        "date_es": "19 de octubre",
+        "date_it": "19 ottobre",
+        "date_ru": "19 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "pain in the neck"
     }
 }
