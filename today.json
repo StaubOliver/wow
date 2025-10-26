@@ -1,19 +1,11 @@
 {
-    "expression": "on the safe ___",
-    "today": "October 25th, 2025",
-    "date_fr": "25 octobre 2025",
-    "date_es": "25 de octubre de 2025",
-    "date_it": "25 ottobre 2025",
-    "date_ru": "25 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "lesser of __ ____",
+    "today": "October 26th, 2025",
+    "date_fr": "26 octobre 2025",
+    "date_es": "26 de octubre de 2025",
+    "date_it": "26 ottobre 2025",
+    "date_ru": "26 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "October 13th",
-        "date_fr": "13 octobre",
-        "date_es": "13 de octubre",
-        "date_it": "13 ottobre",
-        "date_ru": "13 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "smitten"
-    },
-    "past_terms_2": {
         "date": "October 15th",
         "date_fr": "15 octobre",
         "date_es": "15 de octubre",
@@ -21,20 +13,28 @@
         "date_ru": "15 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
         "term": "relocate"
     },
+    "past_terms_2": {
+        "date": "October 22nd",
+        "date_fr": "22 octobre",
+        "date_es": "22 de octubre",
+        "date_it": "22 ottobre",
+        "date_ru": "22 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "dreadful"
+    },
     "past_terms_3": {
-        "date": "October 16th",
-        "date_fr": "16 octobre",
-        "date_es": "16 de octubre",
-        "date_it": "16 ottobre",
-        "date_ru": "16 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "get a handle on"
+        "date": "October 24th",
+        "date_fr": "24 octobre",
+        "date_es": "24 de octubre",
+        "date_it": "24 ottobre",
+        "date_ru": "24 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "dead as a doornail"
     },
     "past_terms_4": {
-        "date": "October 19th",
-        "date_fr": "19 octobre",
-        "date_es": "19 de octubre",
-        "date_it": "19 ottobre",
-        "date_ru": "19 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "pain in the neck"
+        "date": "October 25th",
+        "date_fr": "25 octobre",
+        "date_es": "25 de octubre",
+        "date_it": "25 ottobre",
+        "date_ru": "25 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "on the safe side"
     }
 }
