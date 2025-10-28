@@ -1,10 +1,10 @@
 {
-    "expression": "rise through __ ____",
-    "today": "October 27th, 2025",
-    "date_fr": "27 octobre 2025",
-    "date_es": "27 de octubre de 2025",
-    "date_it": "27 ottobre 2025",
-    "date_ru": "27 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "see eye _ __",
+    "today": "October 28th, 2025",
+    "date_fr": "28 octobre 2025",
+    "date_es": "28 de octubre de 2025",
+    "date_it": "28 ottobre 2025",
+    "date_ru": "28 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "October 16th",
         "date_fr": "16 octobre",
@@ -14,27 +14,27 @@
         "term": "snot"
     },
     "past_terms_2": {
+        "date": "October 17th",
+        "date_fr": "17 octobre",
+        "date_es": "17 de octubre",
+        "date_it": "17 ottobre",
+        "date_ru": "17 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "fluffy"
+    },
+    "past_terms_3": {
         "date": "October 18th",
         "date_fr": "18 octobre",
         "date_es": "18 de octubre",
         "date_it": "18 ottobre",
         "date_ru": "18 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "debunk"
-    },
-    "past_terms_3": {
-        "date": "October 24th",
-        "date_fr": "24 octobre",
-        "date_es": "24 de octubre",
-        "date_it": "24 ottobre",
-        "date_ru": "24 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "dead as a doornail"
+        "term": "jump on the bandwagon"
     },
     "past_terms_4": {
-        "date": "October 25th",
-        "date_fr": "25 octobre",
-        "date_es": "25 de octubre",
-        "date_it": "25 ottobre",
-        "date_ru": "25 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "on the safe side"
+        "date": "October 23rd",
+        "date_fr": "23 octobre",
+        "date_es": "23 de octubre",
+        "date_it": "23 ottobre",
+        "date_ru": "23 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "fill in the gaps"
     }
 }
