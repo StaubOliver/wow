@@ -1,17 +1,17 @@
 {
-    "expression": "burn the _______ __",
-    "today": "October 29th, 2025",
-    "date_fr": "29 octobre 2025",
-    "date_es": "29 de octubre de 2025",
-    "date_it": "29 ottobre 2025",
-    "date_ru": "29 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "cut to the ____",
+    "today": "October 30th, 2025",
+    "date_fr": "30 octobre 2025",
+    "date_es": "30 de octubre de 2025",
+    "date_it": "30 ottobre 2025",
+    "date_ru": "30 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "October 16th",
-        "date_fr": "16 octobre",
-        "date_es": "16 de octubre",
-        "date_it": "16 ottobre",
-        "date_ru": "16 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "snot"
+        "date": "October 20th",
+        "date_fr": "20 octobre",
+        "date_es": "20 de octubre",
+        "date_it": "20 ottobre",
+        "date_ru": "20 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "lessen"
     },
     "past_terms_2": {
         "date": "October 21st",
@@ -22,19 +22,19 @@
         "term": "allocate"
     },
     "past_terms_3": {
-        "date": "October 22nd",
-        "date_fr": "22 octobre",
-        "date_es": "22 de octubre",
-        "date_it": "22 ottobre",
-        "date_ru": "22 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "back to square one"
+        "date": "October 28th",
+        "date_fr": "28 octobre",
+        "date_es": "28 de octubre",
+        "date_it": "28 ottobre",
+        "date_ru": "28 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "see eye to eye"
     },
     "past_terms_4": {
-        "date": "October 23rd",
-        "date_fr": "23 octobre",
-        "date_es": "23 de octubre",
-        "date_it": "23 ottobre",
-        "date_ru": "23 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "fill in the gaps"
+        "date": "October 29th",
+        "date_fr": "29 octobre",
+        "date_es": "29 de octubre",
+        "date_it": "29 ottobre",
+        "date_ru": "29 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "burn the midnight oil"
     }
 }
