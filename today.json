@@ -1,10 +1,10 @@
 {
-    "expression": "cut to the ____",
-    "today": "October 30th, 2025",
-    "date_fr": "30 octobre 2025",
-    "date_es": "30 de octubre de 2025",
-    "date_it": "30 ottobre 2025",
-    "date_ru": "30 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "get under ___ ___",
+    "today": "October 31st, 2025",
+    "date_fr": "31 octobre 2025",
+    "date_es": "31 de octubre de 2025",
+    "date_it": "31 ottobre 2025",
+    "date_ru": "31 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "October 20th",
         "date_fr": "20 octobre",
@@ -14,27 +14,27 @@
         "term": "lessen"
     },
     "past_terms_2": {
-        "date": "October 21st",
-        "date_fr": "21 octobre",
-        "date_es": "21 de octubre",
-        "date_it": "21 ottobre",
-        "date_ru": "21 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "allocate"
+        "date": "October 22nd",
+        "date_fr": "22 octobre",
+        "date_es": "22 de octubre",
+        "date_it": "22 ottobre",
+        "date_ru": "22 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "dreadful"
     },
     "past_terms_3": {
-        "date": "October 28th",
-        "date_fr": "28 octobre",
-        "date_es": "28 de octubre",
-        "date_it": "28 ottobre",
-        "date_ru": "28 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "see eye to eye"
+        "date": "October 25th",
+        "date_fr": "25 octobre",
+        "date_es": "25 de octubre",
+        "date_it": "25 ottobre",
+        "date_ru": "25 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "on the safe side"
     },
     "past_terms_4": {
-        "date": "October 29th",
-        "date_fr": "29 octobre",
-        "date_es": "29 de octubre",
-        "date_it": "29 ottobre",
-        "date_ru": "29 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "burn the midnight oil"
+        "date": "October 26th",
+        "date_fr": "26 octobre",
+        "date_es": "26 de octubre",
+        "date_it": "26 ottobre",
+        "date_ru": "26 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "lesser of two evils"
     }
 }
