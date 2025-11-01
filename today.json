@@ -1,40 +1,40 @@
 {
-    "expression": "get under ___ ___",
-    "today": "October 31st, 2025",
-    "date_fr": "31 octobre 2025",
-    "date_es": "31 de octubre de 2025",
-    "date_it": "31 ottobre 2025",
-    "date_ru": "31 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "dress to __ ____",
+    "today": "November 1st, 2025",
+    "date_fr": "1er novembre 2025",
+    "date_es": "1 de noviembre de 2025",
+    "date_it": "1 novembre 2025",
+    "date_ru": "1 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "October 20th",
-        "date_fr": "20 octobre",
-        "date_es": "20 de octubre",
-        "date_it": "20 ottobre",
-        "date_ru": "20 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "lessen"
-    },
-    "past_terms_2": {
-        "date": "October 22nd",
-        "date_fr": "22 octobre",
-        "date_es": "22 de octubre",
-        "date_it": "22 ottobre",
-        "date_ru": "22 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "dreadful"
-    },
-    "past_terms_3": {
         "date": "October 25th",
         "date_fr": "25 octobre",
         "date_es": "25 de octubre",
         "date_it": "25 ottobre",
         "date_ru": "25 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "on the safe side"
+        "term": "sluggish"
     },
-    "past_terms_4": {
+    "past_terms_2": {
         "date": "October 26th",
         "date_fr": "26 octobre",
         "date_es": "26 de octubre",
         "date_it": "26 ottobre",
         "date_ru": "26 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "lesser of two evils"
+        "term": "shabby"
+    },
+    "past_terms_3": {
+        "date": "October 28th",
+        "date_fr": "28 octobre",
+        "date_es": "28 de octubre",
+        "date_it": "28 ottobre",
+        "date_ru": "28 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "see eye to eye"
+    },
+    "past_terms_4": {
+        "date": "October 31st",
+        "date_fr": "31 octobre",
+        "date_es": "31 de octubre",
+        "date_it": "31 ottobre",
+        "date_ru": "31 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "get under your skin"
     }
 }
