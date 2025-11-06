@@ -1,19 +1,11 @@
 {
-    "expression": "on a par ___",
-    "today": "November 5th, 2025",
-    "date_fr": "5 novembre 2025",
-    "date_es": "5 de noviembre de 2025",
-    "date_it": "5 novembre 2025",
-    "date_ru": "5 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "cut through __ ___",
+    "today": "November 6th, 2025",
+    "date_fr": "6 novembre 2025",
+    "date_es": "6 de noviembre de 2025",
+    "date_it": "6 novembre 2025",
+    "date_ru": "6 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "October 23rd",
-        "date_fr": "23 octobre",
-        "date_es": "23 de octubre",
-        "date_it": "23 ottobre",
-        "date_ru": "23 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "downpour"
-    },
-    "past_terms_2": {
         "date": "October 24th",
         "date_fr": "24 octobre",
         "date_es": "24 de octubre",
@@ -21,20 +13,28 @@
         "date_ru": "24 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
         "term": "twitchy"
     },
+    "past_terms_2": {
+        "date": "October 30th",
+        "date_fr": "30 octobre",
+        "date_es": "30 de octubre",
+        "date_it": "30 ottobre",
+        "date_ru": "30 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "pervasive"
+    },
     "past_terms_3": {
-        "date": "November 2nd",
-        "date_fr": "2 novembre",
-        "date_es": "2 de noviembre",
-        "date_it": "2 novembre",
-        "date_ru": "2 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "have a bearing on"
+        "date": "November 4th",
+        "date_fr": "4 novembre",
+        "date_es": "4 de noviembre",
+        "date_it": "4 novembre",
+        "date_ru": "4 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "live up to expectations"
     },
     "past_terms_4": {
-        "date": "November 3rd",
-        "date_fr": "3 novembre",
-        "date_es": "3 de noviembre",
-        "date_it": "3 novembre",
-        "date_ru": "3 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "roll with the punches"
+        "date": "November 5th",
+        "date_fr": "5 novembre",
+        "date_es": "5 de noviembre",
+        "date_it": "5 novembre",
+        "date_ru": "5 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "on a par with"
     }
 }
