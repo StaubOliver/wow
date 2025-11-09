@@ -1,10 +1,10 @@
 {
-    "expression": "to a lesser _____",
-    "today": "November 8th, 2025",
-    "date_fr": "8 novembre 2025",
-    "date_es": "8 de noviembre de 2025",
-    "date_it": "8 novembre 2025",
-    "date_ru": "8 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "put pen _ ____",
+    "today": "November 9th, 2025",
+    "date_fr": "9 novembre 2025",
+    "date_es": "9 de noviembre de 2025",
+    "date_it": "9 novembre 2025",
+    "date_ru": "9 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "October 29th",
         "date_fr": "29 octobre",
@@ -14,27 +14,27 @@
         "term": "coalesce"
     },
     "past_terms_2": {
-        "date": "October 31st",
-        "date_fr": "31 octobre",
-        "date_es": "31 de octubre",
-        "date_it": "31 ottobre",
-        "date_ru": "31 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "clubby"
+        "date": "November 4th",
+        "date_fr": "4 novembre",
+        "date_es": "4 de noviembre",
+        "date_it": "4 novembre",
+        "date_ru": "4 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "chivalry"
     },
     "past_terms_3": {
-        "date": "November 2nd",
-        "date_fr": "2 novembre",
-        "date_es": "2 de noviembre",
-        "date_it": "2 novembre",
-        "date_ru": "2 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "have a bearing on"
+        "date": "November 6th",
+        "date_fr": "6 novembre",
+        "date_es": "6 de noviembre",
+        "date_it": "6 novembre",
+        "date_ru": "6 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "cut through red tape"
     },
     "past_terms_4": {
-        "date": "November 5th",
-        "date_fr": "5 novembre",
-        "date_es": "5 de noviembre",
-        "date_it": "5 novembre",
-        "date_ru": "5 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "on a par with"
+        "date": "November 7th",
+        "date_fr": "7 novembre",
+        "date_es": "7 de noviembre",
+        "date_it": "7 novembre",
+        "date_ru": "7 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "stick to your guns"
     }
 }
