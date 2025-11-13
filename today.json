@@ -1,33 +1,33 @@
 {
-    "expression": "to hell __ ___",
-    "today": "November 12th, 2025",
-    "date_fr": "12 novembre 2025",
-    "date_es": "12 de noviembre de 2025",
-    "date_it": "12 novembre 2025",
-    "date_ru": "12 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "crux of __ _____",
+    "today": "November 13th, 2025",
+    "date_fr": "13 novembre 2025",
+    "date_es": "13 de noviembre de 2025",
+    "date_it": "13 novembre 2025",
+    "date_ru": "13 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
+        "date": "October 31st",
+        "date_fr": "31 octobre",
+        "date_es": "31 de octubre",
+        "date_it": "31 ottobre",
+        "date_ru": "31 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "clubby"
+    },
+    "past_terms_2": {
+        "date": "November 2nd",
+        "date_fr": "2 novembre",
+        "date_es": "2 de noviembre",
+        "date_it": "2 novembre",
+        "date_ru": "2 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "loathe"
+    },
+    "past_terms_3": {
         "date": "November 4th",
         "date_fr": "4 novembre",
         "date_es": "4 de noviembre",
         "date_it": "4 novembre",
         "date_ru": "4 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "chivalry"
-    },
-    "past_terms_2": {
-        "date": "November 7th",
-        "date_fr": "7 novembre",
-        "date_es": "7 de noviembre",
-        "date_it": "7 novembre",
-        "date_ru": "7 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "tenet"
-    },
-    "past_terms_3": {
-        "date": "November 8th",
-        "date_fr": "8 novembre",
-        "date_es": "8 de noviembre",
-        "date_it": "8 novembre",
-        "date_ru": "8 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "to a lesser degree"
+        "term": "live up to expectations"
     },
     "past_terms_4": {
         "date": "November 10th",
