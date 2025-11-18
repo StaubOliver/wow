@@ -1,40 +1,40 @@
 {
-    "expression": "cream of __ ___",
-    "today": "November 17th, 2025",
-    "date_fr": "17 novembre 2025",
-    "date_es": "17 de noviembre de 2025",
-    "date_it": "17 novembre 2025",
-    "date_ru": "17 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "on the home ______",
+    "today": "November 18th, 2025",
+    "date_fr": "18 novembre 2025",
+    "date_es": "18 de noviembre de 2025",
+    "date_it": "18 novembre 2025",
+    "date_ru": "18 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "November 5th",
-        "date_fr": "5 novembre",
-        "date_es": "5 de noviembre",
-        "date_it": "5 novembre",
-        "date_ru": "5 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "boisterous"
+        "date": "November 8th",
+        "date_fr": "8 novembre",
+        "date_es": "8 de noviembre",
+        "date_it": "8 novembre",
+        "date_ru": "8 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "provost"
     },
     "past_terms_2": {
+        "date": "November 9th",
+        "date_fr": "9 novembre",
+        "date_es": "9 de noviembre",
+        "date_it": "9 novembre",
+        "date_ru": "9 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "charade"
+    },
+    "past_terms_3": {
+        "date": "November 11th",
+        "date_fr": "11 novembre",
+        "date_es": "11 de noviembre",
+        "date_it": "11 novembre",
+        "date_ru": "11 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "in the grips of"
+    },
+    "past_terms_4": {
         "date": "November 12th",
         "date_fr": "12 novembre",
         "date_es": "12 de noviembre",
         "date_it": "12 novembre",
         "date_ru": "12 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "broomstick"
-    },
-    "past_terms_3": {
-        "date": "November 14th",
-        "date_fr": "14 novembre",
-        "date_es": "14 de noviembre",
-        "date_it": "14 novembre",
-        "date_ru": "14 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "fly off the shelves"
-    },
-    "past_terms_4": {
-        "date": "November 16th",
-        "date_fr": "16 novembre",
-        "date_es": "16 de noviembre",
-        "date_it": "16 novembre",
-        "date_ru": "16 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "spin out of control"
+        "term": "to hell and back"
     }
 }
