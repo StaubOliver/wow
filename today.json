@@ -1,10 +1,10 @@
 {
-    "expression": "rotten to __ ___",
-    "today": "November 20th, 2025",
-    "date_fr": "20 novembre 2025",
-    "date_es": "20 de noviembre de 2025",
-    "date_it": "20 novembre 2025",
-    "date_ru": "20 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "match made _ _____",
+    "today": "November 21st, 2025",
+    "date_fr": "21 novembre 2025",
+    "date_es": "21 de noviembre de 2025",
+    "date_it": "21 novembre 2025",
+    "date_ru": "21 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "November 8th",
         "date_fr": "8 novembre",
@@ -14,27 +14,27 @@
         "term": "provost"
     },
     "past_terms_2": {
+        "date": "November 11th",
+        "date_fr": "11 novembre",
+        "date_es": "11 de noviembre",
+        "date_it": "11 novembre",
+        "date_ru": "11 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "ordeal"
+    },
+    "past_terms_3": {
         "date": "November 14th",
         "date_fr": "14 novembre",
         "date_es": "14 de noviembre",
         "date_it": "14 novembre",
         "date_ru": "14 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "seclusion"
-    },
-    "past_terms_3": {
-        "date": "November 15th",
-        "date_fr": "15 novembre",
-        "date_es": "15 de noviembre",
-        "date_it": "15 novembre",
-        "date_ru": "15 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "lamb to the slaughter"
+        "term": "fly off the shelves"
     },
     "past_terms_4": {
-        "date": "November 19th",
-        "date_fr": "19 novembre",
-        "date_es": "19 de noviembre",
-        "date_it": "19 novembre",
-        "date_ru": "19 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "set the bar high"
+        "date": "November 17th",
+        "date_fr": "17 novembre",
+        "date_es": "17 de noviembre",
+        "date_it": "17 novembre",
+        "date_ru": "17 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "cream of the crop"
     }
 }
