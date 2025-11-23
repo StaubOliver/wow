@@ -1,40 +1,40 @@
 {
-    "expression": "wipe the ____ ____",
-    "today": "November 22nd, 2025",
-    "date_fr": "22 novembre 2025",
-    "date_es": "22 de noviembre de 2025",
-    "date_it": "22 novembre 2025",
-    "date_ru": "22 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "with a heavy ____",
+    "today": "November 23rd, 2025",
+    "date_fr": "23 novembre 2025",
+    "date_es": "23 de noviembre de 2025",
+    "date_it": "23 novembre 2025",
+    "date_ru": "23 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "November 9th",
-        "date_fr": "9 novembre",
-        "date_es": "9 de noviembre",
-        "date_it": "9 novembre",
-        "date_ru": "9 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "charade"
+        "date": "November 10th",
+        "date_fr": "10 novembre",
+        "date_es": "10 de noviembre",
+        "date_it": "10 novembre",
+        "date_ru": "10 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "prickly"
     },
     "past_terms_2": {
+        "date": "November 11th",
+        "date_fr": "11 novembre",
+        "date_es": "11 de noviembre",
+        "date_it": "11 novembre",
+        "date_ru": "11 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "ordeal"
+    },
+    "past_terms_3": {
         "date": "November 12th",
         "date_fr": "12 novembre",
         "date_es": "12 de noviembre",
         "date_it": "12 novembre",
         "date_ru": "12 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "broomstick"
-    },
-    "past_terms_3": {
-        "date": "November 17th",
-        "date_fr": "17 novembre",
-        "date_es": "17 de noviembre",
-        "date_it": "17 novembre",
-        "date_ru": "17 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "cream of the crop"
+        "term": "to hell and back"
     },
     "past_terms_4": {
-        "date": "November 18th",
-        "date_fr": "18 novembre",
-        "date_es": "18 de noviembre",
-        "date_it": "18 novembre",
-        "date_ru": "18 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "on the home stretch"
+        "date": "November 15th",
+        "date_fr": "15 novembre",
+        "date_es": "15 de noviembre",
+        "date_it": "15 novembre",
+        "date_ru": "15 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "lamb to the slaughter"
     }
 }
