@@ -1,40 +1,40 @@
 {
-    "expression": "drone _",
-    "today": "November 29th, 2025",
-    "date_fr": "29 novembre 2025",
-    "date_es": "29 de noviembre de 2025",
-    "date_it": "29 novembre 2025",
-    "date_ru": "29 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "goof _____",
+    "today": "November 30th, 2025",
+    "date_fr": "30 novembre 2025",
+    "date_es": "30 de noviembre de 2025",
+    "date_it": "30 novembre 2025",
+    "date_ru": "30 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "November 16th",
-        "date_fr": "16 novembre",
-        "date_es": "16 de noviembre",
-        "date_it": "16 novembre",
-        "date_ru": "16 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "overrule"
+        "date": "November 18th",
+        "date_fr": "18 novembre",
+        "date_es": "18 de noviembre",
+        "date_it": "18 novembre",
+        "date_ru": "18 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "gibberish"
     },
     "past_terms_2": {
-        "date": "November 24th",
-        "date_fr": "24 novembre",
-        "date_es": "24 de noviembre",
-        "date_it": "24 novembre",
-        "date_ru": "24 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "nitpick"
+        "date": "November 19th",
+        "date_fr": "19 novembre",
+        "date_es": "19 de noviembre",
+        "date_it": "19 novembre",
+        "date_ru": "19 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "swiftly"
     },
     "past_terms_3": {
-        "date": "November 26th",
-        "date_fr": "26 novembre",
-        "date_es": "26 de noviembre",
-        "date_it": "26 novembre",
-        "date_ru": "26 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "through thick and thin"
+        "date": "November 20th",
+        "date_fr": "20 novembre",
+        "date_es": "20 de noviembre",
+        "date_it": "20 novembre",
+        "date_ru": "20 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "rotten to the core"
     },
     "past_terms_4": {
-        "date": "November 27th",
-        "date_fr": "27 novembre",
-        "date_es": "27 de noviembre",
-        "date_it": "27 novembre",
-        "date_ru": "27 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "get down to business"
+        "date": "November 25th",
+        "date_fr": "25 novembre",
+        "date_es": "25 de noviembre",
+        "date_it": "25 novembre",
+        "date_ru": "25 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "joined at the hip"
     }
 }
