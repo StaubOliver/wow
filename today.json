@@ -1,40 +1,40 @@
 {
-    "expression": "fall __",
-    "today": "December 3rd, 2025",
-    "date_fr": "3 d\u00e9cembre 2025",
-    "date_es": "3 de diciembre de 2025",
-    "date_it": "3 dicembre 2025",
-    "date_ru": "3 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "leap ___",
+    "today": "December 4th, 2025",
+    "date_fr": "4 d\u00e9cembre 2025",
+    "date_es": "4 de diciembre de 2025",
+    "date_it": "4 dicembre 2025",
+    "date_ru": "4 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "November 20th",
-        "date_fr": "20 novembre",
-        "date_es": "20 de noviembre",
-        "date_it": "20 novembre",
-        "date_ru": "20 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "standoffish"
+        "date": "November 22nd",
+        "date_fr": "22 novembre",
+        "date_es": "22 de noviembre",
+        "date_it": "22 novembre",
+        "date_ru": "22 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "woe"
     },
     "past_terms_2": {
-        "date": "November 21st",
-        "date_fr": "21 novembre",
-        "date_es": "21 de noviembre",
-        "date_it": "21 novembre",
-        "date_ru": "21 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "nitty-gritty"
+        "date": "November 26th",
+        "date_fr": "26 novembre",
+        "date_es": "26 de noviembre",
+        "date_it": "26 novembre",
+        "date_ru": "26 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "sparkler"
     },
     "past_terms_3": {
-        "date": "November 29th",
-        "date_fr": "29 novembre",
-        "date_es": "29 de noviembre",
-        "date_it": "29 novembre",
-        "date_ru": "29 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "drone on"
+        "date": "November 28th",
+        "date_fr": "28 novembre",
+        "date_es": "28 de noviembre",
+        "date_it": "28 novembre",
+        "date_ru": "28 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "work wonders"
     },
     "past_terms_4": {
-        "date": "November 30th",
-        "date_fr": "30 novembre",
-        "date_es": "30 de noviembre",
-        "date_it": "30 novembre",
-        "date_ru": "30 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "goof around"
+        "date": "December 3rd",
+        "date_fr": "3 d\u00e9cembre",
+        "date_es": "3 de diciembre",
+        "date_it": "3 dicembre",
+        "date_ru": "3 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "fall due"
     }
 }
