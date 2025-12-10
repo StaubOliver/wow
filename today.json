@@ -1,19 +1,11 @@
 {
-    "expression": "thorny ____",
-    "today": "December 9th, 2025",
-    "date_fr": "9 d\u00e9cembre 2025",
-    "date_es": "9 de diciembre de 2025",
-    "date_it": "9 dicembre 2025",
-    "date_ru": "9 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "petting __",
+    "today": "December 10th, 2025",
+    "date_fr": "10 d\u00e9cembre 2025",
+    "date_es": "10 de diciembre de 2025",
+    "date_it": "10 dicembre 2025",
+    "date_ru": "10 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "November 26th",
-        "date_fr": "26 novembre",
-        "date_es": "26 de noviembre",
-        "date_it": "26 novembre",
-        "date_ru": "26 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "sparkler"
-    },
-    "past_terms_2": {
         "date": "November 27th",
         "date_fr": "27 novembre",
         "date_es": "27 de noviembre",
@@ -21,20 +13,28 @@
         "date_ru": "27 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
         "term": "buzzword"
     },
-    "past_terms_3": {
+    "past_terms_2": {
         "date": "November 28th",
         "date_fr": "28 novembre",
         "date_es": "28 de noviembre",
         "date_it": "28 novembre",
         "date_ru": "28 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "work wonders"
+        "term": "whistleblower"
+    },
+    "past_terms_3": {
+        "date": "November 30th",
+        "date_fr": "30 novembre",
+        "date_es": "30 de noviembre",
+        "date_it": "30 novembre",
+        "date_ru": "30 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
+        "term": "goof around"
     },
     "past_terms_4": {
-        "date": "November 29th",
-        "date_fr": "29 novembre",
-        "date_es": "29 de noviembre",
-        "date_it": "29 novembre",
-        "date_ru": "29 \u043d\u043e\u044f\u0431\u0440\u044f 2025 \u0433.",
-        "term": "drone on"
+        "date": "December 6th",
+        "date_fr": "6 d\u00e9cembre",
+        "date_es": "6 de diciembre",
+        "date_it": "6 dicembre",
+        "date_ru": "6 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "teacher's pet"
     }
 }
