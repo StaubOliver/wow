@@ -1,10 +1,10 @@
 {
-    "expression": "gut _______",
-    "today": "December 12th, 2025",
-    "date_fr": "12 d\u00e9cembre 2025",
-    "date_es": "12 de diciembre de 2025",
-    "date_it": "12 dicembre 2025",
-    "date_ru": "12 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "drift ____",
+    "today": "December 13th, 2025",
+    "date_fr": "13 d\u00e9cembre 2025",
+    "date_es": "13 de diciembre de 2025",
+    "date_it": "13 dicembre 2025",
+    "date_ru": "13 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
         "date": "November 30th",
         "date_fr": "30 novembre",
@@ -14,27 +14,27 @@
         "term": "severance"
     },
     "past_terms_2": {
-        "date": "December 1st",
-        "date_fr": "1er d\u00e9cembre",
-        "date_es": "1 de diciembre",
-        "date_it": "1 dicembre",
-        "date_ru": "1 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "hitchhike"
+        "date": "December 5th",
+        "date_fr": "5 d\u00e9cembre",
+        "date_es": "5 de diciembre",
+        "date_it": "5 dicembre",
+        "date_ru": "5 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "halfheartedly"
     },
     "past_terms_3": {
-        "date": "December 3rd",
-        "date_fr": "3 d\u00e9cembre",
-        "date_es": "3 de diciembre",
-        "date_it": "3 dicembre",
-        "date_ru": "3 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "fall due"
+        "date": "December 9th",
+        "date_fr": "9 d\u00e9cembre",
+        "date_es": "9 de diciembre",
+        "date_it": "9 dicembre",
+        "date_ru": "9 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "thorny issue"
     },
     "past_terms_4": {
-        "date": "December 6th",
-        "date_fr": "6 d\u00e9cembre",
-        "date_es": "6 de diciembre",
-        "date_it": "6 dicembre",
-        "date_ru": "6 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "teacher's pet"
+        "date": "December 11th",
+        "date_fr": "11 d\u00e9cembre",
+        "date_es": "11 de diciembre",
+        "date_it": "11 dicembre",
+        "date_ru": "11 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "cap off"
     }
 }
