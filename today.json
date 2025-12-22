@@ -1,17 +1,17 @@
 {
-    "expression": "come ____",
-    "today": "December 21st, 2025",
-    "date_fr": "21 d\u00e9cembre 2025",
-    "date_es": "21 de diciembre de 2025",
-    "date_it": "21 dicembre 2025",
-    "date_ru": "21 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "filthy ___",
+    "today": "December 22nd, 2025",
+    "date_fr": "22 d\u00e9cembre 2025",
+    "date_es": "22 de diciembre de 2025",
+    "date_it": "22 dicembre 2025",
+    "date_ru": "22 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "December 8th",
-        "date_fr": "8 d\u00e9cembre",
-        "date_es": "8 de diciembre",
-        "date_it": "8 dicembre",
-        "date_ru": "8 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "wiggly"
+        "date": "December 13th",
+        "date_fr": "13 d\u00e9cembre",
+        "date_es": "13 de diciembre",
+        "date_it": "13 dicembre",
+        "date_ru": "13 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "swollen"
     },
     "past_terms_2": {
         "date": "December 14th",
@@ -22,19 +22,19 @@
         "term": "across-the-board"
     },
     "past_terms_3": {
+        "date": "December 15th",
+        "date_fr": "15 d\u00e9cembre",
+        "date_es": "15 de diciembre",
+        "date_it": "15 dicembre",
+        "date_ru": "15 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "monkey business"
+    },
+    "past_terms_4": {
         "date": "December 19th",
         "date_fr": "19 d\u00e9cembre",
         "date_es": "19 de diciembre",
         "date_it": "19 dicembre",
         "date_ru": "19 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
         "term": "work miracles"
-    },
-    "past_terms_4": {
-        "date": "December 20th",
-        "date_fr": "20 d\u00e9cembre",
-        "date_es": "20 de diciembre",
-        "date_it": "20 dicembre",
-        "date_ru": "20 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "career ladder"
     }
 }
