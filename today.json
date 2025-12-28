@@ -1,25 +1,25 @@
 {
-    "expression": "go _____",
-    "today": "December 27th, 2025",
-    "date_fr": "27 d\u00e9cembre 2025",
-    "date_es": "27 de diciembre de 2025",
-    "date_it": "27 dicembre 2025",
-    "date_ru": "27 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "soaking __",
+    "today": "December 28th, 2025",
+    "date_fr": "28 d\u00e9cembre 2025",
+    "date_es": "28 de diciembre de 2025",
+    "date_it": "28 dicembre 2025",
+    "date_ru": "28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "December 14th",
-        "date_fr": "14 d\u00e9cembre",
-        "date_es": "14 de diciembre",
-        "date_it": "14 dicembre",
-        "date_ru": "14 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "across-the-board"
+        "date": "December 15th",
+        "date_fr": "15 d\u00e9cembre",
+        "date_es": "15 de diciembre",
+        "date_it": "15 dicembre",
+        "date_ru": "15 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "misstep"
     },
     "past_terms_2": {
-        "date": "December 16th",
-        "date_fr": "16 d\u00e9cembre",
-        "date_es": "16 de diciembre",
-        "date_it": "16 dicembre",
-        "date_ru": "16 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "unwind"
+        "date": "December 18th",
+        "date_fr": "18 d\u00e9cembre",
+        "date_es": "18 de diciembre",
+        "date_it": "18 dicembre",
+        "date_ru": "18 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "almighty"
     },
     "past_terms_3": {
         "date": "December 21st",
@@ -30,11 +30,11 @@
         "term": "come clean"
     },
     "past_terms_4": {
-        "date": "December 24th",
-        "date_fr": "24 d\u00e9cembre",
-        "date_es": "24 de diciembre",
-        "date_it": "24 dicembre",
-        "date_ru": "24 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "kindred spirit"
+        "date": "December 25th",
+        "date_fr": "25 d\u00e9cembre",
+        "date_es": "25 de diciembre",
+        "date_it": "25 dicembre",
+        "date_ru": "25 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "sitting duck"
     }
 }
