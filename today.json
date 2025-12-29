@@ -1,40 +1,40 @@
 {
-    "expression": "soaking __",
-    "today": "December 28th, 2025",
-    "date_fr": "28 d\u00e9cembre 2025",
-    "date_es": "28 de diciembre de 2025",
-    "date_it": "28 dicembre 2025",
-    "date_ru": "28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "tone ___",
+    "today": "December 29th, 2025",
+    "date_fr": "29 d\u00e9cembre 2025",
+    "date_es": "29 de diciembre de 2025",
+    "date_it": "29 dicembre 2025",
+    "date_ru": "29 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "December 15th",
-        "date_fr": "15 d\u00e9cembre",
-        "date_es": "15 de diciembre",
-        "date_it": "15 dicembre",
-        "date_ru": "15 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "misstep"
+        "date": "December 16th",
+        "date_fr": "16 d\u00e9cembre",
+        "date_es": "16 de diciembre",
+        "date_it": "16 dicembre",
+        "date_ru": "16 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "unwind"
     },
     "past_terms_2": {
-        "date": "December 18th",
-        "date_fr": "18 d\u00e9cembre",
-        "date_es": "18 de diciembre",
-        "date_it": "18 dicembre",
-        "date_ru": "18 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "almighty"
+        "date": "December 17th",
+        "date_fr": "17 d\u00e9cembre",
+        "date_es": "17 de diciembre",
+        "date_it": "17 dicembre",
+        "date_ru": "17 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "preclude"
     },
     "past_terms_3": {
-        "date": "December 21st",
-        "date_fr": "21 d\u00e9cembre",
-        "date_es": "21 de diciembre",
-        "date_it": "21 dicembre",
-        "date_ru": "21 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "come clean"
+        "date": "December 20th",
+        "date_fr": "20 d\u00e9cembre",
+        "date_es": "20 de diciembre",
+        "date_it": "20 dicembre",
+        "date_ru": "20 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "career ladder"
     },
     "past_terms_4": {
-        "date": "December 25th",
-        "date_fr": "25 d\u00e9cembre",
-        "date_es": "25 de diciembre",
-        "date_it": "25 dicembre",
-        "date_ru": "25 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "sitting duck"
+        "date": "December 23rd",
+        "date_fr": "23 d\u00e9cembre",
+        "date_es": "23 de diciembre",
+        "date_it": "23 dicembre",
+        "date_ru": "23 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "hollow out"
     }
 }
