@@ -1,40 +1,40 @@
 {
-    "expression": "tone ___",
-    "today": "December 29th, 2025",
-    "date_fr": "29 d\u00e9cembre 2025",
-    "date_es": "29 de diciembre de 2025",
-    "date_it": "29 dicembre 2025",
-    "date_ru": "29 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+    "expression": "run ______",
+    "today": "December 30th, 2025",
+    "date_fr": "30 d\u00e9cembre 2025",
+    "date_es": "30 de diciembre de 2025",
+    "date_it": "30 dicembre 2025",
+    "date_ru": "30 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
     "past_terms_1": {
-        "date": "December 16th",
-        "date_fr": "16 d\u00e9cembre",
-        "date_es": "16 de diciembre",
-        "date_it": "16 dicembre",
-        "date_ru": "16 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "unwind"
+        "date": "December 22nd",
+        "date_fr": "22 d\u00e9cembre",
+        "date_es": "22 de diciembre",
+        "date_it": "22 dicembre",
+        "date_ru": "22 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "applicant"
     },
     "past_terms_2": {
-        "date": "December 17th",
-        "date_fr": "17 d\u00e9cembre",
-        "date_es": "17 de diciembre",
-        "date_it": "17 dicembre",
-        "date_ru": "17 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "preclude"
-    },
-    "past_terms_3": {
-        "date": "December 20th",
-        "date_fr": "20 d\u00e9cembre",
-        "date_es": "20 de diciembre",
-        "date_it": "20 dicembre",
-        "date_ru": "20 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "career ladder"
-    },
-    "past_terms_4": {
         "date": "December 23rd",
         "date_fr": "23 d\u00e9cembre",
         "date_es": "23 de diciembre",
         "date_it": "23 dicembre",
         "date_ru": "23 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "hollow out"
+        "term": "misplace"
+    },
+    "past_terms_3": {
+        "date": "December 26th",
+        "date_fr": "26 d\u00e9cembre",
+        "date_es": "26 de diciembre",
+        "date_it": "26 dicembre",
+        "date_ru": "26 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "helping hand"
+    },
+    "past_terms_4": {
+        "date": "December 28th",
+        "date_fr": "28 d\u00e9cembre",
+        "date_es": "28 de diciembre",
+        "date_it": "28 dicembre",
+        "date_ru": "28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "soaking wet"
     }
 }
