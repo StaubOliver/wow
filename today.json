@@ -1,10 +1,10 @@
 {
-    "expression": "drone _",
-    "today": "January 2nd, 2026",
-    "date_fr": "2 janvier 2026",
-    "date_es": "2 de enero de 2026",
-    "date_it": "2 gennaio 2026",
-    "date_ru": "2 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "goof _____",
+    "today": "January 3rd, 2026",
+    "date_fr": "3 janvier 2026",
+    "date_es": "3 de enero de 2026",
+    "date_it": "3 gennaio 2026",
+    "date_ru": "3 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "December 23rd",
         "date_fr": "23 d\u00e9cembre",
@@ -14,27 +14,27 @@
         "term": "misplace"
     },
     "past_terms_2": {
-        "date": "December 25th",
-        "date_fr": "25 d\u00e9cembre",
-        "date_es": "25 de diciembre",
-        "date_it": "25 dicembre",
-        "date_ru": "25 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "clueless"
-    },
-    "past_terms_3": {
-        "date": "December 27th",
-        "date_fr": "27 d\u00e9cembre",
-        "date_es": "27 de diciembre",
-        "date_it": "27 dicembre",
-        "date_ru": "27 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "go astray"
-    },
-    "past_terms_4": {
         "date": "December 28th",
         "date_fr": "28 d\u00e9cembre",
         "date_es": "28 de diciembre",
         "date_it": "28 dicembre",
         "date_ru": "28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "soaking wet"
+        "term": "top-notch"
+    },
+    "past_terms_3": {
+        "date": "December 30th",
+        "date_fr": "30 d\u00e9cembre",
+        "date_es": "30 de diciembre",
+        "date_it": "30 dicembre",
+        "date_ru": "30 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "run rampant"
+    },
+    "past_terms_4": {
+        "date": "January 2nd",
+        "date_fr": "2 janvier",
+        "date_es": "2 de enero",
+        "date_it": "2 gennaio",
+        "date_ru": "2 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "drone on"
     }
 }
