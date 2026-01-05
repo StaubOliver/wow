@@ -1,17 +1,17 @@
 {
-    "expression": "push _____",
-    "today": "January 4th, 2026",
-    "date_fr": "4 janvier 2026",
-    "date_es": "4 de enero de 2026",
-    "date_it": "4 gennaio 2026",
-    "date_ru": "4 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "sickly ____",
+    "today": "January 5th, 2026",
+    "date_fr": "5 janvier 2026",
+    "date_es": "5 de enero de 2026",
+    "date_it": "5 gennaio 2026",
+    "date_ru": "5 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "December 24th",
-        "date_fr": "24 d\u00e9cembre",
-        "date_es": "24 de diciembre",
-        "date_it": "24 dicembre",
-        "date_ru": "24 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "referral"
+        "date": "December 23rd",
+        "date_fr": "23 d\u00e9cembre",
+        "date_es": "23 de diciembre",
+        "date_it": "23 dicembre",
+        "date_ru": "23 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "misplace"
     },
     "past_terms_2": {
         "date": "December 26th",
@@ -22,19 +22,19 @@
         "term": "coerce"
     },
     "past_terms_3": {
-        "date": "December 28th",
-        "date_fr": "28 d\u00e9cembre",
-        "date_es": "28 de diciembre",
-        "date_it": "28 dicembre",
-        "date_ru": "28 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "soaking wet"
+        "date": "December 29th",
+        "date_fr": "29 d\u00e9cembre",
+        "date_es": "29 de diciembre",
+        "date_it": "29 dicembre",
+        "date_ru": "29 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "tone down"
     },
     "past_terms_4": {
-        "date": "January 3rd",
-        "date_fr": "3 janvier",
-        "date_es": "3 de enero",
-        "date_it": "3 gennaio",
-        "date_ru": "3 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "goof around"
+        "date": "December 31st",
+        "date_fr": "31 d\u00e9cembre",
+        "date_es": "31 de diciembre",
+        "date_it": "31 dicembre",
+        "date_ru": "31 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "serve notice"
     }
 }
