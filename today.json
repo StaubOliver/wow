@@ -1,17 +1,17 @@
 {
-    "expression": "dwindle ___",
-    "today": "January 11th, 2026",
-    "date_fr": "11 janvier 2026",
-    "date_es": "11 de enero de 2026",
-    "date_it": "11 gennaio 2026",
-    "date_ru": "11 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "thorny ____",
+    "today": "January 12th, 2026",
+    "date_fr": "12 janvier 2026",
+    "date_es": "12 de enero de 2026",
+    "date_it": "12 gennaio 2026",
+    "date_ru": "12 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "December 31st",
-        "date_fr": "31 d\u00e9cembre",
-        "date_es": "31 de diciembre",
-        "date_it": "31 dicembre",
-        "date_ru": "31 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
-        "term": "knead"
+        "date": "December 30th",
+        "date_fr": "30 d\u00e9cembre",
+        "date_es": "30 de diciembre",
+        "date_it": "30 dicembre",
+        "date_ru": "30 \u0434\u0435\u043a\u0430\u0431\u0440\u044f 2025 \u0433.",
+        "term": "reap"
     },
     "past_terms_2": {
         "date": "January 1st",
@@ -22,19 +22,19 @@
         "term": "loath"
     },
     "past_terms_3": {
-        "date": "January 9th",
-        "date_fr": "9 janvier",
-        "date_es": "9 de enero",
-        "date_it": "9 gennaio",
-        "date_ru": "9 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "teacher's pet"
+        "date": "January 7th",
+        "date_fr": "7 janvier",
+        "date_es": "7 de enero",
+        "date_it": "7 gennaio",
+        "date_ru": "7 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "leap year"
     },
     "past_terms_4": {
-        "date": "January 10th",
-        "date_fr": "10 janvier",
-        "date_es": "10 de enero",
-        "date_it": "10 gennaio",
-        "date_ru": "10 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "creep down"
+        "date": "January 11th",
+        "date_fr": "11 janvier",
+        "date_es": "11 de enero",
+        "date_it": "11 gennaio",
+        "date_ru": "11 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "dwindle away"
     }
 }
