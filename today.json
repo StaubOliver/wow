@@ -1,10 +1,10 @@
 {
-    "expression": "cap __",
-    "today": "January 14th, 2026",
-    "date_fr": "14 janvier 2026",
-    "date_es": "14 de enero de 2026",
-    "date_it": "14 gennaio 2026",
-    "date_ru": "14 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "gut _______",
+    "today": "January 15th, 2026",
+    "date_fr": "15 janvier 2026",
+    "date_es": "15 de enero de 2026",
+    "date_it": "15 gennaio 2026",
+    "date_ru": "15 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "January 5th",
         "date_fr": "5 janvier",
@@ -14,27 +14,27 @@
         "term": "swollen"
     },
     "past_terms_2": {
+        "date": "January 6th",
+        "date_fr": "6 janvier",
+        "date_es": "6 de enero",
+        "date_it": "6 gennaio",
+        "date_ru": "6 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "across-the-board"
+    },
+    "past_terms_3": {
+        "date": "January 9th",
+        "date_fr": "9 janvier",
+        "date_es": "9 de enero",
+        "date_it": "9 gennaio",
+        "date_ru": "9 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "teacher's pet"
+    },
+    "past_terms_4": {
         "date": "January 10th",
         "date_fr": "10 janvier",
         "date_es": "10 de enero",
         "date_it": "10 gennaio",
         "date_ru": "10 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "almighty"
-    },
-    "past_terms_3": {
-        "date": "January 11th",
-        "date_fr": "11 janvier",
-        "date_es": "11 de enero",
-        "date_it": "11 gennaio",
-        "date_ru": "11 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "dwindle away"
-    },
-    "past_terms_4": {
-        "date": "January 12th",
-        "date_fr": "12 janvier",
-        "date_es": "12 de enero",
-        "date_it": "12 gennaio",
-        "date_ru": "12 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "thorny issue"
+        "term": "creep down"
     }
 }
