@@ -1,40 +1,40 @@
 {
-    "expression": "pull ______",
-    "today": "January 17th, 2026",
-    "date_fr": "17 janvier 2026",
-    "date_es": "17 de enero de 2026",
-    "date_it": "17 gennaio 2026",
-    "date_ru": "17 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "monkey _______",
+    "today": "January 18th, 2026",
+    "date_fr": "18 janvier 2026",
+    "date_es": "18 de enero de 2026",
+    "date_it": "18 gennaio 2026",
+    "date_ru": "18 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 5th",
-        "date_fr": "5 janvier",
-        "date_es": "5 de enero",
-        "date_it": "5 gennaio",
-        "date_ru": "5 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "swollen"
+        "date": "January 6th",
+        "date_fr": "6 janvier",
+        "date_es": "6 de enero",
+        "date_it": "6 gennaio",
+        "date_ru": "6 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "across-the-board"
     },
     "past_terms_2": {
+        "date": "January 7th",
+        "date_fr": "7 janvier",
+        "date_es": "7 de enero",
+        "date_it": "7 gennaio",
+        "date_ru": "7 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "misstep"
+    },
+    "past_terms_3": {
         "date": "January 8th",
         "date_fr": "8 janvier",
         "date_es": "8 de enero",
         "date_it": "8 gennaio",
         "date_ru": "8 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "unwind"
+        "term": "calculated risk"
     },
-    "past_terms_3": {
+    "past_terms_4": {
         "date": "January 12th",
         "date_fr": "12 janvier",
         "date_es": "12 de enero",
         "date_it": "12 gennaio",
         "date_ru": "12 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
         "term": "thorny issue"
-    },
-    "past_terms_4": {
-        "date": "January 16th",
-        "date_fr": "16 janvier",
-        "date_es": "16 de enero",
-        "date_it": "16 gennaio",
-        "date_ru": "16 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "drift apart"
     }
 }
