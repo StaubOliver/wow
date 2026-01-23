@@ -1,19 +1,11 @@
 {
-    "expression": "work _______",
-    "today": "January 22nd, 2026",
-    "date_fr": "22 janvier 2026",
-    "date_es": "22 de enero de 2026",
-    "date_it": "22 gennaio 2026",
-    "date_ru": "22 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "career _____",
+    "today": "January 23rd, 2026",
+    "date_fr": "23 janvier 2026",
+    "date_es": "23 de enero de 2026",
+    "date_it": "23 gennaio 2026",
+    "date_ru": "23 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 9th",
-        "date_fr": "9 janvier",
-        "date_es": "9 de enero",
-        "date_it": "9 gennaio",
-        "date_ru": "9 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "preclude"
-    },
-    "past_terms_2": {
         "date": "January 14th",
         "date_fr": "14 janvier",
         "date_es": "14 de enero",
@@ -21,20 +13,28 @@
         "date_ru": "14 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
         "term": "applicant"
     },
-    "past_terms_3": {
+    "past_terms_2": {
         "date": "January 15th",
         "date_fr": "15 janvier",
         "date_es": "15 de enero",
         "date_it": "15 gennaio",
         "date_ru": "15 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "gut reaction"
+        "term": "misplace"
     },
-    "past_terms_4": {
+    "past_terms_3": {
         "date": "January 20th",
         "date_fr": "20 janvier",
         "date_es": "20 de enero",
         "date_it": "20 gennaio",
         "date_ru": "20 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
         "term": "herding cats"
+    },
+    "past_terms_4": {
+        "date": "January 21st",
+        "date_fr": "21 janvier",
+        "date_es": "21 de enero",
+        "date_it": "21 gennaio",
+        "date_ru": "21 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "pep talk"
     }
 }
