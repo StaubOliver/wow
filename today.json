@@ -1,40 +1,40 @@
 {
-    "expression": "come ____",
-    "today": "January 24th, 2026",
-    "date_fr": "24 janvier 2026",
-    "date_es": "24 de enero de 2026",
-    "date_it": "24 gennaio 2026",
-    "date_ru": "24 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "filthy ___",
+    "today": "January 25th, 2026",
+    "date_fr": "25 janvier 2026",
+    "date_es": "25 de enero de 2026",
+    "date_it": "25 gennaio 2026",
+    "date_ru": "25 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 16th",
-        "date_fr": "16 janvier",
-        "date_es": "16 de enero",
-        "date_it": "16 gennaio",
-        "date_ru": "16 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "referral"
+        "date": "January 12th",
+        "date_fr": "12 janvier",
+        "date_es": "12 de enero",
+        "date_it": "12 gennaio",
+        "date_ru": "12 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "payback"
     },
     "past_terms_2": {
-        "date": "January 19th",
-        "date_fr": "19 janvier",
-        "date_es": "19 de enero",
-        "date_it": "19 gennaio",
-        "date_ru": "19 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "grievous"
+        "date": "January 13th",
+        "date_fr": "13 janvier",
+        "date_es": "13 de enero",
+        "date_it": "13 gennaio",
+        "date_ru": "13 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "retrieval"
     },
     "past_terms_3": {
-        "date": "January 20th",
-        "date_fr": "20 janvier",
-        "date_es": "20 de enero",
-        "date_it": "20 gennaio",
-        "date_ru": "20 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "herding cats"
+        "date": "January 15th",
+        "date_fr": "15 janvier",
+        "date_es": "15 de enero",
+        "date_it": "15 gennaio",
+        "date_ru": "15 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "gut reaction"
     },
     "past_terms_4": {
-        "date": "January 21st",
-        "date_fr": "21 janvier",
-        "date_es": "21 de enero",
-        "date_it": "21 gennaio",
-        "date_ru": "21 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "pep talk"
+        "date": "January 24th",
+        "date_fr": "24 janvier",
+        "date_es": "24 de enero",
+        "date_it": "24 gennaio",
+        "date_ru": "24 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "come clean"
     }
 }
