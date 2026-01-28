@@ -1,40 +1,40 @@
 {
-    "expression": "kindred _____",
-    "today": "January 27th, 2026",
-    "date_fr": "27 janvier 2026",
-    "date_es": "27 de enero de 2026",
-    "date_it": "27 gennaio 2026",
-    "date_ru": "27 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "sitting ___",
+    "today": "January 28th, 2026",
+    "date_fr": "28 janvier 2026",
+    "date_es": "28 de enero de 2026",
+    "date_it": "28 gennaio 2026",
+    "date_ru": "28 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 14th",
-        "date_fr": "14 janvier",
-        "date_es": "14 de enero",
-        "date_it": "14 gennaio",
-        "date_ru": "14 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "applicant"
+        "date": "January 17th",
+        "date_fr": "17 janvier",
+        "date_es": "17 de enero",
+        "date_it": "17 gennaio",
+        "date_ru": "17 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "clueless"
     },
     "past_terms_2": {
-        "date": "January 15th",
-        "date_fr": "15 janvier",
-        "date_es": "15 de enero",
-        "date_it": "15 gennaio",
-        "date_ru": "15 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "misplace"
-    },
-    "past_terms_3": {
-        "date": "January 19th",
-        "date_fr": "19 janvier",
-        "date_es": "19 de enero",
-        "date_it": "19 gennaio",
-        "date_ru": "19 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "tight-knit community"
-    },
-    "past_terms_4": {
         "date": "January 20th",
         "date_fr": "20 janvier",
         "date_es": "20 de enero",
         "date_it": "20 gennaio",
         "date_ru": "20 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "herding cats"
+        "term": "top-notch"
+    },
+    "past_terms_3": {
+        "date": "January 22nd",
+        "date_fr": "22 janvier",
+        "date_es": "22 de enero",
+        "date_it": "22 gennaio",
+        "date_ru": "22 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "work miracles"
+    },
+    "past_terms_4": {
+        "date": "January 27th",
+        "date_fr": "27 janvier",
+        "date_es": "27 de enero",
+        "date_it": "27 gennaio",
+        "date_ru": "27 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "kindred spirit"
     }
 }
