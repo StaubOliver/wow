@@ -1,17 +1,17 @@
 {
-    "expression": "go _____",
-    "today": "January 30th, 2026",
-    "date_fr": "30 janvier 2026",
-    "date_es": "30 de enero de 2026",
-    "date_it": "30 gennaio 2026",
-    "date_ru": "30 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+    "expression": "soaking __",
+    "today": "January 31st, 2026",
+    "date_fr": "31 janvier 2026",
+    "date_es": "31 de enero de 2026",
+    "date_it": "31 gennaio 2026",
+    "date_ru": "31 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 17th",
-        "date_fr": "17 janvier",
-        "date_es": "17 de enero",
-        "date_it": "17 gennaio",
-        "date_ru": "17 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "clueless"
+        "date": "January 23rd",
+        "date_fr": "23 janvier",
+        "date_es": "23 de enero",
+        "date_it": "23 gennaio",
+        "date_ru": "23 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "knead"
     },
     "past_terms_2": {
         "date": "January 24th",
@@ -22,19 +22,19 @@
         "term": "hoodie"
     },
     "past_terms_3": {
-        "date": "January 27th",
-        "date_fr": "27 janvier",
-        "date_es": "27 de enero",
-        "date_it": "27 gennaio",
-        "date_ru": "27 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "kindred spirit"
+        "date": "January 28th",
+        "date_fr": "28 janvier",
+        "date_es": "28 de enero",
+        "date_it": "28 gennaio",
+        "date_ru": "28 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "sitting duck"
     },
     "past_terms_4": {
-        "date": "January 29th",
-        "date_fr": "29 janvier",
-        "date_es": "29 de enero",
-        "date_it": "29 gennaio",
-        "date_ru": "29 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "helping hand"
+        "date": "January 30th",
+        "date_fr": "30 janvier",
+        "date_es": "30 de enero",
+        "date_it": "30 gennaio",
+        "date_ru": "30 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "go astray"
     }
 }
