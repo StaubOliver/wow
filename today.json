@@ -1,19 +1,11 @@
 {
-    "expression": "run ______",
-    "today": "February 2nd, 2026",
-    "date_fr": "2 f\u00e9vrier 2026",
-    "date_es": "2 de febrero de 2026",
-    "date_it": "2 febbraio 2026",
-    "date_ru": "2 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "serve _____",
+    "today": "February 3rd, 2026",
+    "date_fr": "3 f\u00e9vrier 2026",
+    "date_es": "3 de febrero de 2026",
+    "date_it": "3 febbraio 2026",
+    "date_ru": "3 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 22nd",
-        "date_fr": "22 janvier",
-        "date_es": "22 de enero",
-        "date_it": "22 gennaio",
-        "date_ru": "22 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "reap"
-    },
-    "past_terms_2": {
         "date": "January 24th",
         "date_fr": "24 janvier",
         "date_es": "24 de enero",
@@ -21,20 +13,28 @@
         "date_ru": "24 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
         "term": "hoodie"
     },
-    "past_terms_3": {
-        "date": "January 26th",
-        "date_fr": "26 janvier",
-        "date_es": "26 de enero",
-        "date_it": "26 gennaio",
-        "date_ru": "26 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "hollow out"
+    "past_terms_2": {
+        "date": "January 28th",
+        "date_fr": "28 janvier",
+        "date_es": "28 de enero",
+        "date_it": "28 gennaio",
+        "date_ru": "28 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "drumstick"
     },
-    "past_terms_4": {
+    "past_terms_3": {
         "date": "January 29th",
         "date_fr": "29 janvier",
         "date_es": "29 de enero",
         "date_it": "29 gennaio",
         "date_ru": "29 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
         "term": "helping hand"
+    },
+    "past_terms_4": {
+        "date": "January 31st",
+        "date_fr": "31 janvier",
+        "date_es": "31 de enero",
+        "date_it": "31 gennaio",
+        "date_ru": "31 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "soaking wet"
     }
 }
