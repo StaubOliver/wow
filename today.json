@@ -1,11 +1,19 @@
 {
-    "expression": "go ______",
-    "today": "February 6th, 2026",
-    "date_fr": "6 f\u00e9vrier 2026",
-    "date_es": "6 de febrero de 2026",
-    "date_it": "6 febbraio 2026",
-    "date_ru": "6 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "bolt ______",
+    "today": "February 7th, 2026",
+    "date_fr": "7 f\u00e9vrier 2026",
+    "date_es": "7 de febrero de 2026",
+    "date_it": "7 febbraio 2026",
+    "date_ru": "7 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
+        "date": "January 25th",
+        "date_fr": "25 janvier",
+        "date_es": "25 de enero",
+        "date_it": "25 gennaio",
+        "date_ru": "25 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "stuntman"
+    },
+    "past_terms_2": {
         "date": "January 26th",
         "date_fr": "26 janvier",
         "date_es": "26 de enero",
@@ -13,28 +21,20 @@
         "date_ru": "26 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
         "term": "quandary"
     },
-    "past_terms_2": {
+    "past_terms_3": {
         "date": "January 27th",
         "date_fr": "27 janvier",
         "date_es": "27 de enero",
         "date_it": "27 gennaio",
         "date_ru": "27 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "offload"
-    },
-    "past_terms_3": {
-        "date": "January 28th",
-        "date_fr": "28 janvier",
-        "date_es": "28 de enero",
-        "date_it": "28 gennaio",
-        "date_ru": "28 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "sitting duck"
+        "term": "kindred spirit"
     },
     "past_terms_4": {
-        "date": "January 29th",
-        "date_fr": "29 janvier",
-        "date_es": "29 de enero",
-        "date_it": "29 gennaio",
-        "date_ru": "29 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "helping hand"
+        "date": "February 1st",
+        "date_fr": "1er f\u00e9vrier",
+        "date_es": "1 de febrero",
+        "date_it": "1 febbraio",
+        "date_ru": "1 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "tone down"
     }
 }
