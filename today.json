@@ -1,40 +1,40 @@
 {
-    "expression": "sugar ___",
-    "today": "February 8th, 2026",
-    "date_fr": "8 f\u00e9vrier 2026",
-    "date_es": "8 de febrero de 2026",
-    "date_it": "8 febbraio 2026",
-    "date_ru": "8 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "lap ___",
+    "today": "February 9th, 2026",
+    "date_fr": "9 f\u00e9vrier 2026",
+    "date_es": "9 de febrero de 2026",
+    "date_it": "9 febbraio 2026",
+    "date_ru": "9 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 27th",
-        "date_fr": "27 janvier",
-        "date_es": "27 de enero",
-        "date_it": "27 gennaio",
-        "date_ru": "27 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "offload"
-    },
-    "past_terms_2": {
-        "date": "January 28th",
-        "date_fr": "28 janvier",
-        "date_es": "28 de enero",
-        "date_it": "28 gennaio",
-        "date_ru": "28 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "drumstick"
-    },
-    "past_terms_3": {
         "date": "January 31st",
         "date_fr": "31 janvier",
         "date_es": "31 de enero",
         "date_it": "31 gennaio",
         "date_ru": "31 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "soaking wet"
+        "term": "hefty"
     },
-    "past_terms_4": {
+    "past_terms_2": {
+        "date": "February 1st",
+        "date_fr": "1er f\u00e9vrier",
+        "date_es": "1 de febrero",
+        "date_it": "1 febbraio",
+        "date_ru": "1 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "blotchy"
+    },
+    "past_terms_3": {
         "date": "February 2nd",
         "date_fr": "2 f\u00e9vrier",
         "date_es": "2 de febrero",
         "date_it": "2 febbraio",
         "date_ru": "2 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
         "term": "run rampant"
+    },
+    "past_terms_4": {
+        "date": "February 4th",
+        "date_fr": "4 f\u00e9vrier",
+        "date_es": "4 de febrero",
+        "date_it": "4 febbraio",
+        "date_ru": "4 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "memory jogger"
     }
 }
