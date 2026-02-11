@@ -1,17 +1,17 @@
 {
-    "expression": "toy ___",
-    "today": "February 10th, 2026",
-    "date_fr": "10 f\u00e9vrier 2026",
-    "date_es": "10 de febrero de 2026",
-    "date_it": "10 febbraio 2026",
-    "date_ru": "10 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "spell _______",
+    "today": "February 11th, 2026",
+    "date_fr": "11 f\u00e9vrier 2026",
+    "date_es": "11 de febrero de 2026",
+    "date_it": "11 febbraio 2026",
+    "date_ru": "11 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "February 1st",
-        "date_fr": "1er f\u00e9vrier",
-        "date_es": "1 de febrero",
-        "date_it": "1 febbraio",
-        "date_ru": "1 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "blotchy"
+        "date": "January 29th",
+        "date_fr": "29 janvier",
+        "date_es": "29 de enero",
+        "date_it": "29 gennaio",
+        "date_ru": "29 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
+        "term": "bereavement"
     },
     "past_terms_2": {
         "date": "February 2nd",
@@ -22,12 +22,12 @@
         "term": "lumpy"
     },
     "past_terms_3": {
-        "date": "February 4th",
-        "date_fr": "4 f\u00e9vrier",
-        "date_es": "4 de febrero",
-        "date_it": "4 febbraio",
-        "date_ru": "4 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "memory jogger"
+        "date": "February 5th",
+        "date_fr": "5 f\u00e9vrier",
+        "date_es": "5 de febrero",
+        "date_it": "5 febbraio",
+        "date_ru": "5 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "lucky streak"
     },
     "past_terms_4": {
         "date": "February 7th",
