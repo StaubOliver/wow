@@ -1,25 +1,25 @@
 {
-    "expression": "spell _______",
-    "today": "February 11th, 2026",
-    "date_fr": "11 f\u00e9vrier 2026",
-    "date_es": "11 de febrero de 2026",
-    "date_it": "11 febbraio 2026",
-    "date_ru": "11 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "go ______",
+    "today": "February 12th, 2026",
+    "date_fr": "12 f\u00e9vrier 2026",
+    "date_es": "12 de febrero de 2026",
+    "date_it": "12 febbraio 2026",
+    "date_ru": "12 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "January 29th",
-        "date_fr": "29 janvier",
-        "date_es": "29 de enero",
-        "date_it": "29 gennaio",
-        "date_ru": "29 \u044f\u043d\u0432\u0430\u0440\u044f 2026 \u0433.",
-        "term": "bereavement"
-    },
-    "past_terms_2": {
         "date": "February 2nd",
         "date_fr": "2 f\u00e9vrier",
         "date_es": "2 de febrero",
         "date_it": "2 febbraio",
         "date_ru": "2 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
         "term": "lumpy"
+    },
+    "past_terms_2": {
+        "date": "February 3rd",
+        "date_fr": "3 f\u00e9vrier",
+        "date_es": "3 de febrero",
+        "date_it": "3 febbraio",
+        "date_ru": "3 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "murky"
     },
     "past_terms_3": {
         "date": "February 5th",
@@ -30,11 +30,11 @@
         "term": "lucky streak"
     },
     "past_terms_4": {
-        "date": "February 7th",
-        "date_fr": "7 f\u00e9vrier",
-        "date_es": "7 de febrero",
-        "date_it": "7 febbraio",
-        "date_ru": "7 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "bolt upright"
+        "date": "February 8th",
+        "date_fr": "8 f\u00e9vrier",
+        "date_es": "8 de febrero",
+        "date_it": "8 febbraio",
+        "date_ru": "8 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "sugar rush"
     }
 }
