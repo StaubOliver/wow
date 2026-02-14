@@ -1,17 +1,17 @@
 {
-    "expression": "back _____",
-    "today": "February 13th, 2026",
-    "date_fr": "13 f\u00e9vrier 2026",
-    "date_es": "13 de febrero de 2026",
-    "date_it": "13 febbraio 2026",
-    "date_ru": "13 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "sly __",
+    "today": "February 14th, 2026",
+    "date_fr": "14 f\u00e9vrier 2026",
+    "date_es": "14 de febrero de 2026",
+    "date_it": "14 febbraio 2026",
+    "date_ru": "14 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "February 3rd",
-        "date_fr": "3 f\u00e9vrier",
-        "date_es": "3 de febrero",
-        "date_it": "3 febbraio",
-        "date_ru": "3 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "murky"
+        "date": "February 4th",
+        "date_fr": "4 f\u00e9vrier",
+        "date_es": "4 de febrero",
+        "date_it": "4 febbraio",
+        "date_ru": "4 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "understatement"
     },
     "past_terms_2": {
         "date": "February 6th",
@@ -22,19 +22,19 @@
         "term": "plucky"
     },
     "past_terms_3": {
-        "date": "February 7th",
-        "date_fr": "7 f\u00e9vrier",
-        "date_es": "7 de febrero",
-        "date_it": "7 febbraio",
-        "date_ru": "7 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "bolt upright"
+        "date": "February 11th",
+        "date_fr": "11 f\u00e9vrier",
+        "date_es": "11 de febrero",
+        "date_it": "11 febbraio",
+        "date_ru": "11 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "spell disaster"
     },
     "past_terms_4": {
-        "date": "February 9th",
-        "date_fr": "9 f\u00e9vrier",
-        "date_es": "9 de febrero",
-        "date_it": "9 febbraio",
-        "date_ru": "9 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "lap desk"
+        "date": "February 13th",
+        "date_fr": "13 f\u00e9vrier",
+        "date_es": "13 de febrero",
+        "date_it": "13 febbraio",
+        "date_ru": "13 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "back burner"
     }
 }
