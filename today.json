@@ -1,10 +1,10 @@
 {
-    "expression": "wolf ___",
-    "today": "February 15th, 2026",
-    "date_fr": "15 f\u00e9vrier 2026",
-    "date_es": "15 de febrero de 2026",
-    "date_it": "15 febbraio 2026",
-    "date_ru": "15 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "stumble ___",
+    "today": "February 16th, 2026",
+    "date_fr": "16 f\u00e9vrier 2026",
+    "date_es": "16 de febrero de 2026",
+    "date_it": "16 febbraio 2026",
+    "date_ru": "16 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "February 3rd",
         "date_fr": "3 f\u00e9vrier",
@@ -14,27 +14,27 @@
         "term": "murky"
     },
     "past_terms_2": {
-        "date": "February 7th",
-        "date_fr": "7 f\u00e9vrier",
-        "date_es": "7 de febrero",
-        "date_it": "7 febbraio",
-        "date_ru": "7 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "downplay"
-    },
-    "past_terms_3": {
-        "date": "February 9th",
-        "date_fr": "9 f\u00e9vrier",
-        "date_es": "9 de febrero",
-        "date_it": "9 febbraio",
-        "date_ru": "9 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "lap desk"
-    },
-    "past_terms_4": {
         "date": "February 10th",
         "date_fr": "10 f\u00e9vrier",
         "date_es": "10 de febrero",
         "date_it": "10 febbraio",
         "date_ru": "10 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "toy with"
+        "term": "seamlessly"
+    },
+    "past_terms_3": {
+        "date": "February 12th",
+        "date_fr": "12 f\u00e9vrier",
+        "date_es": "12 de febrero",
+        "date_it": "12 febbraio",
+        "date_ru": "12 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "go berserk"
+    },
+    "past_terms_4": {
+        "date": "February 15th",
+        "date_fr": "15 f\u00e9vrier",
+        "date_es": "15 de febrero",
+        "date_it": "15 febbraio",
+        "date_ru": "15 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "wolf down"
     }
 }
