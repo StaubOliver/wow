@@ -1,40 +1,40 @@
 {
-    "expression": "legal _______",
-    "today": "February 17th, 2026",
-    "date_fr": "17 f\u00e9vrier 2026",
-    "date_es": "17 de febrero de 2026",
-    "date_it": "17 febbraio 2026",
-    "date_ru": "17 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "hinge _",
+    "today": "February 18th, 2026",
+    "date_fr": "18 f\u00e9vrier 2026",
+    "date_es": "18 de febrero de 2026",
+    "date_it": "18 febbraio 2026",
+    "date_ru": "18 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "February 5th",
-        "date_fr": "5 f\u00e9vrier",
-        "date_es": "5 de febrero",
-        "date_it": "5 febbraio",
-        "date_ru": "5 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "lukewarm"
+        "date": "February 9th",
+        "date_fr": "9 f\u00e9vrier",
+        "date_es": "9 de febrero",
+        "date_it": "9 febbraio",
+        "date_ru": "9 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "wishy-washy"
     },
     "past_terms_2": {
-        "date": "February 6th",
-        "date_fr": "6 f\u00e9vrier",
-        "date_es": "6 de febrero",
-        "date_it": "6 febbraio",
-        "date_ru": "6 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "plucky"
+        "date": "February 12th",
+        "date_fr": "12 f\u00e9vrier",
+        "date_es": "12 de febrero",
+        "date_it": "12 febbraio",
+        "date_ru": "12 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "gobbledygook"
     },
     "past_terms_3": {
-        "date": "February 10th",
-        "date_fr": "10 f\u00e9vrier",
-        "date_es": "10 de febrero",
-        "date_it": "10 febbraio",
-        "date_ru": "10 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "toy with"
-    },
-    "past_terms_4": {
         "date": "February 15th",
         "date_fr": "15 f\u00e9vrier",
         "date_es": "15 de febrero",
         "date_it": "15 febbraio",
         "date_ru": "15 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
         "term": "wolf down"
+    },
+    "past_terms_4": {
+        "date": "February 16th",
+        "date_fr": "16 f\u00e9vrier",
+        "date_es": "16 de febrero",
+        "date_it": "16 febbraio",
+        "date_ru": "16 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "stumble upon"
     }
 }
