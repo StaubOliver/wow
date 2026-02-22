@@ -1,19 +1,11 @@
 {
-    "expression": "tough _____",
-    "today": "February 21st, 2026",
-    "date_fr": "21 f\u00e9vrier 2026",
-    "date_es": "21 de febrero de 2026",
-    "date_it": "21 febbraio 2026",
-    "date_ru": "21 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "beyond _____",
+    "today": "February 22nd, 2026",
+    "date_fr": "22 f\u00e9vrier 2026",
+    "date_es": "22 de febrero de 2026",
+    "date_it": "22 febbraio 2026",
+    "date_ru": "22 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "February 9th",
-        "date_fr": "9 f\u00e9vrier",
-        "date_es": "9 de febrero",
-        "date_it": "9 febbraio",
-        "date_ru": "9 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "wishy-washy"
-    },
-    "past_terms_2": {
         "date": "February 10th",
         "date_fr": "10 f\u00e9vrier",
         "date_es": "10 de febrero",
@@ -21,20 +13,28 @@
         "date_ru": "10 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
         "term": "seamlessly"
     },
+    "past_terms_2": {
+        "date": "February 12th",
+        "date_fr": "12 f\u00e9vrier",
+        "date_es": "12 de febrero",
+        "date_it": "12 febbraio",
+        "date_ru": "12 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "gobbledygook"
+    },
     "past_terms_3": {
-        "date": "February 18th",
-        "date_fr": "18 f\u00e9vrier",
-        "date_es": "18 de febrero",
-        "date_it": "18 febbraio",
-        "date_ru": "18 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "hinge on"
+        "date": "February 15th",
+        "date_fr": "15 f\u00e9vrier",
+        "date_es": "15 de febrero",
+        "date_it": "15 febbraio",
+        "date_ru": "15 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "wolf down"
     },
     "past_terms_4": {
-        "date": "February 19th",
-        "date_fr": "19 f\u00e9vrier",
-        "date_es": "19 de febrero",
-        "date_it": "19 febbraio",
-        "date_ru": "19 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "topple over"
+        "date": "February 17th",
+        "date_fr": "17 f\u00e9vrier",
+        "date_es": "17 de febrero",
+        "date_it": "17 febbraio",
+        "date_ru": "17 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "legal loophole"
     }
 }
