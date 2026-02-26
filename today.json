@@ -1,40 +1,40 @@
 {
-    "expression": "sticky ________",
-    "today": "February 25th, 2026",
-    "date_fr": "25 f\u00e9vrier 2026",
-    "date_es": "25 de febrero de 2026",
-    "date_it": "25 febbraio 2026",
-    "date_ru": "25 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "stumble _____",
+    "today": "February 26th, 2026",
+    "date_fr": "26 f\u00e9vrier 2026",
+    "date_es": "26 de febrero de 2026",
+    "date_it": "26 febbraio 2026",
+    "date_ru": "26 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "February 12th",
-        "date_fr": "12 f\u00e9vrier",
-        "date_es": "12 de febrero",
-        "date_it": "12 febbraio",
-        "date_ru": "12 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "gobbledygook"
+        "date": "February 14th",
+        "date_fr": "14 f\u00e9vrier",
+        "date_es": "14 de febrero",
+        "date_it": "14 febbraio",
+        "date_ru": "14 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "mourn"
     },
     "past_terms_2": {
-        "date": "February 20th",
-        "date_fr": "20 f\u00e9vrier",
-        "date_es": "20 de febrero",
-        "date_it": "20 febbraio",
-        "date_ru": "20 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "ignite"
+        "date": "February 15th",
+        "date_fr": "15 f\u00e9vrier",
+        "date_es": "15 de febrero",
+        "date_it": "15 febbraio",
+        "date_ru": "15 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "bluntly"
     },
     "past_terms_3": {
-        "date": "February 22nd",
-        "date_fr": "22 f\u00e9vrier",
-        "date_es": "22 de febrero",
-        "date_it": "22 febbraio",
-        "date_ru": "22 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "beyond repair"
+        "date": "February 18th",
+        "date_fr": "18 f\u00e9vrier",
+        "date_es": "18 de febrero",
+        "date_it": "18 febbraio",
+        "date_ru": "18 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "hinge on"
     },
     "past_terms_4": {
-        "date": "February 24th",
-        "date_fr": "24 f\u00e9vrier",
-        "date_es": "24 de febrero",
-        "date_it": "24 febbraio",
-        "date_ru": "24 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "plead guilty"
+        "date": "February 23rd",
+        "date_fr": "23 f\u00e9vrier",
+        "date_es": "23 de febrero",
+        "date_it": "23 febbraio",
+        "date_ru": "23 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "saddle with"
     }
 }
