@@ -1,11 +1,19 @@
 {
-    "expression": "brain __",
-    "today": "February 27th, 2026",
-    "date_fr": "27 f\u00e9vrier 2026",
-    "date_es": "27 de febrero de 2026",
-    "date_it": "27 febbraio 2026",
-    "date_ru": "27 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+    "expression": "stubborn _____",
+    "today": "February 28th, 2026",
+    "date_fr": "28 f\u00e9vrier 2026",
+    "date_es": "28 de febrero de 2026",
+    "date_it": "28 febbraio 2026",
+    "date_ru": "28 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
+        "date": "February 15th",
+        "date_fr": "15 f\u00e9vrier",
+        "date_es": "15 de febrero",
+        "date_it": "15 febbraio",
+        "date_ru": "15 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "bluntly"
+    },
+    "past_terms_2": {
         "date": "February 18th",
         "date_fr": "18 f\u00e9vrier",
         "date_es": "18 de febrero",
@@ -13,28 +21,20 @@
         "date_ru": "18 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
         "term": "say-so"
     },
-    "past_terms_2": {
+    "past_terms_3": {
         "date": "February 20th",
         "date_fr": "20 f\u00e9vrier",
         "date_es": "20 de febrero",
         "date_it": "20 febbraio",
         "date_ru": "20 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "ignite"
-    },
-    "past_terms_3": {
-        "date": "February 22nd",
-        "date_fr": "22 f\u00e9vrier",
-        "date_es": "22 de febrero",
-        "date_it": "22 febbraio",
-        "date_ru": "22 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "beyond repair"
+        "term": "good riddance"
     },
     "past_terms_4": {
-        "date": "February 23rd",
-        "date_fr": "23 f\u00e9vrier",
-        "date_es": "23 de febrero",
-        "date_it": "23 febbraio",
-        "date_ru": "23 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "saddle with"
+        "date": "February 21st",
+        "date_fr": "21 f\u00e9vrier",
+        "date_es": "21 de febrero",
+        "date_it": "21 febbraio",
+        "date_ru": "21 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "tough cookie"
     }
 }
