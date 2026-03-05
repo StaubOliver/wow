@@ -1,17 +1,17 @@
 {
-    "expression": "shed ____",
-    "today": "March 4th, 2026",
-    "date_fr": "4 mars 2026",
-    "date_es": "4 de marzo de 2026",
-    "date_it": "4 marzo 2026",
-    "date_ru": "4 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "tooth ____",
+    "today": "March 5th, 2026",
+    "date_fr": "5 mars 2026",
+    "date_es": "5 de marzo de 2026",
+    "date_it": "5 marzo 2026",
+    "date_ru": "5 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "February 20th",
-        "date_fr": "20 f\u00e9vrier",
-        "date_es": "20 de febrero",
-        "date_it": "20 febbraio",
-        "date_ru": "20 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "ignite"
+        "date": "February 22nd",
+        "date_fr": "22 f\u00e9vrier",
+        "date_es": "22 de febrero",
+        "date_it": "22 febbraio",
+        "date_ru": "22 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "livid"
     },
     "past_terms_2": {
         "date": "February 26th",
@@ -22,19 +22,19 @@
         "term": "unleash"
     },
     "past_terms_3": {
-        "date": "February 28th",
-        "date_fr": "28 f\u00e9vrier",
-        "date_es": "28 de febrero",
-        "date_it": "28 febbraio",
-        "date_ru": "28 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "stubborn streak"
+        "date": "March 1st",
+        "date_fr": "1er mars",
+        "date_es": "1 de marzo",
+        "date_it": "1 marzo",
+        "date_ru": "1 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "dolled up"
     },
     "past_terms_4": {
-        "date": "March 2nd",
-        "date_fr": "2 mars",
-        "date_es": "2 de marzo",
-        "date_it": "2 marzo",
-        "date_ru": "2 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "chime in"
+        "date": "March 3rd",
+        "date_fr": "3 mars",
+        "date_es": "3 de marzo",
+        "date_it": "3 marzo",
+        "date_ru": "3 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "tall order"
     }
 }
