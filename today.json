@@ -1,10 +1,10 @@
 {
-    "expression": "prank ___",
-    "today": "March 10th, 2026",
-    "date_fr": "10 mars 2026",
-    "date_es": "10 de marzo de 2026",
-    "date_it": "10 marzo 2026",
-    "date_ru": "10 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "fall out _ ___",
+    "today": "March 11th, 2026",
+    "date_fr": "11 mars 2026",
+    "date_es": "11 de marzo de 2026",
+    "date_it": "11 marzo 2026",
+    "date_ru": "11 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
         "date": "February 27th",
         "date_fr": "27 f\u00e9vrier",
@@ -14,12 +14,12 @@
         "term": "single-handedly"
     },
     "past_terms_2": {
-        "date": "March 2nd",
-        "date_fr": "2 mars",
-        "date_es": "2 de marzo",
-        "date_it": "2 marzo",
-        "date_ru": "2 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "appoint"
+        "date": "February 28th",
+        "date_fr": "28 f\u00e9vrier",
+        "date_es": "28 de febrero",
+        "date_it": "28 febbraio",
+        "date_ru": "28 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "slippery"
     },
     "past_terms_3": {
         "date": "March 5th",
@@ -30,11 +30,11 @@
         "term": "tooth decay"
     },
     "past_terms_4": {
-        "date": "March 7th",
-        "date_fr": "7 mars",
-        "date_es": "7 de marzo",
-        "date_it": "7 marzo",
-        "date_ru": "7 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "short temper"
+        "date": "March 9th",
+        "date_fr": "9 mars",
+        "date_es": "9 de marzo",
+        "date_it": "9 marzo",
+        "date_ru": "9 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "puppy love"
     }
 }
