@@ -1,40 +1,40 @@
 {
-    "expression": "aggrieved ____",
-    "today": "March 12th, 2026",
-    "date_fr": "12 mars 2026",
-    "date_es": "12 de marzo de 2026",
-    "date_it": "12 marzo 2026",
-    "date_ru": "12 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "cascade ___",
+    "today": "March 13th, 2026",
+    "date_fr": "13 mars 2026",
+    "date_es": "13 de marzo de 2026",
+    "date_it": "13 marzo 2026",
+    "date_ru": "13 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "February 27th",
-        "date_fr": "27 f\u00e9vrier",
-        "date_es": "27 de febrero",
-        "date_it": "27 febbraio",
-        "date_ru": "27 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
-        "term": "single-handedly"
+        "date": "February 28th",
+        "date_fr": "28 f\u00e9vrier",
+        "date_es": "28 de febrero",
+        "date_it": "28 febbraio",
+        "date_ru": "28 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 2026 \u0433.",
+        "term": "slippery"
     },
     "past_terms_2": {
-        "date": "March 3rd",
-        "date_fr": "3 mars",
-        "date_es": "3 de marzo",
-        "date_it": "3 marzo",
-        "date_ru": "3 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "strenuous"
+        "date": "March 6th",
+        "date_fr": "6 mars",
+        "date_es": "6 de marzo",
+        "date_it": "6 marzo",
+        "date_ru": "6 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "rhinestone"
     },
     "past_terms_3": {
-        "date": "March 5th",
-        "date_fr": "5 mars",
-        "date_es": "5 de marzo",
-        "date_it": "5 marzo",
-        "date_ru": "5 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "tooth decay"
+        "date": "March 10th",
+        "date_fr": "10 mars",
+        "date_es": "10 de marzo",
+        "date_it": "10 marzo",
+        "date_ru": "10 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "prank call"
     },
     "past_terms_4": {
-        "date": "March 11th",
-        "date_fr": "11 mars",
-        "date_es": "11 de marzo",
-        "date_it": "11 marzo",
-        "date_ru": "11 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "fall out of love"
+        "date": "March 12th",
+        "date_fr": "12 mars",
+        "date_es": "12 de marzo",
+        "date_it": "12 marzo",
+        "date_ru": "12 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "aggrieved party"
     }
 }
