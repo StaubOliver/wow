@@ -1,19 +1,11 @@
 {
-    "expression": "polish __",
-    "today": "March 14th, 2026",
-    "date_fr": "14 mars 2026",
-    "date_es": "14 de marzo de 2026",
-    "date_it": "14 marzo 2026",
-    "date_ru": "14 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "hatchet __",
+    "today": "March 15th, 2026",
+    "date_fr": "15 mars 2026",
+    "date_es": "15 de marzo de 2026",
+    "date_it": "15 marzo 2026",
+    "date_ru": "15 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "March 1st",
-        "date_fr": "1er mars",
-        "date_es": "1 de marzo",
-        "date_it": "1 marzo",
-        "date_ru": "1 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "caveat"
-    },
-    "past_terms_2": {
         "date": "March 3rd",
         "date_fr": "3 mars",
         "date_es": "3 de marzo",
@@ -21,20 +13,28 @@
         "date_ru": "3 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
         "term": "strenuous"
     },
+    "past_terms_2": {
+        "date": "March 9th",
+        "date_fr": "9 mars",
+        "date_es": "9 de marzo",
+        "date_it": "9 marzo",
+        "date_ru": "9 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "milestone"
+    },
     "past_terms_3": {
-        "date": "March 10th",
-        "date_fr": "10 mars",
-        "date_es": "10 de marzo",
-        "date_it": "10 marzo",
-        "date_ru": "10 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "prank call"
+        "date": "March 11th",
+        "date_fr": "11 mars",
+        "date_es": "11 de marzo",
+        "date_it": "11 marzo",
+        "date_ru": "11 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "fall out of love"
     },
     "past_terms_4": {
-        "date": "March 12th",
-        "date_fr": "12 mars",
-        "date_es": "12 de marzo",
-        "date_it": "12 marzo",
-        "date_ru": "12 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "aggrieved party"
+        "date": "March 14th",
+        "date_fr": "14 mars",
+        "date_es": "14 de marzo",
+        "date_it": "14 marzo",
+        "date_ru": "14 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "polish off"
     }
 }
