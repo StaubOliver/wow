@@ -1,10 +1,10 @@
 {
-    "expression": "hatchet __",
-    "today": "March 15th, 2026",
-    "date_fr": "15 mars 2026",
-    "date_es": "15 de marzo de 2026",
-    "date_it": "15 marzo 2026",
-    "date_ru": "15 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "lie __",
+    "today": "March 16th, 2026",
+    "date_fr": "16 mars 2026",
+    "date_es": "16 de marzo de 2026",
+    "date_it": "16 marzo 2026",
+    "date_ru": "16 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
         "date": "March 3rd",
         "date_fr": "3 mars",
@@ -14,27 +14,27 @@
         "term": "strenuous"
     },
     "past_terms_2": {
+        "date": "March 6th",
+        "date_fr": "6 mars",
+        "date_es": "6 de marzo",
+        "date_it": "6 marzo",
+        "date_ru": "6 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "rhinestone"
+    },
+    "past_terms_3": {
         "date": "March 9th",
         "date_fr": "9 mars",
         "date_es": "9 de marzo",
         "date_it": "9 marzo",
         "date_ru": "9 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "milestone"
+        "term": "puppy love"
     },
-    "past_terms_3": {
+    "past_terms_4": {
         "date": "March 11th",
         "date_fr": "11 mars",
         "date_es": "11 de marzo",
         "date_it": "11 marzo",
         "date_ru": "11 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
         "term": "fall out of love"
-    },
-    "past_terms_4": {
-        "date": "March 14th",
-        "date_fr": "14 mars",
-        "date_es": "14 de marzo",
-        "date_it": "14 marzo",
-        "date_ru": "14 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "polish off"
     }
 }
