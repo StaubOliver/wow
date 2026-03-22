@@ -1,10 +1,10 @@
 {
-    "expression": "carried ___",
-    "today": "March 21st, 2026",
-    "date_fr": "21 mars 2026",
-    "date_es": "21 de marzo de 2026",
-    "date_it": "21 marzo 2026",
-    "date_ru": "21 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "chicken __",
+    "today": "March 22nd, 2026",
+    "date_fr": "22 mars 2026",
+    "date_es": "22 de marzo de 2026",
+    "date_it": "22 marzo 2026",
+    "date_ru": "22 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
         "date": "March 10th",
         "date_fr": "10 mars",
@@ -14,27 +14,27 @@
         "term": "drawback"
     },
     "past_terms_2": {
+        "date": "March 11th",
+        "date_fr": "11 mars",
+        "date_es": "11 de marzo",
+        "date_it": "11 marzo",
+        "date_ru": "11 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "liable"
+    },
+    "past_terms_3": {
         "date": "March 13th",
         "date_fr": "13 mars",
         "date_es": "13 de marzo",
         "date_it": "13 marzo",
         "date_ru": "13 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "razor-sharp"
-    },
-    "past_terms_3": {
-        "date": "March 16th",
-        "date_fr": "16 mars",
-        "date_es": "16 de marzo",
-        "date_it": "16 marzo",
-        "date_ru": "16 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "lie low"
+        "term": "cascade down"
     },
     "past_terms_4": {
-        "date": "March 19th",
-        "date_fr": "19 mars",
-        "date_es": "19 de marzo",
-        "date_it": "19 marzo",
-        "date_ru": "19 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "nail it"
+        "date": "March 15th",
+        "date_fr": "15 mars",
+        "date_es": "15 de marzo",
+        "date_it": "15 marzo",
+        "date_ru": "15 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "hatchet job"
     }
 }
