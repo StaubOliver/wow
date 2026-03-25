@@ -1,33 +1,33 @@
 {
-    "expression": "sail ______",
-    "today": "March 24th, 2026",
-    "date_fr": "24 mars 2026",
-    "date_es": "24 de marzo de 2026",
-    "date_it": "24 marzo 2026",
-    "date_ru": "24 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "take ____",
+    "today": "March 25th, 2026",
+    "date_fr": "25 mars 2026",
+    "date_es": "25 de marzo de 2026",
+    "date_it": "25 marzo 2026",
+    "date_ru": "25 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "March 12th",
-        "date_fr": "12 mars",
-        "date_es": "12 de marzo",
-        "date_it": "12 marzo",
-        "date_ru": "12 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "partake"
+        "date": "March 13th",
+        "date_fr": "13 mars",
+        "date_es": "13 de marzo",
+        "date_it": "13 marzo",
+        "date_ru": "13 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "razor-sharp"
     },
     "past_terms_2": {
+        "date": "March 15th",
+        "date_fr": "15 mars",
+        "date_es": "15 de marzo",
+        "date_it": "15 marzo",
+        "date_ru": "15 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "hapless"
+    },
+    "past_terms_3": {
         "date": "March 16th",
         "date_fr": "16 mars",
         "date_es": "16 de marzo",
         "date_it": "16 marzo",
         "date_ru": "16 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "mischief"
-    },
-    "past_terms_3": {
-        "date": "March 17th",
-        "date_fr": "17 mars",
-        "date_es": "17 de marzo",
-        "date_it": "17 marzo",
-        "date_ru": "17 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "pinch pennies"
+        "term": "lie low"
     },
     "past_terms_4": {
         "date": "March 18th",
