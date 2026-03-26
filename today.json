@@ -1,40 +1,40 @@
 {
-    "expression": "take ____",
-    "today": "March 25th, 2026",
-    "date_fr": "25 mars 2026",
-    "date_es": "25 de marzo de 2026",
-    "date_it": "25 marzo 2026",
-    "date_ru": "25 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "go _______",
+    "today": "March 26th, 2026",
+    "date_fr": "26 mars 2026",
+    "date_es": "26 de marzo de 2026",
+    "date_it": "26 marzo 2026",
+    "date_ru": "26 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "March 13th",
-        "date_fr": "13 mars",
-        "date_es": "13 de marzo",
-        "date_it": "13 marzo",
-        "date_ru": "13 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "razor-sharp"
-    },
-    "past_terms_2": {
-        "date": "March 15th",
-        "date_fr": "15 mars",
-        "date_es": "15 de marzo",
-        "date_it": "15 marzo",
-        "date_ru": "15 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "hapless"
-    },
-    "past_terms_3": {
         "date": "March 16th",
         "date_fr": "16 mars",
         "date_es": "16 de marzo",
         "date_it": "16 marzo",
         "date_ru": "16 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "lie low"
+        "term": "mischief"
+    },
+    "past_terms_2": {
+        "date": "March 17th",
+        "date_fr": "17 mars",
+        "date_es": "17 de marzo",
+        "date_it": "17 marzo",
+        "date_ru": "17 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "shortfall"
+    },
+    "past_terms_3": {
+        "date": "March 20th",
+        "date_fr": "20 mars",
+        "date_es": "20 de marzo",
+        "date_it": "20 marzo",
+        "date_ru": "20 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "dress rehearsal"
     },
     "past_terms_4": {
-        "date": "March 18th",
-        "date_fr": "18 mars",
-        "date_es": "18 de marzo",
-        "date_it": "18 marzo",
-        "date_ru": "18 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "drag feet"
+        "date": "March 22nd",
+        "date_fr": "22 mars",
+        "date_es": "22 de marzo",
+        "date_it": "22 marzo",
+        "date_ru": "22 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "chicken out"
     }
 }
