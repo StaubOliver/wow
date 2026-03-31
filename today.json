@@ -1,10 +1,10 @@
 {
-    "expression": "cash __",
-    "today": "March 30th, 2026",
-    "date_fr": "30 mars 2026",
-    "date_es": "30 de marzo de 2026",
-    "date_it": "30 marzo 2026",
-    "date_ru": "30 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+    "expression": "laser ____",
+    "today": "March 31st, 2026",
+    "date_fr": "31 mars 2026",
+    "date_es": "31 de marzo de 2026",
+    "date_it": "31 marzo 2026",
+    "date_ru": "31 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
         "date": "March 20th",
         "date_fr": "20 mars",
@@ -14,27 +14,27 @@
         "term": "pertain"
     },
     "past_terms_2": {
-        "date": "March 22nd",
-        "date_fr": "22 mars",
-        "date_es": "22 de marzo",
-        "date_it": "22 marzo",
-        "date_ru": "22 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "browbeat"
+        "date": "March 23rd",
+        "date_fr": "23 mars",
+        "date_es": "23 de marzo",
+        "date_it": "23 marzo",
+        "date_ru": "23 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "whimsical"
     },
     "past_terms_3": {
-        "date": "March 24th",
-        "date_fr": "24 mars",
-        "date_es": "24 de marzo",
-        "date_it": "24 marzo",
-        "date_ru": "24 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "sail through"
+        "date": "March 29th",
+        "date_fr": "29 mars",
+        "date_es": "29 de marzo",
+        "date_it": "29 marzo",
+        "date_ru": "29 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "speak volumes"
     },
     "past_terms_4": {
-        "date": "March 26th",
-        "date_fr": "26 mars",
-        "date_es": "26 de marzo",
-        "date_it": "26 marzo",
-        "date_ru": "26 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "go downhill"
+        "date": "March 30th",
+        "date_fr": "30 mars",
+        "date_es": "30 de marzo",
+        "date_it": "30 marzo",
+        "date_ru": "30 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "cash cow"
     }
 }
