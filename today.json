@@ -1,25 +1,25 @@
 {
-    "expression": "in _______",
-    "today": "April 5th, 2026",
-    "date_fr": "5 avril 2026",
-    "date_es": "5 de abril de 2026",
-    "date_it": "5 aprile 2026",
-    "date_ru": "5 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "for ____",
+    "today": "April 6th, 2026",
+    "date_fr": "6 avril 2026",
+    "date_es": "6 de abril de 2026",
+    "date_it": "6 aprile 2026",
+    "date_ru": "6 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "March 23rd",
-        "date_fr": "23 mars",
-        "date_es": "23 de marzo",
-        "date_it": "23 marzo",
-        "date_ru": "23 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "whimsical"
+        "date": "March 26th",
+        "date_fr": "26 mars",
+        "date_es": "26 de marzo",
+        "date_it": "26 marzo",
+        "date_ru": "26 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "no-brainer"
     },
     "past_terms_2": {
-        "date": "March 24th",
-        "date_fr": "24 mars",
-        "date_es": "24 de marzo",
-        "date_it": "24 marzo",
-        "date_ru": "24 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "riotous"
+        "date": "March 30th",
+        "date_fr": "30 mars",
+        "date_es": "30 de marzo",
+        "date_it": "30 marzo",
+        "date_ru": "30 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "ascertain"
     },
     "past_terms_3": {
         "date": "March 31st",
