@@ -1,10 +1,10 @@
 {
-    "expression": "nowhere ___",
-    "today": "April 7th, 2026",
-    "date_fr": "7 avril 2026",
-    "date_es": "7 de abril de 2026",
-    "date_it": "7 aprile 2026",
-    "date_ru": "7 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "grow ____",
+    "today": "April 8th, 2026",
+    "date_fr": "8 avril 2026",
+    "date_es": "8 de abril de 2026",
+    "date_it": "8 aprile 2026",
+    "date_ru": "8 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "March 26th",
         "date_fr": "26 mars",
@@ -14,27 +14,27 @@
         "term": "no-brainer"
     },
     "past_terms_2": {
-        "date": "March 28th",
-        "date_fr": "28 mars",
-        "date_es": "28 de marzo",
-        "date_it": "28 marzo",
-        "date_ru": "28 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "grazer"
+        "date": "April 2nd",
+        "date_fr": "2 avril",
+        "date_es": "2 de abril",
+        "date_it": "2 aprile",
+        "date_ru": "2 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "scrumptious"
     },
     "past_terms_3": {
-        "date": "March 31st",
-        "date_fr": "31 mars",
-        "date_es": "31 de marzo",
-        "date_it": "31 marzo",
-        "date_ru": "31 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "laser focus"
+        "date": "April 3rd",
+        "date_fr": "3 avril",
+        "date_es": "3 de abril",
+        "date_it": "3 aprile",
+        "date_ru": "3 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "lie dormant"
     },
     "past_terms_4": {
-        "date": "April 6th",
-        "date_fr": "6 avril",
-        "date_es": "6 de abril",
-        "date_it": "6 aprile",
-        "date_ru": "6 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "for short"
+        "date": "April 5th",
+        "date_fr": "5 avril",
+        "date_es": "5 de abril",
+        "date_it": "5 aprile",
+        "date_ru": "5 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "in jeopardy"
     }
 }
