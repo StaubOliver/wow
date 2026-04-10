@@ -1,40 +1,40 @@
 {
-    "expression": "all hands _ ___",
-    "today": "April 9th, 2026",
-    "date_fr": "9 avril 2026",
-    "date_es": "9 de abril de 2026",
-    "date_it": "9 aprile 2026",
-    "date_ru": "9 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "cut ___",
+    "today": "April 10th, 2026",
+    "date_fr": "10 avril 2026",
+    "date_es": "10 de abril de 2026",
+    "date_it": "10 aprile 2026",
+    "date_ru": "10 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "March 28th",
-        "date_fr": "28 mars",
-        "date_es": "28 de marzo",
-        "date_it": "28 marzo",
-        "date_ru": "28 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "grazer"
+        "date": "March 30th",
+        "date_fr": "30 mars",
+        "date_es": "30 de marzo",
+        "date_it": "30 marzo",
+        "date_ru": "30 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
+        "term": "ascertain"
     },
     "past_terms_2": {
-        "date": "March 31st",
-        "date_fr": "31 mars",
-        "date_es": "31 de marzo",
-        "date_it": "31 marzo",
-        "date_ru": "31 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "lenient"
-    },
-    "past_terms_3": {
         "date": "April 7th",
         "date_fr": "7 avril",
         "date_es": "7 de abril",
         "date_it": "7 aprile",
         "date_ru": "7 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "nowhere near"
+        "term": "ravenous"
     },
-    "past_terms_4": {
+    "past_terms_3": {
         "date": "April 8th",
         "date_fr": "8 avril",
         "date_es": "8 de abril",
         "date_it": "8 aprile",
         "date_ru": "8 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
         "term": "grow apart"
+    },
+    "past_terms_4": {
+        "date": "April 9th",
+        "date_fr": "9 avril",
+        "date_es": "9 de abril",
+        "date_it": "9 aprile",
+        "date_ru": "9 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "all hands on deck"
     }
 }
