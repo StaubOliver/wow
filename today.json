@@ -1,10 +1,10 @@
 {
-    "expression": "cut ___",
-    "today": "April 10th, 2026",
-    "date_fr": "10 avril 2026",
-    "date_es": "10 de abril de 2026",
-    "date_it": "10 aprile 2026",
-    "date_ru": "10 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "party _____",
+    "today": "April 11th, 2026",
+    "date_fr": "11 avril 2026",
+    "date_es": "11 de abril de 2026",
+    "date_it": "11 aprile 2026",
+    "date_ru": "11 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "March 30th",
         "date_fr": "30 mars",
@@ -14,20 +14,20 @@
         "term": "ascertain"
     },
     "past_terms_2": {
-        "date": "April 7th",
-        "date_fr": "7 avril",
-        "date_es": "7 de abril",
-        "date_it": "7 aprile",
-        "date_ru": "7 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "ravenous"
+        "date": "April 2nd",
+        "date_fr": "2 avril",
+        "date_es": "2 de abril",
+        "date_it": "2 aprile",
+        "date_ru": "2 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "scrumptious"
     },
     "past_terms_3": {
-        "date": "April 8th",
-        "date_fr": "8 avril",
-        "date_es": "8 de abril",
-        "date_it": "8 aprile",
-        "date_ru": "8 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "grow apart"
+        "date": "April 5th",
+        "date_fr": "5 avril",
+        "date_es": "5 de abril",
+        "date_it": "5 aprile",
+        "date_ru": "5 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "in jeopardy"
     },
     "past_terms_4": {
         "date": "April 9th",
