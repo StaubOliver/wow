@@ -1,19 +1,11 @@
 {
-    "expression": "go ________",
-    "today": "April 12th, 2026",
-    "date_fr": "12 avril 2026",
-    "date_es": "12 de abril de 2026",
-    "date_it": "12 aprile 2026",
-    "date_ru": "12 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "hit ___",
+    "today": "April 13th, 2026",
+    "date_fr": "13 avril 2026",
+    "date_es": "13 de abril de 2026",
+    "date_it": "13 aprile 2026",
+    "date_ru": "13 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "March 30th",
-        "date_fr": "30 mars",
-        "date_es": "30 de marzo",
-        "date_it": "30 marzo",
-        "date_ru": "30 \u043c\u0430\u0440\u0442\u0430 2026 \u0433.",
-        "term": "ascertain"
-    },
-    "past_terms_2": {
         "date": "April 4th",
         "date_fr": "4 avril",
         "date_es": "4 de abril",
@@ -21,20 +13,28 @@
         "date_ru": "4 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
         "term": "pudgy"
     },
+    "past_terms_2": {
+        "date": "April 5th",
+        "date_fr": "5 avril",
+        "date_es": "5 de abril",
+        "date_it": "5 aprile",
+        "date_ru": "5 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "deceive"
+    },
     "past_terms_3": {
-        "date": "April 9th",
-        "date_fr": "9 avril",
-        "date_es": "9 de abril",
-        "date_it": "9 aprile",
-        "date_ru": "9 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "all hands on deck"
+        "date": "April 7th",
+        "date_fr": "7 avril",
+        "date_es": "7 de abril",
+        "date_it": "7 aprile",
+        "date_ru": "7 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "nowhere near"
     },
     "past_terms_4": {
-        "date": "April 11th",
-        "date_fr": "11 avril",
-        "date_es": "11 de abril",
-        "date_it": "11 aprile",
-        "date_ru": "11 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "party animal"
+        "date": "April 8th",
+        "date_fr": "8 avril",
+        "date_es": "8 de abril",
+        "date_it": "8 aprile",
+        "date_ru": "8 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "grow apart"
     }
 }
