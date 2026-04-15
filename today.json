@@ -1,33 +1,33 @@
 {
-    "expression": "strike ___",
-    "today": "April 14th, 2026",
-    "date_fr": "14 avril 2026",
-    "date_es": "14 de abril de 2026",
-    "date_it": "14 aprile 2026",
-    "date_ru": "14 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "see ___",
+    "today": "April 15th, 2026",
+    "date_fr": "15 avril 2026",
+    "date_es": "15 de abril de 2026",
+    "date_it": "15 aprile 2026",
+    "date_ru": "15 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "April 6th",
-        "date_fr": "6 avril",
-        "date_es": "6 de abril",
-        "date_it": "6 aprile",
-        "date_ru": "6 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "pang"
+        "date": "April 5th",
+        "date_fr": "5 avril",
+        "date_es": "5 de abril",
+        "date_it": "5 aprile",
+        "date_ru": "5 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "deceive"
     },
     "past_terms_2": {
-        "date": "April 11th",
-        "date_fr": "11 avril",
-        "date_es": "11 de abril",
-        "date_it": "11 aprile",
-        "date_ru": "11 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "havoc"
+        "date": "April 7th",
+        "date_fr": "7 avril",
+        "date_es": "7 de abril",
+        "date_it": "7 aprile",
+        "date_ru": "7 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "ravenous"
     },
     "past_terms_3": {
-        "date": "April 12th",
-        "date_fr": "12 avril",
-        "date_es": "12 de abril",
-        "date_it": "12 aprile",
-        "date_ru": "12 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "go overboard"
+        "date": "April 10th",
+        "date_fr": "10 avril",
+        "date_es": "10 de abril",
+        "date_it": "10 aprile",
+        "date_ru": "10 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "cut ties"
     },
     "past_terms_4": {
         "date": "April 13th",
