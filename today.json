@@ -1,10 +1,10 @@
 {
-    "expression": "see ___",
-    "today": "April 15th, 2026",
-    "date_fr": "15 avril 2026",
-    "date_es": "15 de abril de 2026",
-    "date_it": "15 aprile 2026",
-    "date_ru": "15 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "lucky ____",
+    "today": "April 16th, 2026",
+    "date_fr": "16 avril 2026",
+    "date_es": "16 de abril de 2026",
+    "date_it": "16 aprile 2026",
+    "date_ru": "16 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "April 5th",
         "date_fr": "5 avril",
@@ -14,27 +14,27 @@
         "term": "deceive"
     },
     "past_terms_2": {
-        "date": "April 7th",
-        "date_fr": "7 avril",
-        "date_es": "7 de abril",
-        "date_it": "7 aprile",
-        "date_ru": "7 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "ravenous"
+        "date": "April 8th",
+        "date_fr": "8 avril",
+        "date_es": "8 de abril",
+        "date_it": "8 aprile",
+        "date_ru": "8 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "forsake"
     },
     "past_terms_3": {
-        "date": "April 10th",
-        "date_fr": "10 avril",
-        "date_es": "10 de abril",
-        "date_it": "10 aprile",
-        "date_ru": "10 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "cut ties"
+        "date": "April 11th",
+        "date_fr": "11 avril",
+        "date_es": "11 de abril",
+        "date_it": "11 aprile",
+        "date_ru": "11 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "party animal"
     },
     "past_terms_4": {
-        "date": "April 13th",
-        "date_fr": "13 avril",
-        "date_es": "13 de abril",
-        "date_it": "13 aprile",
-        "date_ru": "13 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "hit home"
+        "date": "April 12th",
+        "date_fr": "12 avril",
+        "date_es": "12 de abril",
+        "date_it": "12 aprile",
+        "date_ru": "12 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "go overboard"
     }
 }
