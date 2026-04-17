@@ -1,25 +1,25 @@
 {
-    "expression": "lucky ____",
-    "today": "April 16th, 2026",
-    "date_fr": "16 avril 2026",
-    "date_es": "16 de abril de 2026",
-    "date_it": "16 aprile 2026",
-    "date_ru": "16 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "lose ___",
+    "today": "April 17th, 2026",
+    "date_fr": "17 avril 2026",
+    "date_es": "17 de abril de 2026",
+    "date_it": "17 aprile 2026",
+    "date_ru": "17 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "April 5th",
-        "date_fr": "5 avril",
-        "date_es": "5 de abril",
-        "date_it": "5 aprile",
-        "date_ru": "5 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "deceive"
+        "date": "April 4th",
+        "date_fr": "4 avril",
+        "date_es": "4 de abril",
+        "date_it": "4 aprile",
+        "date_ru": "4 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "pudgy"
     },
     "past_terms_2": {
-        "date": "April 8th",
-        "date_fr": "8 avril",
-        "date_es": "8 de abril",
-        "date_it": "8 aprile",
-        "date_ru": "8 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "forsake"
+        "date": "April 9th",
+        "date_fr": "9 avril",
+        "date_es": "9 de abril",
+        "date_it": "9 aprile",
+        "date_ru": "9 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "grouchy"
     },
     "past_terms_3": {
         "date": "April 11th",
@@ -30,11 +30,11 @@
         "term": "party animal"
     },
     "past_terms_4": {
-        "date": "April 12th",
-        "date_fr": "12 avril",
-        "date_es": "12 de abril",
-        "date_it": "12 aprile",
-        "date_ru": "12 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "go overboard"
+        "date": "April 13th",
+        "date_fr": "13 avril",
+        "date_es": "13 de abril",
+        "date_it": "13 aprile",
+        "date_ru": "13 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "hit home"
     }
 }
