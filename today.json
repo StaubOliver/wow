@@ -1,40 +1,40 @@
 {
-    "expression": "lose ___",
-    "today": "April 17th, 2026",
-    "date_fr": "17 avril 2026",
-    "date_es": "17 de abril de 2026",
-    "date_it": "17 aprile 2026",
-    "date_ru": "17 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "sniff _____",
+    "today": "April 18th, 2026",
+    "date_fr": "18 avril 2026",
+    "date_es": "18 de abril de 2026",
+    "date_it": "18 aprile 2026",
+    "date_ru": "18 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "April 4th",
-        "date_fr": "4 avril",
-        "date_es": "4 de abril",
-        "date_it": "4 aprile",
-        "date_ru": "4 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "pudgy"
+        "date": "April 7th",
+        "date_fr": "7 avril",
+        "date_es": "7 de abril",
+        "date_it": "7 aprile",
+        "date_ru": "7 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "ravenous"
     },
     "past_terms_2": {
-        "date": "April 9th",
-        "date_fr": "9 avril",
-        "date_es": "9 de abril",
-        "date_it": "9 aprile",
-        "date_ru": "9 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "grouchy"
+        "date": "April 14th",
+        "date_fr": "14 avril",
+        "date_es": "14 de abril",
+        "date_it": "14 aprile",
+        "date_ru": "14 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "lawnmower"
     },
     "past_terms_3": {
-        "date": "April 11th",
-        "date_fr": "11 avril",
-        "date_es": "11 de abril",
-        "date_it": "11 aprile",
-        "date_ru": "11 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "party animal"
+        "date": "April 16th",
+        "date_fr": "16 avril",
+        "date_es": "16 de abril",
+        "date_it": "16 aprile",
+        "date_ru": "16 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "lucky charm"
     },
     "past_terms_4": {
-        "date": "April 13th",
-        "date_fr": "13 avril",
-        "date_es": "13 de abril",
-        "date_it": "13 aprile",
-        "date_ru": "13 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "hit home"
+        "date": "April 17th",
+        "date_fr": "17 avril",
+        "date_es": "17 de abril",
+        "date_it": "17 aprile",
+        "date_ru": "17 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "lose face"
     }
 }
