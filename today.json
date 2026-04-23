@@ -1,19 +1,11 @@
 {
-    "expression": "in ______",
-    "today": "April 22nd, 2026",
-    "date_fr": "22 avril 2026",
-    "date_es": "22 de abril de 2026",
-    "date_it": "22 aprile 2026",
-    "date_ru": "22 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "quote ______",
+    "today": "April 23rd, 2026",
+    "date_fr": "23 avril 2026",
+    "date_es": "23 de abril de 2026",
+    "date_it": "23 aprile 2026",
+    "date_ru": "23 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "April 9th",
-        "date_fr": "9 avril",
-        "date_es": "9 de abril",
-        "date_it": "9 aprile",
-        "date_ru": "9 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "grouchy"
-    },
-    "past_terms_2": {
         "date": "April 12th",
         "date_fr": "12 avril",
         "date_es": "12 de abril",
@@ -21,20 +13,28 @@
         "date_ru": "12 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
         "term": "snoopy"
     },
+    "past_terms_2": {
+        "date": "April 17th",
+        "date_fr": "17 avril",
+        "date_es": "17 de abril",
+        "date_it": "17 aprile",
+        "date_ru": "17 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "wispy"
+    },
     "past_terms_3": {
-        "date": "April 13th",
-        "date_fr": "13 avril",
-        "date_es": "13 de abril",
-        "date_it": "13 aprile",
-        "date_ru": "13 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "hit home"
+        "date": "April 19th",
+        "date_fr": "19 avril",
+        "date_es": "19 de abril",
+        "date_it": "19 aprile",
+        "date_ru": "19 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "clam up"
     },
     "past_terms_4": {
-        "date": "April 20th",
-        "date_fr": "20 avril",
-        "date_es": "20 de abril",
-        "date_it": "20 aprile",
-        "date_ru": "20 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "late bloomer"
+        "date": "April 22nd",
+        "date_fr": "22 avril",
+        "date_es": "22 de abril",
+        "date_it": "22 aprile",
+        "date_ru": "22 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "in tatters"
     }
 }
