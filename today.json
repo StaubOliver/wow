@@ -1,11 +1,19 @@
 {
-    "expression": "quote ______",
-    "today": "April 23rd, 2026",
-    "date_fr": "23 avril 2026",
-    "date_es": "23 de abril de 2026",
-    "date_it": "23 aprile 2026",
-    "date_ru": "23 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "break ____",
+    "today": "April 24th, 2026",
+    "date_fr": "24 avril 2026",
+    "date_es": "24 de abril de 2026",
+    "date_it": "24 aprile 2026",
+    "date_ru": "24 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
+        "date": "April 11th",
+        "date_fr": "11 avril",
+        "date_es": "11 de abril",
+        "date_it": "11 aprile",
+        "date_ru": "11 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "havoc"
+    },
+    "past_terms_2": {
         "date": "April 12th",
         "date_fr": "12 avril",
         "date_es": "12 de abril",
@@ -13,21 +21,13 @@
         "date_ru": "12 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
         "term": "snoopy"
     },
-    "past_terms_2": {
-        "date": "April 17th",
-        "date_fr": "17 avril",
-        "date_es": "17 de abril",
-        "date_it": "17 aprile",
-        "date_ru": "17 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "wispy"
-    },
     "past_terms_3": {
-        "date": "April 19th",
-        "date_fr": "19 avril",
-        "date_es": "19 de abril",
-        "date_it": "19 aprile",
-        "date_ru": "19 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "clam up"
+        "date": "April 16th",
+        "date_fr": "16 avril",
+        "date_es": "16 de abril",
+        "date_it": "16 aprile",
+        "date_ru": "16 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "lucky charm"
     },
     "past_terms_4": {
         "date": "April 22nd",
