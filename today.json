@@ -1,40 +1,40 @@
 {
-    "expression": "only ____",
-    "today": "April 25th, 2026",
-    "date_fr": "25 avril 2026",
-    "date_es": "25 de abril de 2026",
-    "date_it": "25 aprile 2026",
-    "date_ru": "25 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "get ___",
+    "today": "April 26th, 2026",
+    "date_fr": "26 avril 2026",
+    "date_es": "26 de abril de 2026",
+    "date_it": "26 aprile 2026",
+    "date_ru": "26 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "April 16th",
-        "date_fr": "16 avril",
-        "date_es": "16 de abril",
-        "date_it": "16 aprile",
-        "date_ru": "16 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "grudgingly"
+        "date": "April 14th",
+        "date_fr": "14 avril",
+        "date_es": "14 de abril",
+        "date_it": "14 aprile",
+        "date_ru": "14 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "lawnmower"
     },
     "past_terms_2": {
+        "date": "April 17th",
+        "date_fr": "17 avril",
+        "date_es": "17 de abril",
+        "date_it": "17 aprile",
+        "date_ru": "17 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "wispy"
+    },
+    "past_terms_3": {
+        "date": "April 18th",
+        "date_fr": "18 avril",
+        "date_es": "18 de abril",
+        "date_it": "18 aprile",
+        "date_ru": "18 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "sniff around"
+    },
+    "past_terms_4": {
         "date": "April 20th",
         "date_fr": "20 avril",
         "date_es": "20 de abril",
         "date_it": "20 aprile",
         "date_ru": "20 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "fussy"
-    },
-    "past_terms_3": {
-        "date": "April 21st",
-        "date_fr": "21 avril",
-        "date_es": "21 de abril",
-        "date_it": "21 aprile",
-        "date_ru": "21 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "anyone's guess"
-    },
-    "past_terms_4": {
-        "date": "April 23rd",
-        "date_fr": "23 avril",
-        "date_es": "23 de abril",
-        "date_it": "23 aprile",
-        "date_ru": "23 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "quote unquote"
+        "term": "late bloomer"
     }
 }
