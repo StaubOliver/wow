@@ -1,40 +1,40 @@
 {
-    "expression": "fad ___",
-    "today": "April 28th, 2026",
-    "date_fr": "28 avril 2026",
-    "date_es": "28 de abril de 2026",
-    "date_it": "28 aprile 2026",
-    "date_ru": "28 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "buckle ___",
+    "today": "April 29th, 2026",
+    "date_fr": "29 avril 2026",
+    "date_es": "29 de abril de 2026",
+    "date_it": "29 aprile 2026",
+    "date_ru": "29 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "April 16th",
-        "date_fr": "16 avril",
-        "date_es": "16 de abril",
-        "date_it": "16 aprile",
-        "date_ru": "16 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "grudgingly"
+        "date": "April 17th",
+        "date_fr": "17 avril",
+        "date_es": "17 de abril",
+        "date_it": "17 aprile",
+        "date_ru": "17 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "wispy"
     },
     "past_terms_2": {
-        "date": "April 18th",
-        "date_fr": "18 avril",
-        "date_es": "18 de abril",
-        "date_it": "18 aprile",
-        "date_ru": "18 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "dicey"
+        "date": "April 23rd",
+        "date_fr": "23 avril",
+        "date_es": "23 de abril",
+        "date_it": "23 aprile",
+        "date_ru": "23 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "squishy"
     },
     "past_terms_3": {
-        "date": "April 24th",
-        "date_fr": "24 avril",
-        "date_es": "24 de abril",
-        "date_it": "24 aprile",
-        "date_ru": "24 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "break loose"
-    },
-    "past_terms_4": {
         "date": "April 26th",
         "date_fr": "26 avril",
         "date_es": "26 de abril",
         "date_it": "26 aprile",
         "date_ru": "26 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
         "term": "get even"
+    },
+    "past_terms_4": {
+        "date": "April 28th",
+        "date_fr": "28 avril",
+        "date_es": "28 de abril",
+        "date_it": "28 aprile",
+        "date_ru": "28 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "fad diet"
     }
 }
