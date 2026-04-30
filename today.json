@@ -1,10 +1,10 @@
 {
-    "expression": "buckle ___",
-    "today": "April 29th, 2026",
-    "date_fr": "29 avril 2026",
-    "date_es": "29 de abril de 2026",
-    "date_it": "29 aprile 2026",
-    "date_ru": "29 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+    "expression": "comic _____",
+    "today": "April 30th, 2026",
+    "date_fr": "30 avril 2026",
+    "date_es": "30 de abril de 2026",
+    "date_it": "30 aprile 2026",
+    "date_ru": "30 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "April 17th",
         "date_fr": "17 avril",
@@ -14,20 +14,20 @@
         "term": "wispy"
     },
     "past_terms_2": {
+        "date": "April 19th",
+        "date_fr": "19 avril",
+        "date_es": "19 de abril",
+        "date_it": "19 aprile",
+        "date_ru": "19 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "deem"
+    },
+    "past_terms_3": {
         "date": "April 23rd",
         "date_fr": "23 avril",
         "date_es": "23 de abril",
         "date_it": "23 aprile",
         "date_ru": "23 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "squishy"
-    },
-    "past_terms_3": {
-        "date": "April 26th",
-        "date_fr": "26 avril",
-        "date_es": "26 de abril",
-        "date_it": "26 aprile",
-        "date_ru": "26 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "get even"
+        "term": "quote unquote"
     },
     "past_terms_4": {
         "date": "April 28th",
