@@ -1,25 +1,25 @@
 {
-    "expression": "from ___",
-    "today": "May 2nd, 2026",
-    "date_fr": "2 mai 2026",
-    "date_es": "2 de mayo de 2026",
-    "date_it": "2 maggio 2026",
-    "date_ru": "2 \u043c\u0430\u044f 2026 \u0433.",
+    "expression": "tumble ___",
+    "today": "May 3rd, 2026",
+    "date_fr": "3 mai 2026",
+    "date_es": "3 de mayo de 2026",
+    "date_it": "3 maggio 2026",
+    "date_ru": "3 \u043c\u0430\u044f 2026 \u0433.",
     "past_terms_1": {
+        "date": "April 20th",
+        "date_fr": "20 avril",
+        "date_es": "20 de abril",
+        "date_it": "20 aprile",
+        "date_ru": "20 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "fussy"
+    },
+    "past_terms_2": {
         "date": "April 21st",
         "date_fr": "21 avril",
         "date_es": "21 de abril",
         "date_it": "21 aprile",
         "date_ru": "21 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
         "term": "betray"
-    },
-    "past_terms_2": {
-        "date": "April 23rd",
-        "date_fr": "23 avril",
-        "date_es": "23 de abril",
-        "date_it": "23 aprile",
-        "date_ru": "23 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "squishy"
     },
     "past_terms_3": {
         "date": "April 24th",
@@ -30,11 +30,11 @@
         "term": "break loose"
     },
     "past_terms_4": {
-        "date": "April 30th",
-        "date_fr": "30 avril",
-        "date_es": "30 de abril",
-        "date_it": "30 aprile",
-        "date_ru": "30 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "comic relief"
+        "date": "April 26th",
+        "date_fr": "26 avril",
+        "date_es": "26 de abril",
+        "date_it": "26 aprile",
+        "date_ru": "26 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
+        "term": "get even"
     }
 }
