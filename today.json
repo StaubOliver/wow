@@ -1,10 +1,10 @@
 {
-    "expression": "lose ____",
-    "today": "May 4th, 2026",
-    "date_fr": "4 mai 2026",
-    "date_es": "4 de mayo de 2026",
-    "date_it": "4 maggio 2026",
-    "date_ru": "4 \u043c\u0430\u044f 2026 \u0433.",
+    "expression": "picky ____",
+    "today": "May 5th, 2026",
+    "date_fr": "5 mai 2026",
+    "date_es": "5 de mayo de 2026",
+    "date_it": "5 maggio 2026",
+    "date_ru": "5 \u043c\u0430\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "April 22nd",
         "date_fr": "22 avril",
@@ -22,19 +22,19 @@
         "term": "encroachment"
     },
     "past_terms_3": {
-        "date": "April 27th",
-        "date_fr": "27 avril",
-        "date_es": "27 de abril",
-        "date_it": "27 aprile",
-        "date_ru": "27 \u0430\u043f\u0440\u0435\u043b\u044f 2026 \u0433.",
-        "term": "go undercover"
-    },
-    "past_terms_4": {
         "date": "May 1st",
         "date_fr": "1er mai",
         "date_es": "1 de mayo",
         "date_it": "1 maggio",
         "date_ru": "1 \u043c\u0430\u044f 2026 \u0433.",
         "term": "juggling act"
+    },
+    "past_terms_4": {
+        "date": "May 2nd",
+        "date_fr": "2 mai",
+        "date_es": "2 de mayo",
+        "date_it": "2 maggio",
+        "date_ru": "2 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "from afar"
     }
 }
