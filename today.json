@@ -1,33 +1,33 @@
 {
-    "expression": "bend over ________",
-    "today": "May 13th, 2026",
-    "date_fr": "13 mai 2026",
-    "date_es": "13 de mayo de 2026",
-    "date_it": "13 maggio 2026",
-    "date_ru": "13 \u043c\u0430\u044f 2026 \u0433.",
+    "expression": "get a _______",
+    "today": "May 14th, 2026",
+    "date_fr": "14 mai 2026",
+    "date_es": "14 de mayo de 2026",
+    "date_it": "14 maggio 2026",
+    "date_ru": "14 \u043c\u0430\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 1st",
-        "date_fr": "1er mai",
-        "date_es": "1 de mayo",
-        "date_it": "1 maggio",
-        "date_ru": "1 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "mislead"
+        "date": "May 4th",
+        "date_fr": "4 mai",
+        "date_es": "4 de mayo",
+        "date_it": "4 maggio",
+        "date_ru": "4 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "bestow"
     },
     "past_terms_2": {
-        "date": "May 6th",
-        "date_fr": "6 mai",
-        "date_es": "6 de mayo",
-        "date_it": "6 maggio",
-        "date_ru": "6 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "restrain"
-    },
-    "past_terms_3": {
         "date": "May 9th",
         "date_fr": "9 mai",
         "date_es": "9 de mayo",
         "date_it": "9 maggio",
         "date_ru": "9 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "skim through"
+        "term": "slayer"
+    },
+    "past_terms_3": {
+        "date": "May 11th",
+        "date_fr": "11 mai",
+        "date_es": "11 de mayo",
+        "date_it": "11 maggio",
+        "date_ru": "11 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "finders keepers"
     },
     "past_terms_4": {
         "date": "May 12th",
