@@ -1,10 +1,10 @@
 {
-    "expression": "blur the ___",
-    "today": "May 16th, 2026",
-    "date_fr": "16 mai 2026",
-    "date_es": "16 de mayo de 2026",
-    "date_it": "16 maggio 2026",
-    "date_ru": "16 \u043c\u0430\u044f 2026 \u0433.",
+    "expression": "give or ___",
+    "today": "May 17th, 2026",
+    "date_fr": "17 mai 2026",
+    "date_es": "17 de mayo de 2026",
+    "date_it": "17 maggio 2026",
+    "date_ru": "17 \u043c\u0430\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "May 4th",
         "date_fr": "4 mai",
@@ -14,27 +14,27 @@
         "term": "bestow"
     },
     "past_terms_2": {
+        "date": "May 9th",
+        "date_fr": "9 mai",
+        "date_es": "9 de mayo",
+        "date_it": "9 maggio",
+        "date_ru": "9 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "slayer"
+    },
+    "past_terms_3": {
+        "date": "May 10th",
+        "date_fr": "10 mai",
+        "date_es": "10 de mayo",
+        "date_it": "10 maggio",
+        "date_ru": "10 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "in stitches"
+    },
+    "past_terms_4": {
         "date": "May 11th",
         "date_fr": "11 mai",
         "date_es": "11 de mayo",
         "date_it": "11 maggio",
         "date_ru": "11 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "abhorrent"
-    },
-    "past_terms_3": {
-        "date": "May 12th",
-        "date_fr": "12 mai",
-        "date_es": "12 de mayo",
-        "date_it": "12 maggio",
-        "date_ru": "12 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "reach new heights"
-    },
-    "past_terms_4": {
-        "date": "May 14th",
-        "date_fr": "14 mai",
-        "date_es": "14 de mayo",
-        "date_it": "14 maggio",
-        "date_ru": "14 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "get a foothold"
+        "term": "finders keepers"
     }
 }
