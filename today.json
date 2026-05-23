@@ -1,40 +1,40 @@
 {
-    "expression": "coast is ____",
-    "today": "May 22nd, 2026",
-    "date_fr": "22 mai 2026",
-    "date_es": "22 de mayo de 2026",
-    "date_it": "22 maggio 2026",
-    "date_ru": "22 \u043c\u0430\u044f 2026 \u0433.",
+    "expression": "stir up ______",
+    "today": "May 23rd, 2026",
+    "date_fr": "23 mai 2026",
+    "date_es": "23 de mayo de 2026",
+    "date_it": "23 maggio 2026",
+    "date_ru": "23 \u043c\u0430\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 11th",
-        "date_fr": "11 mai",
-        "date_es": "11 de mayo",
-        "date_it": "11 maggio",
-        "date_ru": "11 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "abhorrent"
+        "date": "May 10th",
+        "date_fr": "10 mai",
+        "date_es": "10 de mayo",
+        "date_it": "10 maggio",
+        "date_ru": "10 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "hindsight"
     },
     "past_terms_2": {
-        "date": "May 12th",
-        "date_fr": "12 mai",
-        "date_es": "12 de mayo",
-        "date_it": "12 maggio",
-        "date_ru": "12 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "eerie"
+        "date": "May 13th",
+        "date_fr": "13 mai",
+        "date_es": "13 de mayo",
+        "date_it": "13 maggio",
+        "date_ru": "13 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "boastful"
     },
     "past_terms_3": {
-        "date": "May 15th",
-        "date_fr": "15 mai",
-        "date_es": "15 de mayo",
-        "date_it": "15 maggio",
-        "date_ru": "15 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "play a pivotal role"
+        "date": "May 14th",
+        "date_fr": "14 mai",
+        "date_es": "14 de mayo",
+        "date_it": "14 maggio",
+        "date_ru": "14 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "get a foothold"
     },
     "past_terms_4": {
-        "date": "May 19th",
-        "date_fr": "19 mai",
-        "date_es": "19 de mayo",
-        "date_it": "19 maggio",
-        "date_ru": "19 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "hit the headlines"
+        "date": "May 16th",
+        "date_fr": "16 mai",
+        "date_es": "16 de mayo",
+        "date_it": "16 maggio",
+        "date_ru": "16 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "blur the line"
     }
 }
