@@ -1,40 +1,40 @@
 {
-    "expression": "take the ____",
-    "today": "May 29th, 2026",
-    "date_fr": "29 mai 2026",
-    "date_es": "29 de mayo de 2026",
-    "date_it": "29 maggio 2026",
-    "date_ru": "29 \u043c\u0430\u044f 2026 \u0433.",
+    "expression": "break the ____",
+    "today": "May 30th, 2026",
+    "date_fr": "30 mai 2026",
+    "date_es": "30 de mayo de 2026",
+    "date_it": "30 maggio 2026",
+    "date_ru": "30 \u043c\u0430\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 16th",
-        "date_fr": "16 mai",
-        "date_es": "16 de mayo",
-        "date_it": "16 maggio",
-        "date_ru": "16 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "mischievous"
+        "date": "May 20th",
+        "date_fr": "20 mai",
+        "date_es": "20 de mayo",
+        "date_it": "20 maggio",
+        "date_ru": "20 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "upheaval"
     },
     "past_terms_2": {
-        "date": "May 17th",
-        "date_fr": "17 mai",
-        "date_es": "17 de mayo",
-        "date_it": "17 maggio",
-        "date_ru": "17 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "deleterious"
+        "date": "May 21st",
+        "date_fr": "21 mai",
+        "date_es": "21 de mayo",
+        "date_it": "21 maggio",
+        "date_ru": "21 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "loosen"
     },
     "past_terms_3": {
-        "date": "May 19th",
-        "date_fr": "19 mai",
-        "date_es": "19 de mayo",
-        "date_it": "19 maggio",
-        "date_ru": "19 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "hit the headlines"
+        "date": "May 27th",
+        "date_fr": "27 mai",
+        "date_es": "27 de mayo",
+        "date_it": "27 maggio",
+        "date_ru": "27 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "keep under wraps"
     },
     "past_terms_4": {
-        "date": "May 25th",
-        "date_fr": "25 mai",
-        "date_es": "25 de mayo",
-        "date_it": "25 maggio",
-        "date_ru": "25 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "fall into place"
+        "date": "May 28th",
+        "date_fr": "28 mai",
+        "date_es": "28 de mayo",
+        "date_it": "28 maggio",
+        "date_ru": "28 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "take a gamble"
     }
 }
