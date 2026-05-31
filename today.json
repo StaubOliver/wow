@@ -1,40 +1,40 @@
 {
-    "expression": "break the ____",
-    "today": "May 30th, 2026",
-    "date_fr": "30 mai 2026",
-    "date_es": "30 de mayo de 2026",
-    "date_it": "30 maggio 2026",
-    "date_ru": "30 \u043c\u0430\u044f 2026 \u0433.",
+    "expression": "foot the ___",
+    "today": "May 31st, 2026",
+    "date_fr": "31 mai 2026",
+    "date_es": "31 de mayo de 2026",
+    "date_it": "31 maggio 2026",
+    "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 20th",
-        "date_fr": "20 mai",
-        "date_es": "20 de mayo",
-        "date_it": "20 maggio",
-        "date_ru": "20 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "upheaval"
+        "date": "May 19th",
+        "date_fr": "19 mai",
+        "date_es": "19 de mayo",
+        "date_it": "19 maggio",
+        "date_ru": "19 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "ablaze"
     },
     "past_terms_2": {
-        "date": "May 21st",
-        "date_fr": "21 mai",
-        "date_es": "21 de mayo",
-        "date_it": "21 maggio",
-        "date_ru": "21 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "loosen"
+        "date": "May 23rd",
+        "date_fr": "23 mai",
+        "date_es": "23 de mayo",
+        "date_it": "23 maggio",
+        "date_ru": "23 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "annihilate"
     },
     "past_terms_3": {
-        "date": "May 27th",
-        "date_fr": "27 mai",
-        "date_es": "27 de mayo",
-        "date_it": "27 maggio",
-        "date_ru": "27 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "keep under wraps"
-    },
-    "past_terms_4": {
         "date": "May 28th",
         "date_fr": "28 mai",
         "date_es": "28 de mayo",
         "date_it": "28 maggio",
         "date_ru": "28 \u043c\u0430\u044f 2026 \u0433.",
         "term": "take a gamble"
+    },
+    "past_terms_4": {
+        "date": "May 29th",
+        "date_fr": "29 mai",
+        "date_es": "29 de mayo",
+        "date_it": "29 maggio",
+        "date_ru": "29 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "take the wheel"
     }
 }
