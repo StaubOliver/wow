@@ -1,40 +1,40 @@
 {
-    "expression": "make an _______",
-    "today": "June 1st, 2026",
-    "date_fr": "1er juin 2026",
-    "date_es": "1 de junio de 2026",
-    "date_it": "1 giugno 2026",
-    "date_ru": "1 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "come in ____",
+    "today": "June 2nd, 2026",
+    "date_fr": "2 juin 2026",
+    "date_es": "2 de junio de 2026",
+    "date_it": "2 giugno 2026",
+    "date_ru": "2 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 20th",
-        "date_fr": "20 mai",
-        "date_es": "20 de mayo",
-        "date_it": "20 maggio",
-        "date_ru": "20 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "upheaval"
-    },
-    "past_terms_2": {
-        "date": "May 22nd",
-        "date_fr": "22 mai",
-        "date_es": "22 de mayo",
-        "date_it": "22 maggio",
-        "date_ru": "22 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "hoarse"
-    },
-    "past_terms_3": {
         "date": "May 23rd",
         "date_fr": "23 mai",
         "date_es": "23 de mayo",
         "date_it": "23 maggio",
         "date_ru": "23 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "stir up trouble"
+        "term": "annihilate"
+    },
+    "past_terms_2": {
+        "date": "May 26th",
+        "date_fr": "26 mai",
+        "date_es": "26 de mayo",
+        "date_it": "26 maggio",
+        "date_ru": "26 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "smuggle"
+    },
+    "past_terms_3": {
+        "date": "May 29th",
+        "date_fr": "29 mai",
+        "date_es": "29 de mayo",
+        "date_it": "29 maggio",
+        "date_ru": "29 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "take the wheel"
     },
     "past_terms_4": {
-        "date": "May 27th",
-        "date_fr": "27 mai",
-        "date_es": "27 de mayo",
-        "date_it": "27 maggio",
-        "date_ru": "27 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "keep under wraps"
+        "date": "May 31st",
+        "date_fr": "31 mai",
+        "date_es": "31 de mayo",
+        "date_it": "31 maggio",
+        "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "foot the bill"
     }
 }
