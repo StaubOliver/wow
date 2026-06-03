@@ -1,17 +1,17 @@
 {
-    "expression": "come in ____",
-    "today": "June 2nd, 2026",
-    "date_fr": "2 juin 2026",
-    "date_es": "2 de junio de 2026",
-    "date_it": "2 giugno 2026",
-    "date_ru": "2 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "strike up _ ___________",
+    "today": "June 3rd, 2026",
+    "date_fr": "3 juin 2026",
+    "date_es": "3 de junio de 2026",
+    "date_it": "3 giugno 2026",
+    "date_ru": "3 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 23rd",
-        "date_fr": "23 mai",
-        "date_es": "23 de mayo",
-        "date_it": "23 maggio",
-        "date_ru": "23 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "annihilate"
+        "date": "May 24th",
+        "date_fr": "24 mai",
+        "date_es": "24 de mayo",
+        "date_it": "24 maggio",
+        "date_ru": "24 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "drainpipe"
     },
     "past_terms_2": {
         "date": "May 26th",
@@ -22,19 +22,19 @@
         "term": "smuggle"
     },
     "past_terms_3": {
-        "date": "May 29th",
-        "date_fr": "29 mai",
-        "date_es": "29 de mayo",
-        "date_it": "29 maggio",
-        "date_ru": "29 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "take the wheel"
+        "date": "May 28th",
+        "date_fr": "28 mai",
+        "date_es": "28 de mayo",
+        "date_it": "28 maggio",
+        "date_ru": "28 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "take a gamble"
     },
     "past_terms_4": {
-        "date": "May 31st",
-        "date_fr": "31 mai",
-        "date_es": "31 de mayo",
-        "date_it": "31 maggio",
-        "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "foot the bill"
+        "date": "June 2nd",
+        "date_fr": "2 juin",
+        "date_es": "2 de junio",
+        "date_it": "2 giugno",
+        "date_ru": "2 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "come in handy"
     }
 }
