@@ -1,40 +1,40 @@
 {
-    "expression": "tooth and ___",
-    "today": "June 4th, 2026",
-    "date_fr": "4 juin 2026",
-    "date_es": "4 de junio de 2026",
-    "date_it": "4 giugno 2026",
-    "date_ru": "4 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "in its ______",
+    "today": "June 5th, 2026",
+    "date_fr": "5 juin 2026",
+    "date_es": "5 de junio de 2026",
+    "date_it": "5 giugno 2026",
+    "date_ru": "5 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 22nd",
-        "date_fr": "22 mai",
-        "date_es": "22 de mayo",
-        "date_it": "22 maggio",
-        "date_ru": "22 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "hoarse"
+        "date": "May 24th",
+        "date_fr": "24 mai",
+        "date_es": "24 de mayo",
+        "date_it": "24 maggio",
+        "date_ru": "24 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "drainpipe"
     },
     "past_terms_2": {
-        "date": "May 23rd",
-        "date_fr": "23 mai",
-        "date_es": "23 de mayo",
-        "date_it": "23 maggio",
-        "date_ru": "23 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "annihilate"
+        "date": "May 26th",
+        "date_fr": "26 mai",
+        "date_es": "26 de mayo",
+        "date_it": "26 maggio",
+        "date_ru": "26 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "smuggle"
     },
     "past_terms_3": {
+        "date": "May 27th",
+        "date_fr": "27 mai",
+        "date_es": "27 de mayo",
+        "date_it": "27 maggio",
+        "date_ru": "27 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "keep under wraps"
+    },
+    "past_terms_4": {
         "date": "May 30th",
         "date_fr": "30 mai",
         "date_es": "30 de mayo",
         "date_it": "30 maggio",
         "date_ru": "30 \u043c\u0430\u044f 2026 \u0433.",
         "term": "break the curse"
-    },
-    "past_terms_4": {
-        "date": "June 2nd",
-        "date_fr": "2 juin",
-        "date_es": "2 de junio",
-        "date_it": "2 giugno",
-        "date_ru": "2 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "come in handy"
     }
 }
