@@ -1,40 +1,40 @@
 {
-    "expression": "in its ______",
-    "today": "June 5th, 2026",
-    "date_fr": "5 juin 2026",
-    "date_es": "5 de junio de 2026",
-    "date_it": "5 giugno 2026",
-    "date_ru": "5 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "cast a _____",
+    "today": "June 6th, 2026",
+    "date_fr": "6 juin 2026",
+    "date_es": "6 de junio de 2026",
+    "date_it": "6 giugno 2026",
+    "date_ru": "6 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 24th",
-        "date_fr": "24 mai",
-        "date_es": "24 de mayo",
-        "date_it": "24 maggio",
-        "date_ru": "24 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "drainpipe"
+        "date": "May 29th",
+        "date_fr": "29 mai",
+        "date_es": "29 de mayo",
+        "date_it": "29 maggio",
+        "date_ru": "29 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "cutlet"
     },
     "past_terms_2": {
-        "date": "May 26th",
-        "date_fr": "26 mai",
-        "date_es": "26 de mayo",
-        "date_it": "26 maggio",
-        "date_ru": "26 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "smuggle"
+        "date": "May 31st",
+        "date_fr": "31 mai",
+        "date_es": "31 de mayo",
+        "date_it": "31 maggio",
+        "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "underdog"
     },
     "past_terms_3": {
-        "date": "May 27th",
-        "date_fr": "27 mai",
-        "date_es": "27 de mayo",
-        "date_it": "27 maggio",
-        "date_ru": "27 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "keep under wraps"
+        "date": "June 1st",
+        "date_fr": "1er juin",
+        "date_es": "1 de junio",
+        "date_it": "1 giugno",
+        "date_ru": "1 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "make an entrance"
     },
     "past_terms_4": {
-        "date": "May 30th",
-        "date_fr": "30 mai",
-        "date_es": "30 de mayo",
-        "date_it": "30 maggio",
-        "date_ru": "30 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "break the curse"
+        "date": "June 5th",
+        "date_fr": "5 juin",
+        "date_es": "5 de junio",
+        "date_it": "5 giugno",
+        "date_ru": "5 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "in its infancy"
     }
 }
