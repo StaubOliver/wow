@@ -1,10 +1,10 @@
 {
-    "expression": "beat the ____",
-    "today": "June 8th, 2026",
-    "date_fr": "8 juin 2026",
-    "date_es": "8 de junio de 2026",
-    "date_it": "8 giugno 2026",
-    "date_ru": "8 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "come under _______",
+    "today": "June 9th, 2026",
+    "date_fr": "9 juin 2026",
+    "date_es": "9 de junio de 2026",
+    "date_it": "9 giugno 2026",
+    "date_ru": "9 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "May 28th",
         "date_fr": "28 mai",
@@ -14,27 +14,27 @@
         "term": "breadth"
     },
     "past_terms_2": {
-        "date": "June 1st",
-        "date_fr": "1er juin",
-        "date_es": "1 de junio",
-        "date_it": "1 giugno",
-        "date_ru": "1 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "henceforth"
+        "date": "May 30th",
+        "date_fr": "30 mai",
+        "date_es": "30 de mayo",
+        "date_it": "30 maggio",
+        "date_ru": "30 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "concealment"
     },
     "past_terms_3": {
+        "date": "May 31st",
+        "date_fr": "31 mai",
+        "date_es": "31 de mayo",
+        "date_it": "31 maggio",
+        "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "foot the bill"
+    },
+    "past_terms_4": {
         "date": "June 3rd",
         "date_fr": "3 juin",
         "date_es": "3 de junio",
         "date_it": "3 giugno",
         "date_ru": "3 \u0438\u044e\u043d\u044f 2026 \u0433.",
         "term": "strike up a conversation"
-    },
-    "past_terms_4": {
-        "date": "June 6th",
-        "date_fr": "6 juin",
-        "date_es": "6 de junio",
-        "date_it": "6 giugno",
-        "date_ru": "6 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "cast a glance"
     }
 }
