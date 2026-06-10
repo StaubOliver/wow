@@ -1,19 +1,11 @@
 {
-    "expression": "come under _______",
-    "today": "June 9th, 2026",
-    "date_fr": "9 juin 2026",
-    "date_es": "9 de junio de 2026",
-    "date_it": "9 giugno 2026",
-    "date_ru": "9 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "state the ______",
+    "today": "June 10th, 2026",
+    "date_fr": "10 juin 2026",
+    "date_es": "10 de junio de 2026",
+    "date_it": "10 giugno 2026",
+    "date_ru": "10 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 28th",
-        "date_fr": "28 mai",
-        "date_es": "28 de mayo",
-        "date_it": "28 maggio",
-        "date_ru": "28 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "breadth"
-    },
-    "past_terms_2": {
         "date": "May 30th",
         "date_fr": "30 mai",
         "date_es": "30 de mayo",
@@ -21,20 +13,28 @@
         "date_ru": "30 \u043c\u0430\u044f 2026 \u0433.",
         "term": "concealment"
     },
+    "past_terms_2": {
+        "date": "June 2nd",
+        "date_fr": "2 juin",
+        "date_es": "2 de junio",
+        "date_it": "2 giugno",
+        "date_ru": "2 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "treadmill"
+    },
     "past_terms_3": {
-        "date": "May 31st",
-        "date_fr": "31 mai",
-        "date_es": "31 de mayo",
-        "date_it": "31 maggio",
-        "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "foot the bill"
+        "date": "June 5th",
+        "date_fr": "5 juin",
+        "date_es": "5 de junio",
+        "date_it": "5 giugno",
+        "date_ru": "5 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "in its infancy"
     },
     "past_terms_4": {
-        "date": "June 3rd",
-        "date_fr": "3 juin",
-        "date_es": "3 de junio",
-        "date_it": "3 giugno",
-        "date_ru": "3 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "strike up a conversation"
+        "date": "June 6th",
+        "date_fr": "6 juin",
+        "date_es": "6 de junio",
+        "date_it": "6 giugno",
+        "date_ru": "6 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "cast a glance"
     }
 }
