@@ -1,17 +1,17 @@
 {
-    "expression": "state the ______",
-    "today": "June 10th, 2026",
-    "date_fr": "10 juin 2026",
-    "date_es": "10 de junio de 2026",
-    "date_it": "10 giugno 2026",
-    "date_ru": "10 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "go for ____",
+    "today": "June 11th, 2026",
+    "date_fr": "11 juin 2026",
+    "date_es": "11 de junio de 2026",
+    "date_it": "11 giugno 2026",
+    "date_ru": "11 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 30th",
-        "date_fr": "30 mai",
-        "date_es": "30 de mayo",
-        "date_it": "30 maggio",
-        "date_ru": "30 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "concealment"
+        "date": "May 31st",
+        "date_fr": "31 mai",
+        "date_es": "31 de mayo",
+        "date_it": "31 maggio",
+        "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
+        "term": "underdog"
     },
     "past_terms_2": {
         "date": "June 2nd",
@@ -22,19 +22,19 @@
         "term": "treadmill"
     },
     "past_terms_3": {
-        "date": "June 5th",
-        "date_fr": "5 juin",
-        "date_es": "5 de junio",
-        "date_it": "5 giugno",
-        "date_ru": "5 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "in its infancy"
+        "date": "June 4th",
+        "date_fr": "4 juin",
+        "date_es": "4 de junio",
+        "date_it": "4 giugno",
+        "date_ru": "4 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "tooth and nail"
     },
     "past_terms_4": {
-        "date": "June 6th",
-        "date_fr": "6 juin",
-        "date_es": "6 de junio",
-        "date_it": "6 giugno",
-        "date_ru": "6 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "cast a glance"
+        "date": "June 10th",
+        "date_fr": "10 juin",
+        "date_es": "10 de junio",
+        "date_it": "10 giugno",
+        "date_ru": "10 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "state the obvious"
     }
 }
