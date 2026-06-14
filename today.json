@@ -1,40 +1,40 @@
 {
-    "expression": "break the ___",
-    "today": "June 13th, 2026",
-    "date_fr": "13 juin 2026",
-    "date_es": "13 de junio de 2026",
-    "date_it": "13 giugno 2026",
-    "date_ru": "13 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "get wind _",
+    "today": "June 14th, 2026",
+    "date_fr": "14 juin 2026",
+    "date_es": "14 de junio de 2026",
+    "date_it": "14 giugno 2026",
+    "date_ru": "14 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "May 31st",
-        "date_fr": "31 mai",
-        "date_es": "31 de mayo",
-        "date_it": "31 maggio",
-        "date_ru": "31 \u043c\u0430\u044f 2026 \u0433.",
-        "term": "underdog"
+        "date": "June 1st",
+        "date_fr": "1er juin",
+        "date_es": "1 de junio",
+        "date_it": "1 giugno",
+        "date_ru": "1 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "henceforth"
     },
     "past_terms_2": {
-        "date": "June 3rd",
-        "date_fr": "3 juin",
-        "date_es": "3 de junio",
-        "date_it": "3 giugno",
-        "date_ru": "3 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "leery"
+        "date": "June 2nd",
+        "date_fr": "2 juin",
+        "date_es": "2 de junio",
+        "date_it": "2 giugno",
+        "date_ru": "2 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "treadmill"
     },
     "past_terms_3": {
-        "date": "June 10th",
-        "date_fr": "10 juin",
-        "date_es": "10 de junio",
-        "date_it": "10 giugno",
-        "date_ru": "10 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "state the obvious"
+        "date": "June 4th",
+        "date_fr": "4 juin",
+        "date_es": "4 de junio",
+        "date_it": "4 giugno",
+        "date_ru": "4 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "tooth and nail"
     },
     "past_terms_4": {
-        "date": "June 11th",
-        "date_fr": "11 juin",
-        "date_es": "11 de junio",
-        "date_it": "11 giugno",
-        "date_ru": "11 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "go for broke"
+        "date": "June 12th",
+        "date_fr": "12 juin",
+        "date_es": "12 de junio",
+        "date_it": "12 giugno",
+        "date_ru": "12 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "straighten things out"
     }
 }
