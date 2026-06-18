@@ -1,40 +1,40 @@
 {
-    "expression": "hit a ___",
-    "today": "June 17th, 2026",
-    "date_fr": "17 juin 2026",
-    "date_es": "17 de junio de 2026",
-    "date_it": "17 giugno 2026",
-    "date_ru": "17 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "agree to _______",
+    "today": "June 18th, 2026",
+    "date_fr": "18 juin 2026",
+    "date_es": "18 de junio de 2026",
+    "date_it": "18 giugno 2026",
+    "date_ru": "18 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 4th",
-        "date_fr": "4 juin",
-        "date_es": "4 de junio",
-        "date_it": "4 giugno",
-        "date_ru": "4 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "bone-dry"
+        "date": "June 5th",
+        "date_fr": "5 juin",
+        "date_es": "5 de junio",
+        "date_it": "5 giugno",
+        "date_ru": "5 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "cuddly"
     },
     "past_terms_2": {
-        "date": "June 8th",
-        "date_fr": "8 juin",
-        "date_es": "8 de junio",
-        "date_it": "8 giugno",
-        "date_ru": "8 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "giggles"
+        "date": "June 12th",
+        "date_fr": "12 juin",
+        "date_es": "12 de junio",
+        "date_it": "12 giugno",
+        "date_ru": "12 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "placeholder"
     },
     "past_terms_3": {
-        "date": "June 11th",
-        "date_fr": "11 juin",
-        "date_es": "11 de junio",
-        "date_it": "11 giugno",
-        "date_ru": "11 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "go for broke"
+        "date": "June 15th",
+        "date_fr": "15 juin",
+        "date_es": "15 de junio",
+        "date_it": "15 giugno",
+        "date_ru": "15 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "smell a rat"
     },
     "past_terms_4": {
-        "date": "June 14th",
-        "date_fr": "14 juin",
-        "date_es": "14 de junio",
-        "date_it": "14 giugno",
-        "date_ru": "14 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "get wind of"
+        "date": "June 16th",
+        "date_fr": "16 juin",
+        "date_es": "16 de junio",
+        "date_it": "16 giugno",
+        "date_ru": "16 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "on cloud nine"
     }
 }
