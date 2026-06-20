@@ -1,40 +1,40 @@
 {
-    "expression": "reinvent the ____",
-    "today": "June 19th, 2026",
-    "date_fr": "19 juin 2026",
-    "date_es": "19 de junio de 2026",
-    "date_it": "19 giugno 2026",
-    "date_ru": "19 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "tackle an ____",
+    "today": "June 20th, 2026",
+    "date_fr": "20 juin 2026",
+    "date_es": "20 de junio de 2026",
+    "date_it": "20 giugno 2026",
+    "date_ru": "20 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 6th",
-        "date_fr": "6 juin",
-        "date_es": "6 de junio",
-        "date_it": "6 giugno",
-        "date_ru": "6 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "soothe"
+        "date": "June 8th",
+        "date_fr": "8 juin",
+        "date_es": "8 de junio",
+        "date_it": "8 giugno",
+        "date_ru": "8 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "giggles"
     },
     "past_terms_2": {
+        "date": "June 12th",
+        "date_fr": "12 juin",
+        "date_es": "12 de junio",
+        "date_it": "12 giugno",
+        "date_ru": "12 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "placeholder"
+    },
+    "past_terms_3": {
         "date": "June 13th",
         "date_fr": "13 juin",
         "date_es": "13 de junio",
         "date_it": "13 giugno",
         "date_ru": "13 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "clincher"
-    },
-    "past_terms_3": {
-        "date": "June 14th",
-        "date_fr": "14 juin",
-        "date_es": "14 de junio",
-        "date_it": "14 giugno",
-        "date_ru": "14 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "get wind of"
+        "term": "break the news"
     },
     "past_terms_4": {
-        "date": "June 15th",
-        "date_fr": "15 juin",
-        "date_es": "15 de junio",
-        "date_it": "15 giugno",
-        "date_ru": "15 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "smell a rat"
+        "date": "June 17th",
+        "date_fr": "17 juin",
+        "date_es": "17 de junio",
+        "date_it": "17 giugno",
+        "date_ru": "17 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "hit a snag"
     }
 }
