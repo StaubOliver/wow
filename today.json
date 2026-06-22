@@ -1,40 +1,40 @@
 {
-    "expression": "carve out ___",
-    "today": "June 21st, 2026",
-    "date_fr": "21 juin 2026",
-    "date_es": "21 de junio de 2026",
-    "date_it": "21 giugno 2026",
-    "date_ru": "21 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "let off ____",
+    "today": "June 22nd, 2026",
+    "date_fr": "22 juin 2026",
+    "date_es": "22 de junio de 2026",
+    "date_it": "22 giugno 2026",
+    "date_ru": "22 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 8th",
-        "date_fr": "8 juin",
-        "date_es": "8 de junio",
-        "date_it": "8 giugno",
-        "date_ru": "8 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "giggles"
+        "date": "June 9th",
+        "date_fr": "9 juin",
+        "date_es": "9 de junio",
+        "date_it": "9 giugno",
+        "date_ru": "9 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "destitute"
     },
     "past_terms_2": {
-        "date": "June 10th",
-        "date_fr": "10 juin",
-        "date_es": "10 de junio",
-        "date_it": "10 giugno",
-        "date_ru": "10 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "gatekeeper"
+        "date": "June 15th",
+        "date_fr": "15 juin",
+        "date_es": "15 de junio",
+        "date_it": "15 giugno",
+        "date_ru": "15 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "yearn"
     },
     "past_terms_3": {
-        "date": "June 14th",
-        "date_fr": "14 juin",
-        "date_es": "14 de junio",
-        "date_it": "14 giugno",
-        "date_ru": "14 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "get wind of"
+        "date": "June 16th",
+        "date_fr": "16 juin",
+        "date_es": "16 de junio",
+        "date_it": "16 giugno",
+        "date_ru": "16 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "on cloud nine"
     },
     "past_terms_4": {
-        "date": "June 17th",
-        "date_fr": "17 juin",
-        "date_es": "17 de junio",
-        "date_it": "17 giugno",
-        "date_ru": "17 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "hit a snag"
+        "date": "June 21st",
+        "date_fr": "21 juin",
+        "date_es": "21 de junio",
+        "date_it": "21 giugno",
+        "date_ru": "21 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "carve out time"
     }
 }
