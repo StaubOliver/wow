@@ -1,40 +1,40 @@
 {
-    "expression": "take its ___",
-    "today": "June 27th, 2026",
-    "date_fr": "27 juin 2026",
-    "date_es": "27 de junio de 2026",
-    "date_it": "27 giugno 2026",
-    "date_ru": "27 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "when in ___",
+    "today": "June 28th, 2026",
+    "date_fr": "28 juin 2026",
+    "date_es": "28 de junio de 2026",
+    "date_it": "28 giugno 2026",
+    "date_ru": "28 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 17th",
-        "date_fr": "17 juin",
-        "date_es": "17 de junio",
-        "date_it": "17 giugno",
-        "date_ru": "17 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "newbie"
+        "date": "June 21st",
+        "date_fr": "21 juin",
+        "date_es": "21 de junio",
+        "date_it": "21 giugno",
+        "date_ru": "21 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "quirky"
     },
     "past_terms_2": {
-        "date": "June 19th",
-        "date_fr": "19 juin",
-        "date_es": "19 de junio",
-        "date_it": "19 giugno",
-        "date_ru": "19 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "patchy"
+        "date": "June 22nd",
+        "date_fr": "22 juin",
+        "date_es": "22 de junio",
+        "date_it": "22 giugno",
+        "date_ru": "22 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "tacky"
     },
     "past_terms_3": {
-        "date": "June 23rd",
-        "date_fr": "23 juin",
-        "date_es": "23 de junio",
-        "date_it": "23 giugno",
-        "date_ru": "23 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "against the grain"
-    },
-    "past_terms_4": {
         "date": "June 26th",
         "date_fr": "26 juin",
         "date_es": "26 de junio",
         "date_it": "26 giugno",
         "date_ru": "26 \u0438\u044e\u043d\u044f 2026 \u0433.",
         "term": "jump to conclusions"
+    },
+    "past_terms_4": {
+        "date": "June 27th",
+        "date_fr": "27 juin",
+        "date_es": "27 de junio",
+        "date_it": "27 giugno",
+        "date_ru": "27 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "take its toll"
     }
 }
