@@ -1,40 +1,40 @@
 {
-    "expression": "bear the ___________",
-    "today": "June 29th, 2026",
-    "date_fr": "29 juin 2026",
-    "date_es": "29 de junio de 2026",
-    "date_it": "29 giugno 2026",
-    "date_ru": "29 \u0438\u044e\u043d\u044f 2026 \u0433.",
+    "expression": "bridge the _____",
+    "today": "June 30th, 2026",
+    "date_fr": "30 juin 2026",
+    "date_es": "30 de junio de 2026",
+    "date_it": "30 giugno 2026",
+    "date_ru": "30 \u0438\u044e\u043d\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 16th",
-        "date_fr": "16 juin",
-        "date_es": "16 de junio",
-        "date_it": "16 giugno",
-        "date_ru": "16 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "elucidate"
+        "date": "June 21st",
+        "date_fr": "21 juin",
+        "date_es": "21 de junio",
+        "date_it": "21 giugno",
+        "date_ru": "21 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "quirky"
     },
     "past_terms_2": {
-        "date": "June 17th",
-        "date_fr": "17 juin",
-        "date_es": "17 de junio",
-        "date_it": "17 giugno",
-        "date_ru": "17 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "newbie"
-    },
-    "past_terms_3": {
-        "date": "June 18th",
-        "date_fr": "18 juin",
-        "date_es": "18 de junio",
-        "date_it": "18 giugno",
-        "date_ru": "18 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "agree to disagree"
-    },
-    "past_terms_4": {
         "date": "June 22nd",
         "date_fr": "22 juin",
         "date_es": "22 de junio",
         "date_it": "22 giugno",
         "date_ru": "22 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "let off steam"
+        "term": "tacky"
+    },
+    "past_terms_3": {
+        "date": "June 28th",
+        "date_fr": "28 juin",
+        "date_es": "28 de junio",
+        "date_it": "28 giugno",
+        "date_ru": "28 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "when in Rome"
+    },
+    "past_terms_4": {
+        "date": "June 29th",
+        "date_fr": "29 juin",
+        "date_es": "29 de junio",
+        "date_it": "29 giugno",
+        "date_ru": "29 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "bear the consequences"
     }
 }
