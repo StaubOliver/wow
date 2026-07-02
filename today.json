@@ -1,40 +1,40 @@
 {
-    "expression": "doomed to ___",
-    "today": "July 1st, 2026",
-    "date_fr": "1er juillet 2026",
-    "date_es": "1 de julio de 2026",
-    "date_it": "1 luglio 2026",
-    "date_ru": "1 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "learn the ____",
+    "today": "July 2nd, 2026",
+    "date_fr": "2 juillet 2026",
+    "date_es": "2 de julio de 2026",
+    "date_it": "2 luglio 2026",
+    "date_ru": "2 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 18th",
-        "date_fr": "18 juin",
-        "date_es": "18 de junio",
-        "date_it": "18 giugno",
-        "date_ru": "18 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "blurry"
+        "date": "June 22nd",
+        "date_fr": "22 juin",
+        "date_es": "22 de junio",
+        "date_it": "22 giugno",
+        "date_ru": "22 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "tacky"
     },
     "past_terms_2": {
-        "date": "June 19th",
-        "date_fr": "19 juin",
-        "date_es": "19 de junio",
-        "date_it": "19 giugno",
-        "date_ru": "19 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "patchy"
+        "date": "June 23rd",
+        "date_fr": "23 juin",
+        "date_es": "23 de junio",
+        "date_it": "23 giugno",
+        "date_ru": "23 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "detrimental"
     },
     "past_terms_3": {
-        "date": "June 27th",
-        "date_fr": "27 juin",
-        "date_es": "27 de junio",
-        "date_it": "27 giugno",
-        "date_ru": "27 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "take its toll"
+        "date": "June 26th",
+        "date_fr": "26 juin",
+        "date_es": "26 de junio",
+        "date_it": "26 giugno",
+        "date_ru": "26 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "jump to conclusions"
     },
     "past_terms_4": {
-        "date": "June 28th",
-        "date_fr": "28 juin",
-        "date_es": "28 de junio",
-        "date_it": "28 giugno",
-        "date_ru": "28 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "when in Rome"
+        "date": "July 1st",
+        "date_fr": "1er juillet",
+        "date_es": "1 de julio",
+        "date_it": "1 luglio",
+        "date_ru": "1 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "doomed to fail"
     }
 }
