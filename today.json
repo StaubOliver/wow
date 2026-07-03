@@ -1,10 +1,10 @@
 {
-    "expression": "learn the ____",
-    "today": "July 2nd, 2026",
-    "date_fr": "2 juillet 2026",
-    "date_es": "2 de julio de 2026",
-    "date_it": "2 luglio 2026",
-    "date_ru": "2 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "win hands ___",
+    "today": "July 3rd, 2026",
+    "date_fr": "3 juillet 2026",
+    "date_es": "3 de julio de 2026",
+    "date_it": "3 luglio 2026",
+    "date_ru": "3 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "June 22nd",
         "date_fr": "22 juin",
@@ -14,27 +14,27 @@
         "term": "tacky"
     },
     "past_terms_2": {
-        "date": "June 23rd",
-        "date_fr": "23 juin",
-        "date_es": "23 de junio",
-        "date_it": "23 giugno",
-        "date_ru": "23 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "detrimental"
+        "date": "June 24th",
+        "date_fr": "24 juin",
+        "date_es": "24 de junio",
+        "date_it": "24 giugno",
+        "date_ru": "24 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "doorknob"
     },
     "past_terms_3": {
-        "date": "June 26th",
-        "date_fr": "26 juin",
-        "date_es": "26 de junio",
-        "date_it": "26 giugno",
-        "date_ru": "26 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "jump to conclusions"
+        "date": "June 27th",
+        "date_fr": "27 juin",
+        "date_es": "27 de junio",
+        "date_it": "27 giugno",
+        "date_ru": "27 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "take its toll"
     },
     "past_terms_4": {
-        "date": "July 1st",
-        "date_fr": "1er juillet",
-        "date_es": "1 de julio",
-        "date_it": "1 luglio",
-        "date_ru": "1 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "doomed to fail"
+        "date": "June 29th",
+        "date_fr": "29 juin",
+        "date_es": "29 de junio",
+        "date_it": "29 giugno",
+        "date_ru": "29 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "bear the consequences"
     }
 }
