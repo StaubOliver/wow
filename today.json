@@ -1,40 +1,40 @@
 {
-    "expression": "win hands ___",
-    "today": "July 3rd, 2026",
-    "date_fr": "3 juillet 2026",
-    "date_es": "3 de julio de 2026",
-    "date_it": "3 luglio 2026",
-    "date_ru": "3 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "run an _____",
+    "today": "July 4th, 2026",
+    "date_fr": "4 juillet 2026",
+    "date_es": "4 de julio de 2026",
+    "date_it": "4 luglio 2026",
+    "date_ru": "4 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 22nd",
-        "date_fr": "22 juin",
-        "date_es": "22 de junio",
-        "date_it": "22 giugno",
-        "date_ru": "22 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "tacky"
+        "date": "June 25th",
+        "date_fr": "25 juin",
+        "date_es": "25 de junio",
+        "date_it": "25 giugno",
+        "date_ru": "25 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "brainy"
     },
     "past_terms_2": {
-        "date": "June 24th",
-        "date_fr": "24 juin",
-        "date_es": "24 de junio",
-        "date_it": "24 giugno",
-        "date_ru": "24 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "doorknob"
-    },
-    "past_terms_3": {
         "date": "June 27th",
         "date_fr": "27 juin",
         "date_es": "27 de junio",
         "date_it": "27 giugno",
         "date_ru": "27 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "take its toll"
+        "term": "stamina"
     },
-    "past_terms_4": {
+    "past_terms_3": {
         "date": "June 29th",
         "date_fr": "29 juin",
         "date_es": "29 de junio",
         "date_it": "29 giugno",
         "date_ru": "29 \u0438\u044e\u043d\u044f 2026 \u0433.",
         "term": "bear the consequences"
+    },
+    "past_terms_4": {
+        "date": "July 3rd",
+        "date_fr": "3 juillet",
+        "date_es": "3 de julio",
+        "date_it": "3 luglio",
+        "date_ru": "3 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "win hands down"
     }
 }
