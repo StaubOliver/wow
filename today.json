@@ -1,40 +1,40 @@
 {
-    "expression": "drop a ___",
-    "today": "July 5th, 2026",
-    "date_fr": "5 juillet 2026",
-    "date_es": "5 de julio de 2026",
-    "date_it": "5 luglio 2026",
-    "date_ru": "5 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "warts and __",
+    "today": "July 6th, 2026",
+    "date_fr": "6 juillet 2026",
+    "date_es": "6 de julio de 2026",
+    "date_it": "6 luglio 2026",
+    "date_ru": "6 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 23rd",
-        "date_fr": "23 juin",
-        "date_es": "23 de junio",
-        "date_it": "23 giugno",
-        "date_ru": "23 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "detrimental"
-    },
-    "past_terms_2": {
-        "date": "June 24th",
-        "date_fr": "24 juin",
-        "date_es": "24 de junio",
-        "date_it": "24 giugno",
-        "date_ru": "24 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "doorknob"
-    },
-    "past_terms_3": {
         "date": "June 27th",
         "date_fr": "27 juin",
         "date_es": "27 de junio",
         "date_it": "27 giugno",
         "date_ru": "27 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "take its toll"
+        "term": "stamina"
+    },
+    "past_terms_2": {
+        "date": "June 30th",
+        "date_fr": "30 juin",
+        "date_es": "30 de junio",
+        "date_it": "30 giugno",
+        "date_ru": "30 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "brainchild"
+    },
+    "past_terms_3": {
+        "date": "July 4th",
+        "date_fr": "4 juillet",
+        "date_es": "4 de julio",
+        "date_it": "4 luglio",
+        "date_ru": "4 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "run an errand"
     },
     "past_terms_4": {
-        "date": "July 1st",
-        "date_fr": "1er juillet",
-        "date_es": "1 de julio",
-        "date_it": "1 luglio",
-        "date_ru": "1 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "doomed to fail"
+        "date": "July 5th",
+        "date_fr": "5 juillet",
+        "date_es": "5 de julio",
+        "date_it": "5 luglio",
+        "date_ru": "5 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "drop a hint"
     }
 }
