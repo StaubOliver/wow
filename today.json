@@ -1,25 +1,25 @@
 {
-    "expression": "prepare the _____",
-    "today": "July 7th, 2026",
-    "date_fr": "7 juillet 2026",
-    "date_es": "7 de julio de 2026",
-    "date_it": "7 luglio 2026",
-    "date_ru": "7 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "blow a ___",
+    "today": "July 8th, 2026",
+    "date_fr": "8 juillet 2026",
+    "date_es": "8 de julio de 2026",
+    "date_it": "8 luglio 2026",
+    "date_ru": "8 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 27th",
-        "date_fr": "27 juin",
-        "date_es": "27 de junio",
-        "date_it": "27 giugno",
-        "date_ru": "27 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "stamina"
+        "date": "June 29th",
+        "date_fr": "29 juin",
+        "date_es": "29 de junio",
+        "date_it": "29 giugno",
+        "date_ru": "29 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "mayhem"
     },
     "past_terms_2": {
-        "date": "July 1st",
-        "date_fr": "1er juillet",
-        "date_es": "1 de julio",
-        "date_it": "1 luglio",
-        "date_ru": "1 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "spurious"
+        "date": "June 30th",
+        "date_fr": "30 juin",
+        "date_es": "30 de junio",
+        "date_it": "30 giugno",
+        "date_ru": "30 \u0438\u044e\u043d\u044f 2026 \u0433.",
+        "term": "brainchild"
     },
     "past_terms_3": {
         "date": "July 3rd",
@@ -30,11 +30,11 @@
         "term": "win hands down"
     },
     "past_terms_4": {
-        "date": "July 5th",
-        "date_fr": "5 juillet",
-        "date_es": "5 de julio",
-        "date_it": "5 luglio",
-        "date_ru": "5 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "drop a hint"
+        "date": "July 7th",
+        "date_fr": "7 juillet",
+        "date_es": "7 de julio",
+        "date_it": "7 luglio",
+        "date_ru": "7 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "prepare the ground"
     }
 }
