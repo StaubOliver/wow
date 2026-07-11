@@ -1,19 +1,11 @@
 {
-    "expression": "all over ____",
-    "today": "July 10th, 2026",
-    "date_fr": "10 juillet 2026",
-    "date_es": "10 de julio de 2026",
-    "date_it": "10 luglio 2026",
-    "date_ru": "10 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "jump the __",
+    "today": "July 11th, 2026",
+    "date_fr": "11 juillet 2026",
+    "date_es": "11 de julio de 2026",
+    "date_it": "11 luglio 2026",
+    "date_ru": "11 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "June 29th",
-        "date_fr": "29 juin",
-        "date_es": "29 de junio",
-        "date_it": "29 giugno",
-        "date_ru": "29 \u0438\u044e\u043d\u044f 2026 \u0433.",
-        "term": "mayhem"
-    },
-    "past_terms_2": {
         "date": "July 3rd",
         "date_fr": "3 juillet",
         "date_es": "3 de julio",
@@ -21,20 +13,28 @@
         "date_ru": "3 \u0438\u044e\u043b\u044f 2026 \u0433.",
         "term": "bountiful"
     },
-    "past_terms_3": {
+    "past_terms_2": {
         "date": "July 5th",
         "date_fr": "5 juillet",
         "date_es": "5 de julio",
         "date_it": "5 luglio",
         "date_ru": "5 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "drop a hint"
+        "term": "touchy"
+    },
+    "past_terms_3": {
+        "date": "July 6th",
+        "date_fr": "6 juillet",
+        "date_es": "6 de julio",
+        "date_it": "6 luglio",
+        "date_ru": "6 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "warts and all"
     },
     "past_terms_4": {
-        "date": "July 8th",
-        "date_fr": "8 juillet",
-        "date_es": "8 de julio",
-        "date_it": "8 luglio",
-        "date_ru": "8 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "blow a fuse"
+        "date": "July 9th",
+        "date_fr": "9 juillet",
+        "date_es": "9 de julio",
+        "date_it": "9 luglio",
+        "date_ru": "9 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "draw a parallel"
     }
 }
