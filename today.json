@@ -1,25 +1,25 @@
 {
-    "expression": "jump the __",
-    "today": "July 11th, 2026",
-    "date_fr": "11 juillet 2026",
-    "date_es": "11 de julio de 2026",
-    "date_it": "11 luglio 2026",
-    "date_ru": "11 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "come what __",
+    "today": "July 12th, 2026",
+    "date_fr": "12 juillet 2026",
+    "date_es": "12 de julio de 2026",
+    "date_it": "12 luglio 2026",
+    "date_ru": "12 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 3rd",
-        "date_fr": "3 juillet",
-        "date_es": "3 de julio",
-        "date_it": "3 luglio",
-        "date_ru": "3 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "bountiful"
+        "date": "July 2nd",
+        "date_fr": "2 juillet",
+        "date_es": "2 de julio",
+        "date_it": "2 luglio",
+        "date_ru": "2 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "deadlock"
     },
     "past_terms_2": {
-        "date": "July 5th",
-        "date_fr": "5 juillet",
-        "date_es": "5 de julio",
-        "date_it": "5 luglio",
-        "date_ru": "5 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "touchy"
+        "date": "July 4th",
+        "date_fr": "4 juillet",
+        "date_es": "4 de julio",
+        "date_it": "4 luglio",
+        "date_ru": "4 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "trustworthy"
     },
     "past_terms_3": {
         "date": "July 6th",
