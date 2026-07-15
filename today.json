@@ -1,40 +1,40 @@
 {
-    "expression": "at full ____",
-    "today": "July 14th, 2026",
-    "date_fr": "14 juillet 2026",
-    "date_es": "14 de julio de 2026",
-    "date_it": "14 luglio 2026",
-    "date_ru": "14 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "keep your _______",
+    "today": "July 15th, 2026",
+    "date_fr": "15 juillet 2026",
+    "date_es": "15 de julio de 2026",
+    "date_it": "15 luglio 2026",
+    "date_ru": "15 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
+        "date": "July 2nd",
+        "date_fr": "2 juillet",
+        "date_es": "2 de julio",
+        "date_it": "2 luglio",
+        "date_ru": "2 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "deadlock"
+    },
+    "past_terms_2": {
+        "date": "July 4th",
+        "date_fr": "4 juillet",
+        "date_es": "4 de julio",
+        "date_it": "4 luglio",
+        "date_ru": "4 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "trustworthy"
+    },
+    "past_terms_3": {
         "date": "July 5th",
         "date_fr": "5 juillet",
         "date_es": "5 de julio",
         "date_it": "5 luglio",
         "date_ru": "5 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "touchy"
-    },
-    "past_terms_2": {
-        "date": "July 7th",
-        "date_fr": "7 juillet",
-        "date_es": "7 de julio",
-        "date_it": "7 luglio",
-        "date_ru": "7 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "righteous"
-    },
-    "past_terms_3": {
-        "date": "July 12th",
-        "date_fr": "12 juillet",
-        "date_es": "12 de julio",
-        "date_it": "12 luglio",
-        "date_ru": "12 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "come what may"
+        "term": "drop a hint"
     },
     "past_terms_4": {
-        "date": "July 13th",
-        "date_fr": "13 juillet",
-        "date_es": "13 de julio",
-        "date_it": "13 luglio",
-        "date_ru": "13 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "without further ado"
+        "date": "July 9th",
+        "date_fr": "9 juillet",
+        "date_es": "9 de julio",
+        "date_it": "9 luglio",
+        "date_ru": "9 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "draw a parallel"
     }
 }
