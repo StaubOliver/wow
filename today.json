@@ -1,11 +1,19 @@
 {
-    "expression": "in a ___",
-    "today": "July 16th, 2026",
-    "date_fr": "16 juillet 2026",
-    "date_es": "16 de julio de 2026",
-    "date_it": "16 luglio 2026",
-    "date_ru": "16 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "set the __",
+    "today": "July 17th, 2026",
+    "date_fr": "17 juillet 2026",
+    "date_es": "17 de julio de 2026",
+    "date_it": "17 luglio 2026",
+    "date_ru": "17 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
+        "date": "July 4th",
+        "date_fr": "4 juillet",
+        "date_es": "4 de julio",
+        "date_it": "4 luglio",
+        "date_ru": "4 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "trustworthy"
+    },
+    "past_terms_2": {
         "date": "July 7th",
         "date_fr": "7 juillet",
         "date_es": "7 de julio",
@@ -13,28 +21,20 @@
         "date_ru": "7 \u0438\u044e\u043b\u044f 2026 \u0433.",
         "term": "righteous"
     },
-    "past_terms_2": {
+    "past_terms_3": {
         "date": "July 8th",
         "date_fr": "8 juillet",
         "date_es": "8 de julio",
         "date_it": "8 luglio",
         "date_ru": "8 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "layman"
-    },
-    "past_terms_3": {
-        "date": "July 11th",
-        "date_fr": "11 juillet",
-        "date_es": "11 de julio",
-        "date_it": "11 luglio",
-        "date_ru": "11 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "jump the gun"
+        "term": "blow a fuse"
     },
     "past_terms_4": {
-        "date": "July 14th",
-        "date_fr": "14 juillet",
-        "date_es": "14 de julio",
-        "date_it": "14 luglio",
-        "date_ru": "14 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "at full blast"
+        "date": "July 12th",
+        "date_fr": "12 juillet",
+        "date_es": "12 de julio",
+        "date_it": "12 luglio",
+        "date_ru": "12 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "come what may"
     }
 }
