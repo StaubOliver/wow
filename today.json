@@ -1,40 +1,40 @@
 {
-    "expression": "set the __",
-    "today": "July 17th, 2026",
-    "date_fr": "17 juillet 2026",
-    "date_es": "17 de julio de 2026",
-    "date_it": "17 luglio 2026",
-    "date_ru": "17 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "on the _____",
+    "today": "July 18th, 2026",
+    "date_fr": "18 juillet 2026",
+    "date_es": "18 de julio de 2026",
+    "date_it": "18 luglio 2026",
+    "date_ru": "18 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 4th",
-        "date_fr": "4 juillet",
-        "date_es": "4 de julio",
-        "date_it": "4 luglio",
-        "date_ru": "4 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "trustworthy"
+        "date": "July 6th",
+        "date_fr": "6 juillet",
+        "date_es": "6 de julio",
+        "date_it": "6 luglio",
+        "date_ru": "6 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "remembrance"
     },
     "past_terms_2": {
-        "date": "July 7th",
-        "date_fr": "7 juillet",
-        "date_es": "7 de julio",
-        "date_it": "7 luglio",
-        "date_ru": "7 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "righteous"
+        "date": "July 9th",
+        "date_fr": "9 juillet",
+        "date_es": "9 de julio",
+        "date_it": "9 luglio",
+        "date_ru": "9 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "reframe"
     },
     "past_terms_3": {
-        "date": "July 8th",
-        "date_fr": "8 juillet",
-        "date_es": "8 de julio",
-        "date_it": "8 luglio",
-        "date_ru": "8 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "blow a fuse"
-    },
-    "past_terms_4": {
         "date": "July 12th",
         "date_fr": "12 juillet",
         "date_es": "12 de julio",
         "date_it": "12 luglio",
         "date_ru": "12 \u0438\u044e\u043b\u044f 2026 \u0433.",
         "term": "come what may"
+    },
+    "past_terms_4": {
+        "date": "July 16th",
+        "date_fr": "16 juillet",
+        "date_es": "16 de julio",
+        "date_it": "16 luglio",
+        "date_ru": "16 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "in a huff"
     }
 }
