@@ -1,17 +1,17 @@
 {
-    "expression": "in broad _______",
-    "today": "July 19th, 2026",
-    "date_fr": "19 juillet 2026",
-    "date_es": "19 de julio de 2026",
-    "date_it": "19 luglio 2026",
-    "date_ru": "19 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "up to a ____",
+    "today": "July 20th, 2026",
+    "date_fr": "20 juillet 2026",
+    "date_es": "20 de julio de 2026",
+    "date_it": "20 luglio 2026",
+    "date_ru": "20 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 13th",
-        "date_fr": "13 juillet",
-        "date_es": "13 de julio",
-        "date_it": "13 luglio",
-        "date_ru": "13 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "unapologetic"
+        "date": "July 10th",
+        "date_fr": "10 juillet",
+        "date_es": "10 de julio",
+        "date_it": "10 luglio",
+        "date_ru": "10 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "disingenuous"
     },
     "past_terms_2": {
         "date": "July 14th",
@@ -30,11 +30,11 @@
         "term": "in a huff"
     },
     "past_terms_4": {
-        "date": "July 18th",
-        "date_fr": "18 juillet",
-        "date_es": "18 de julio",
-        "date_it": "18 luglio",
-        "date_ru": "18 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "on the fringe"
+        "date": "July 17th",
+        "date_fr": "17 juillet",
+        "date_es": "17 de julio",
+        "date_it": "17 luglio",
+        "date_ru": "17 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "set the bar"
     }
 }
