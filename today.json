@@ -1,40 +1,40 @@
 {
-    "expression": "up to a ____",
-    "today": "July 20th, 2026",
-    "date_fr": "20 juillet 2026",
-    "date_es": "20 de julio de 2026",
-    "date_it": "20 luglio 2026",
-    "date_ru": "20 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "do the ____",
+    "today": "July 21st, 2026",
+    "date_fr": "21 juillet 2026",
+    "date_es": "21 de julio de 2026",
+    "date_it": "21 luglio 2026",
+    "date_ru": "21 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 10th",
-        "date_fr": "10 juillet",
-        "date_es": "10 de julio",
-        "date_it": "10 luglio",
-        "date_ru": "10 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "disingenuous"
+        "date": "July 8th",
+        "date_fr": "8 juillet",
+        "date_es": "8 de julio",
+        "date_it": "8 luglio",
+        "date_ru": "8 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "layman"
     },
     "past_terms_2": {
-        "date": "July 14th",
-        "date_fr": "14 juillet",
-        "date_es": "14 de julio",
-        "date_it": "14 luglio",
-        "date_ru": "14 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "ticklish"
+        "date": "July 12th",
+        "date_fr": "12 juillet",
+        "date_es": "12 de julio",
+        "date_it": "12 luglio",
+        "date_ru": "12 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "thereabouts"
     },
     "past_terms_3": {
-        "date": "July 16th",
-        "date_fr": "16 juillet",
-        "date_es": "16 de julio",
-        "date_it": "16 luglio",
-        "date_ru": "16 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "in a huff"
+        "date": "July 15th",
+        "date_fr": "15 juillet",
+        "date_es": "15 de julio",
+        "date_it": "15 luglio",
+        "date_ru": "15 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "keep your distance"
     },
     "past_terms_4": {
-        "date": "July 17th",
-        "date_fr": "17 juillet",
-        "date_es": "17 de julio",
-        "date_it": "17 luglio",
-        "date_ru": "17 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "set the bar"
+        "date": "July 19th",
+        "date_fr": "19 juillet",
+        "date_es": "19 de julio",
+        "date_it": "19 luglio",
+        "date_ru": "19 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "in broad daylight"
     }
 }
