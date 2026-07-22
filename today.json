@@ -1,25 +1,25 @@
 {
-    "expression": "do the ____",
-    "today": "July 21st, 2026",
-    "date_fr": "21 juillet 2026",
-    "date_es": "21 de julio de 2026",
-    "date_it": "21 luglio 2026",
-    "date_ru": "21 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "put at ___",
+    "today": "July 22nd, 2026",
+    "date_fr": "22 juillet 2026",
+    "date_es": "22 de julio de 2026",
+    "date_it": "22 luglio 2026",
+    "date_ru": "22 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 8th",
-        "date_fr": "8 juillet",
-        "date_es": "8 de julio",
-        "date_it": "8 luglio",
-        "date_ru": "8 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "layman"
+        "date": "July 9th",
+        "date_fr": "9 juillet",
+        "date_es": "9 de julio",
+        "date_it": "9 luglio",
+        "date_ru": "9 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "reframe"
     },
     "past_terms_2": {
-        "date": "July 12th",
-        "date_fr": "12 juillet",
-        "date_es": "12 de julio",
-        "date_it": "12 luglio",
-        "date_ru": "12 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "thereabouts"
+        "date": "July 14th",
+        "date_fr": "14 juillet",
+        "date_es": "14 de julio",
+        "date_it": "14 luglio",
+        "date_ru": "14 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "ticklish"
     },
     "past_terms_3": {
         "date": "July 15th",
@@ -30,11 +30,11 @@
         "term": "keep your distance"
     },
     "past_terms_4": {
-        "date": "July 19th",
-        "date_fr": "19 juillet",
-        "date_es": "19 de julio",
-        "date_it": "19 luglio",
-        "date_ru": "19 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "in broad daylight"
+        "date": "July 18th",
+        "date_fr": "18 juillet",
+        "date_es": "18 de julio",
+        "date_it": "18 luglio",
+        "date_ru": "18 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "on the fringe"
     }
 }
