@@ -1,17 +1,17 @@
 {
-    "expression": "put at ___",
-    "today": "July 22nd, 2026",
-    "date_fr": "22 juillet 2026",
-    "date_es": "22 de julio de 2026",
-    "date_it": "22 luglio 2026",
-    "date_ru": "22 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "cook from ______",
+    "today": "July 23rd, 2026",
+    "date_fr": "23 juillet 2026",
+    "date_es": "23 de julio de 2026",
+    "date_it": "23 luglio 2026",
+    "date_ru": "23 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 9th",
-        "date_fr": "9 juillet",
-        "date_es": "9 de julio",
-        "date_it": "9 luglio",
-        "date_ru": "9 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "reframe"
+        "date": "July 13th",
+        "date_fr": "13 juillet",
+        "date_es": "13 de julio",
+        "date_it": "13 luglio",
+        "date_ru": "13 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "unapologetic"
     },
     "past_terms_2": {
         "date": "July 14th",
@@ -22,19 +22,19 @@
         "term": "ticklish"
     },
     "past_terms_3": {
-        "date": "July 15th",
-        "date_fr": "15 juillet",
-        "date_es": "15 de julio",
-        "date_it": "15 luglio",
-        "date_ru": "15 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "keep your distance"
+        "date": "July 16th",
+        "date_fr": "16 juillet",
+        "date_es": "16 de julio",
+        "date_it": "16 luglio",
+        "date_ru": "16 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "in a huff"
     },
     "past_terms_4": {
-        "date": "July 18th",
-        "date_fr": "18 juillet",
-        "date_es": "18 de julio",
-        "date_it": "18 luglio",
-        "date_ru": "18 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "on the fringe"
+        "date": "July 21st",
+        "date_fr": "21 juillet",
+        "date_es": "21 de julio",
+        "date_it": "21 luglio",
+        "date_ru": "21 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "do the trick"
     }
 }
