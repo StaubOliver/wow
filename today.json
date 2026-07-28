@@ -1,10 +1,10 @@
 {
-    "expression": "strength in ______",
-    "today": "July 27th, 2026",
-    "date_fr": "27 juillet 2026",
-    "date_es": "27 de julio de 2026",
-    "date_it": "27 luglio 2026",
-    "date_ru": "27 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "steal the ___",
+    "today": "July 28th, 2026",
+    "date_fr": "28 juillet 2026",
+    "date_es": "28 de julio de 2026",
+    "date_it": "28 luglio 2026",
+    "date_ru": "28 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "July 15th",
         "date_fr": "15 juillet",
@@ -14,27 +14,27 @@
         "term": "onlooker"
     },
     "past_terms_2": {
-        "date": "July 16th",
-        "date_fr": "16 juillet",
-        "date_es": "16 de julio",
-        "date_it": "16 luglio",
-        "date_ru": "16 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "rip-off"
+        "date": "July 17th",
+        "date_fr": "17 juillet",
+        "date_es": "17 de julio",
+        "date_it": "17 luglio",
+        "date_ru": "17 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "proclaim"
     },
     "past_terms_3": {
-        "date": "July 20th",
-        "date_fr": "20 juillet",
-        "date_es": "20 de julio",
-        "date_it": "20 luglio",
-        "date_ru": "20 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "up to a point"
+        "date": "July 26th",
+        "date_fr": "26 juillet",
+        "date_es": "26 de julio",
+        "date_it": "26 luglio",
+        "date_ru": "26 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "fight a losing battle"
     },
     "past_terms_4": {
-        "date": "July 25th",
-        "date_fr": "25 juillet",
-        "date_es": "25 de julio",
-        "date_it": "25 luglio",
-        "date_ru": "25 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "loud and clear"
+        "date": "July 27th",
+        "date_fr": "27 juillet",
+        "date_es": "27 de julio",
+        "date_it": "27 luglio",
+        "date_ru": "27 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "strength in numbers"
     }
 }
