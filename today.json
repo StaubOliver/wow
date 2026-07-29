@@ -1,40 +1,40 @@
 {
-    "expression": "steal the ___",
-    "today": "July 28th, 2026",
-    "date_fr": "28 juillet 2026",
-    "date_es": "28 de julio de 2026",
-    "date_it": "28 luglio 2026",
-    "date_ru": "28 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "take the ____",
+    "today": "July 29th, 2026",
+    "date_fr": "29 juillet 2026",
+    "date_es": "29 de julio de 2026",
+    "date_it": "29 luglio 2026",
+    "date_ru": "29 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 15th",
-        "date_fr": "15 juillet",
-        "date_es": "15 de julio",
-        "date_it": "15 luglio",
-        "date_ru": "15 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "onlooker"
+        "date": "July 20th",
+        "date_fr": "20 juillet",
+        "date_es": "20 de julio",
+        "date_it": "20 luglio",
+        "date_ru": "20 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "far-flung"
     },
     "past_terms_2": {
-        "date": "July 17th",
-        "date_fr": "17 juillet",
-        "date_es": "17 de julio",
-        "date_it": "17 luglio",
-        "date_ru": "17 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "proclaim"
+        "date": "July 21st",
+        "date_fr": "21 juillet",
+        "date_es": "21 de julio",
+        "date_it": "21 luglio",
+        "date_ru": "21 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "decry"
     },
     "past_terms_3": {
+        "date": "July 24th",
+        "date_fr": "24 juillet",
+        "date_es": "24 de julio",
+        "date_it": "24 luglio",
+        "date_ru": "24 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "grab the opportunity"
+    },
+    "past_terms_4": {
         "date": "July 26th",
         "date_fr": "26 juillet",
         "date_es": "26 de julio",
         "date_it": "26 luglio",
         "date_ru": "26 \u0438\u044e\u043b\u044f 2026 \u0433.",
         "term": "fight a losing battle"
-    },
-    "past_terms_4": {
-        "date": "July 27th",
-        "date_fr": "27 juillet",
-        "date_es": "27 de julio",
-        "date_it": "27 luglio",
-        "date_ru": "27 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "strength in numbers"
     }
 }
