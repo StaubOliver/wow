@@ -1,40 +1,40 @@
 {
-    "expression": "rub ________",
-    "today": "July 30th, 2026",
-    "date_fr": "30 juillet 2026",
-    "date_es": "30 de julio de 2026",
-    "date_it": "30 luglio 2026",
-    "date_ru": "30 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "have it __",
+    "today": "July 31st, 2026",
+    "date_fr": "31 juillet 2026",
+    "date_es": "31 de julio de 2026",
+    "date_it": "31 luglio 2026",
+    "date_ru": "31 \u0438\u044e\u043b\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 17th",
-        "date_fr": "17 juillet",
-        "date_es": "17 de julio",
-        "date_it": "17 luglio",
-        "date_ru": "17 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "proclaim"
-    },
-    "past_terms_2": {
-        "date": "July 18th",
-        "date_fr": "18 juillet",
-        "date_es": "18 de julio",
-        "date_it": "18 luglio",
-        "date_ru": "18 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "brawny"
-    },
-    "past_terms_3": {
         "date": "July 20th",
         "date_fr": "20 juillet",
         "date_es": "20 de julio",
         "date_it": "20 luglio",
         "date_ru": "20 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "up to a point"
+        "term": "far-flung"
+    },
+    "past_terms_2": {
+        "date": "July 21st",
+        "date_fr": "21 juillet",
+        "date_es": "21 de julio",
+        "date_it": "21 luglio",
+        "date_ru": "21 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "decry"
+    },
+    "past_terms_3": {
+        "date": "July 23rd",
+        "date_fr": "23 juillet",
+        "date_es": "23 de julio",
+        "date_it": "23 luglio",
+        "date_ru": "23 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "cook from scratch"
     },
     "past_terms_4": {
-        "date": "July 24th",
-        "date_fr": "24 juillet",
-        "date_es": "24 de julio",
-        "date_it": "24 luglio",
-        "date_ru": "24 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "grab the opportunity"
+        "date": "July 30th",
+        "date_fr": "30 juillet",
+        "date_es": "30 de julio",
+        "date_it": "30 luglio",
+        "date_ru": "30 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "rub shoulders"
     }
 }
