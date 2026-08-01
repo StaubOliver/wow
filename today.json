@@ -1,33 +1,33 @@
 {
-    "expression": "have it __",
-    "today": "July 31st, 2026",
-    "date_fr": "31 juillet 2026",
-    "date_es": "31 de julio de 2026",
-    "date_it": "31 luglio 2026",
-    "date_ru": "31 \u0438\u044e\u043b\u044f 2026 \u0433.",
+    "expression": "make a ____",
+    "today": "August 1st, 2026",
+    "date_fr": "1er ao\u00fbt 2026",
+    "date_es": "1 de agosto de 2026",
+    "date_it": "1 agosto 2026",
+    "date_ru": "1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 20th",
-        "date_fr": "20 juillet",
-        "date_es": "20 de julio",
-        "date_it": "20 luglio",
-        "date_ru": "20 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "far-flung"
+        "date": "July 22nd",
+        "date_fr": "22 juillet",
+        "date_es": "22 de julio",
+        "date_it": "22 luglio",
+        "date_ru": "22 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "outgrow"
     },
     "past_terms_2": {
-        "date": "July 21st",
-        "date_fr": "21 juillet",
-        "date_es": "21 de julio",
-        "date_it": "21 luglio",
-        "date_ru": "21 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "decry"
+        "date": "July 28th",
+        "date_fr": "28 juillet",
+        "date_es": "28 de julio",
+        "date_it": "28 luglio",
+        "date_ru": "28 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "grumpy"
     },
     "past_terms_3": {
-        "date": "July 23rd",
-        "date_fr": "23 juillet",
-        "date_es": "23 de julio",
-        "date_it": "23 luglio",
-        "date_ru": "23 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "cook from scratch"
+        "date": "July 29th",
+        "date_fr": "29 juillet",
+        "date_es": "29 de julio",
+        "date_it": "29 luglio",
+        "date_ru": "29 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "take the pulse"
     },
     "past_terms_4": {
         "date": "July 30th",
