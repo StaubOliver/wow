@@ -1,10 +1,10 @@
 {
-    "expression": "hold a _____",
-    "today": "August 3rd, 2026",
-    "date_fr": "3 ao\u00fbt 2026",
-    "date_es": "3 de agosto de 2026",
-    "date_it": "3 agosto 2026",
-    "date_ru": "3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "rain or ____",
+    "today": "August 4th, 2026",
+    "date_fr": "4 ao\u00fbt 2026",
+    "date_es": "4 de agosto de 2026",
+    "date_it": "4 agosto 2026",
+    "date_ru": "4 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
         "date": "July 22nd",
         "date_fr": "22 juillet",
@@ -14,27 +14,27 @@
         "term": "outgrow"
     },
     "past_terms_2": {
-        "date": "July 28th",
-        "date_fr": "28 juillet",
-        "date_es": "28 de julio",
-        "date_it": "28 luglio",
-        "date_ru": "28 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "grumpy"
+        "date": "July 30th",
+        "date_fr": "30 juillet",
+        "date_es": "30 de julio",
+        "date_it": "30 luglio",
+        "date_ru": "30 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "downtrodden"
     },
     "past_terms_3": {
-        "date": "July 29th",
-        "date_fr": "29 juillet",
-        "date_es": "29 de julio",
-        "date_it": "29 luglio",
-        "date_ru": "29 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "take the pulse"
+        "date": "August 2nd",
+        "date_fr": "2 ao\u00fbt",
+        "date_es": "2 de agosto",
+        "date_it": "2 agosto",
+        "date_ru": "2 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "hit the roof"
     },
     "past_terms_4": {
-        "date": "August 1st",
-        "date_fr": "1er ao\u00fbt",
-        "date_es": "1 de agosto",
-        "date_it": "1 agosto",
-        "date_ru": "1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "make a scene"
+        "date": "August 3rd",
+        "date_fr": "3 ao\u00fbt",
+        "date_es": "3 de agosto",
+        "date_it": "3 agosto",
+        "date_ru": "3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "hold a grudge"
     }
 }
