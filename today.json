@@ -1,33 +1,33 @@
 {
-    "expression": "pay a ____",
-    "today": "August 7th, 2026",
-    "date_fr": "7 ao\u00fbt 2026",
-    "date_es": "7 de agosto de 2026",
-    "date_it": "7 agosto 2026",
-    "date_ru": "7 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "spill the ____",
+    "today": "August 8th, 2026",
+    "date_fr": "8 ao\u00fbt 2026",
+    "date_es": "8 de agosto de 2026",
+    "date_it": "8 agosto 2026",
+    "date_ru": "8 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 28th",
-        "date_fr": "28 juillet",
-        "date_es": "28 de julio",
-        "date_it": "28 luglio",
-        "date_ru": "28 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "grumpy"
+        "date": "July 27th",
+        "date_fr": "27 juillet",
+        "date_es": "27 de julio",
+        "date_it": "27 luglio",
+        "date_ru": "27 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "trepidation"
     },
     "past_terms_2": {
+        "date": "August 1st",
+        "date_fr": "1er ao\u00fbt",
+        "date_es": "1 de agosto",
+        "date_it": "1 agosto",
+        "date_ru": "1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "brawler"
+    },
+    "past_terms_3": {
         "date": "August 3rd",
         "date_fr": "3 ao\u00fbt",
         "date_es": "3 de agosto",
         "date_it": "3 agosto",
         "date_ru": "3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "forestall"
-    },
-    "past_terms_3": {
-        "date": "August 4th",
-        "date_fr": "4 ao\u00fbt",
-        "date_es": "4 de agosto",
-        "date_it": "4 agosto",
-        "date_ru": "4 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "rain or shine"
+        "term": "hold a grudge"
     },
     "past_terms_4": {
         "date": "August 6th",
