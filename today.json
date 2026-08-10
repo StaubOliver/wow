@@ -1,10 +1,10 @@
 {
-    "expression": "hold your _____",
-    "today": "August 9th, 2026",
-    "date_fr": "9 ao\u00fbt 2026",
-    "date_es": "9 de agosto de 2026",
-    "date_it": "9 agosto 2026",
-    "date_ru": "9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "take into ______",
+    "today": "August 10th, 2026",
+    "date_fr": "10 ao\u00fbt 2026",
+    "date_es": "10 de agosto de 2026",
+    "date_it": "10 agosto 2026",
+    "date_ru": "10 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
         "date": "July 28th",
         "date_fr": "28 juillet",
@@ -14,27 +14,27 @@
         "term": "grumpy"
     },
     "past_terms_2": {
-        "date": "July 29th",
-        "date_fr": "29 juillet",
-        "date_es": "29 de julio",
-        "date_it": "29 luglio",
-        "date_ru": "29 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "ludicrous"
+        "date": "July 30th",
+        "date_fr": "30 juillet",
+        "date_es": "30 de julio",
+        "date_it": "30 luglio",
+        "date_ru": "30 \u0438\u044e\u043b\u044f 2026 \u0433.",
+        "term": "downtrodden"
     },
     "past_terms_3": {
-        "date": "July 31st",
-        "date_fr": "31 juillet",
-        "date_es": "31 de julio",
-        "date_it": "31 luglio",
-        "date_ru": "31 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "have it out"
+        "date": "August 2nd",
+        "date_fr": "2 ao\u00fbt",
+        "date_es": "2 de agosto",
+        "date_it": "2 agosto",
+        "date_ru": "2 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "hit the roof"
     },
     "past_terms_4": {
-        "date": "August 1st",
-        "date_fr": "1er ao\u00fbt",
-        "date_es": "1 de agosto",
-        "date_it": "1 agosto",
-        "date_ru": "1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "make a scene"
+        "date": "August 5th",
+        "date_fr": "5 ao\u00fbt",
+        "date_es": "5 de agosto",
+        "date_it": "5 agosto",
+        "date_ru": "5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "familiarity breeds contempt"
     }
 }
