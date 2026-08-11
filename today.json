@@ -1,19 +1,11 @@
 {
-    "expression": "take into ______",
-    "today": "August 10th, 2026",
-    "date_fr": "10 ao\u00fbt 2026",
-    "date_es": "10 de agosto de 2026",
-    "date_it": "10 agosto 2026",
-    "date_ru": "10 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "partner in ____",
+    "today": "August 11th, 2026",
+    "date_fr": "11 ao\u00fbt 2026",
+    "date_es": "11 de agosto de 2026",
+    "date_it": "11 agosto 2026",
+    "date_ru": "11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 28th",
-        "date_fr": "28 juillet",
-        "date_es": "28 de julio",
-        "date_it": "28 luglio",
-        "date_ru": "28 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "grumpy"
-    },
-    "past_terms_2": {
         "date": "July 30th",
         "date_fr": "30 juillet",
         "date_es": "30 de julio",
@@ -21,20 +13,28 @@
         "date_ru": "30 \u0438\u044e\u043b\u044f 2026 \u0433.",
         "term": "downtrodden"
     },
-    "past_terms_3": {
+    "past_terms_2": {
         "date": "August 2nd",
         "date_fr": "2 ao\u00fbt",
         "date_es": "2 de agosto",
         "date_it": "2 agosto",
         "date_ru": "2 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "hit the roof"
+        "term": "cogent"
+    },
+    "past_terms_3": {
+        "date": "August 6th",
+        "date_fr": "6 ao\u00fbt",
+        "date_es": "6 de agosto",
+        "date_it": "6 agosto",
+        "date_ru": "6 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "drop a line"
     },
     "past_terms_4": {
-        "date": "August 5th",
-        "date_fr": "5 ao\u00fbt",
-        "date_es": "5 de agosto",
-        "date_it": "5 agosto",
-        "date_ru": "5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "familiarity breeds contempt"
+        "date": "August 10th",
+        "date_fr": "10 ao\u00fbt",
+        "date_es": "10 de agosto",
+        "date_it": "10 agosto",
+        "date_ru": "10 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "take into custody"
     }
 }
