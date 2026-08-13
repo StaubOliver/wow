@@ -1,40 +1,40 @@
 {
-    "expression": "defy the ___",
-    "today": "August 12th, 2026",
-    "date_fr": "12 ao\u00fbt 2026",
-    "date_es": "12 de agosto de 2026",
-    "date_it": "12 agosto 2026",
-    "date_ru": "12 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "become second _____",
+    "today": "August 13th, 2026",
+    "date_fr": "13 ao\u00fbt 2026",
+    "date_es": "13 de agosto de 2026",
+    "date_it": "13 agosto 2026",
+    "date_ru": "13 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "July 30th",
-        "date_fr": "30 juillet",
-        "date_es": "30 de julio",
-        "date_it": "30 luglio",
-        "date_ru": "30 \u0438\u044e\u043b\u044f 2026 \u0433.",
-        "term": "downtrodden"
+        "date": "August 1st",
+        "date_fr": "1er ao\u00fbt",
+        "date_es": "1 de agosto",
+        "date_it": "1 agosto",
+        "date_ru": "1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "brawler"
     },
     "past_terms_2": {
-        "date": "August 2nd",
-        "date_fr": "2 ao\u00fbt",
-        "date_es": "2 de agosto",
-        "date_it": "2 agosto",
-        "date_ru": "2 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "cogent"
+        "date": "August 7th",
+        "date_fr": "7 ao\u00fbt",
+        "date_es": "7 de agosto",
+        "date_it": "7 agosto",
+        "date_ru": "7 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "cumbersome"
     },
     "past_terms_3": {
-        "date": "August 3rd",
-        "date_fr": "3 ao\u00fbt",
-        "date_es": "3 de agosto",
-        "date_it": "3 agosto",
-        "date_ru": "3 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "hold a grudge"
+        "date": "August 10th",
+        "date_fr": "10 ao\u00fbt",
+        "date_es": "10 de agosto",
+        "date_it": "10 agosto",
+        "date_ru": "10 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "take into custody"
     },
     "past_terms_4": {
-        "date": "August 11th",
-        "date_fr": "11 ao\u00fbt",
-        "date_es": "11 de agosto",
-        "date_it": "11 agosto",
-        "date_ru": "11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "partner in crime"
+        "date": "August 12th",
+        "date_fr": "12 ao\u00fbt",
+        "date_es": "12 de agosto",
+        "date_it": "12 agosto",
+        "date_ru": "12 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "defy the odds"
     }
 }
