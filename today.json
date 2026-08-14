@@ -1,17 +1,17 @@
 {
-    "expression": "become second _____",
-    "today": "August 13th, 2026",
-    "date_fr": "13 ao\u00fbt 2026",
-    "date_es": "13 de agosto de 2026",
-    "date_it": "13 agosto 2026",
-    "date_ru": "13 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "clear the __",
+    "today": "August 14th, 2026",
+    "date_fr": "14 ao\u00fbt 2026",
+    "date_es": "14 de agosto de 2026",
+    "date_it": "14 agosto 2026",
+    "date_ru": "14 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 1st",
-        "date_fr": "1er ao\u00fbt",
-        "date_es": "1 de agosto",
-        "date_it": "1 agosto",
-        "date_ru": "1 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "brawler"
+        "date": "August 4th",
+        "date_fr": "4 ao\u00fbt",
+        "date_es": "4 de agosto",
+        "date_it": "4 agosto",
+        "date_ru": "4 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "compulsory"
     },
     "past_terms_2": {
         "date": "August 7th",
@@ -22,19 +22,19 @@
         "term": "cumbersome"
     },
     "past_terms_3": {
+        "date": "August 9th",
+        "date_fr": "9 ao\u00fbt",
+        "date_es": "9 de agosto",
+        "date_it": "9 agosto",
+        "date_ru": "9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "hold your breath"
+    },
+    "past_terms_4": {
         "date": "August 10th",
         "date_fr": "10 ao\u00fbt",
         "date_es": "10 de agosto",
         "date_it": "10 agosto",
         "date_ru": "10 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
         "term": "take into custody"
-    },
-    "past_terms_4": {
-        "date": "August 12th",
-        "date_fr": "12 ao\u00fbt",
-        "date_es": "12 de agosto",
-        "date_it": "12 agosto",
-        "date_ru": "12 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "defy the odds"
     }
 }
