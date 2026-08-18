@@ -1,40 +1,40 @@
 {
-    "expression": "against the _______",
-    "today": "August 17th, 2026",
-    "date_fr": "17 ao\u00fbt 2026",
-    "date_es": "17 de agosto de 2026",
-    "date_it": "17 agosto 2026",
-    "date_ru": "17 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "give an ___",
+    "today": "August 18th, 2026",
+    "date_fr": "18 ao\u00fbt 2026",
+    "date_es": "18 de agosto de 2026",
+    "date_it": "18 agosto 2026",
+    "date_ru": "18 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 5th",
-        "date_fr": "5 ao\u00fbt",
-        "date_es": "5 de agosto",
-        "date_it": "5 agosto",
-        "date_ru": "5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "foe"
+        "date": "August 7th",
+        "date_fr": "7 ao\u00fbt",
+        "date_es": "7 de agosto",
+        "date_it": "7 agosto",
+        "date_ru": "7 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "cumbersome"
     },
     "past_terms_2": {
-        "date": "August 6th",
-        "date_fr": "6 ao\u00fbt",
-        "date_es": "6 de agosto",
-        "date_it": "6 agosto",
-        "date_ru": "6 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "wacky"
+        "date": "August 9th",
+        "date_fr": "9 ao\u00fbt",
+        "date_es": "9 de agosto",
+        "date_it": "9 agosto",
+        "date_ru": "9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "gruesome"
     },
     "past_terms_3": {
-        "date": "August 15th",
-        "date_fr": "15 ao\u00fbt",
-        "date_es": "15 de agosto",
-        "date_it": "15 agosto",
-        "date_ru": "15 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "fair and square"
+        "date": "August 11th",
+        "date_fr": "11 ao\u00fbt",
+        "date_es": "11 de agosto",
+        "date_it": "11 agosto",
+        "date_ru": "11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "partner in crime"
     },
     "past_terms_4": {
-        "date": "August 16th",
-        "date_fr": "16 ao\u00fbt",
-        "date_es": "16 de agosto",
-        "date_it": "16 agosto",
-        "date_ru": "16 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "wine and dine"
+        "date": "August 17th",
+        "date_fr": "17 ao\u00fbt",
+        "date_es": "17 de agosto",
+        "date_it": "17 agosto",
+        "date_ru": "17 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "against the elements"
     }
 }
