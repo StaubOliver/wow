@@ -1,40 +1,40 @@
 {
-    "expression": "all that ___",
-    "today": "August 19th, 2026",
-    "date_fr": "19 ao\u00fbt 2026",
-    "date_es": "19 de agosto de 2026",
-    "date_it": "19 agosto 2026",
-    "date_ru": "19 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "push the _________",
+    "today": "August 20th, 2026",
+    "date_fr": "20 ao\u00fbt 2026",
+    "date_es": "20 de agosto de 2026",
+    "date_it": "20 agosto 2026",
+    "date_ru": "20 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 11th",
-        "date_fr": "11 ao\u00fbt",
-        "date_es": "11 de agosto",
-        "date_it": "11 agosto",
-        "date_ru": "11 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "headcount"
+        "date": "August 8th",
+        "date_fr": "8 ao\u00fbt",
+        "date_es": "8 de agosto",
+        "date_it": "8 agosto",
+        "date_ru": "8 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "gloomy"
     },
     "past_terms_2": {
+        "date": "August 9th",
+        "date_fr": "9 ao\u00fbt",
+        "date_es": "9 de agosto",
+        "date_it": "9 agosto",
+        "date_ru": "9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "gruesome"
+    },
+    "past_terms_3": {
         "date": "August 13th",
         "date_fr": "13 ao\u00fbt",
         "date_es": "13 de agosto",
         "date_it": "13 agosto",
         "date_ru": "13 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "aloft"
-    },
-    "past_terms_3": {
-        "date": "August 14th",
-        "date_fr": "14 ao\u00fbt",
-        "date_es": "14 de agosto",
-        "date_it": "14 agosto",
-        "date_ru": "14 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "clear the air"
+        "term": "become second nature"
     },
     "past_terms_4": {
-        "date": "August 15th",
-        "date_fr": "15 ao\u00fbt",
-        "date_es": "15 de agosto",
-        "date_it": "15 agosto",
-        "date_ru": "15 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "fair and square"
+        "date": "August 18th",
+        "date_fr": "18 ao\u00fbt",
+        "date_es": "18 de agosto",
+        "date_it": "18 agosto",
+        "date_ru": "18 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "give an inch"
     }
 }
