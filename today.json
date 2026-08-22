@@ -1,40 +1,40 @@
 {
-    "expression": "pop the _______",
-    "today": "August 21st, 2026",
-    "date_fr": "21 ao\u00fbt 2026",
-    "date_es": "21 de agosto de 2026",
-    "date_it": "21 agosto 2026",
-    "date_ru": "21 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "on all ____",
+    "today": "August 22nd, 2026",
+    "date_fr": "22 ao\u00fbt 2026",
+    "date_es": "22 de agosto de 2026",
+    "date_it": "22 agosto 2026",
+    "date_ru": "22 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 9th",
-        "date_fr": "9 ao\u00fbt",
-        "date_es": "9 de agosto",
-        "date_it": "9 agosto",
-        "date_ru": "9 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "gruesome"
+        "date": "August 10th",
+        "date_fr": "10 ao\u00fbt",
+        "date_es": "10 de agosto",
+        "date_it": "10 agosto",
+        "date_ru": "10 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "gregarious"
     },
     "past_terms_2": {
-        "date": "August 15th",
-        "date_fr": "15 ao\u00fbt",
-        "date_es": "15 de agosto",
-        "date_it": "15 agosto",
-        "date_ru": "15 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "unfathomable"
+        "date": "August 14th",
+        "date_fr": "14 ao\u00fbt",
+        "date_es": "14 de agosto",
+        "date_it": "14 agosto",
+        "date_ru": "14 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "wimpy"
     },
     "past_terms_3": {
-        "date": "August 18th",
-        "date_fr": "18 ao\u00fbt",
-        "date_es": "18 de agosto",
-        "date_it": "18 agosto",
-        "date_ru": "18 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "give an inch"
-    },
-    "past_terms_4": {
         "date": "August 19th",
         "date_fr": "19 ao\u00fbt",
         "date_es": "19 de agosto",
         "date_it": "19 agosto",
         "date_ru": "19 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
         "term": "all that jazz"
+    },
+    "past_terms_4": {
+        "date": "August 20th",
+        "date_fr": "20 ao\u00fbt",
+        "date_es": "20 de agosto",
+        "date_it": "20 agosto",
+        "date_ru": "20 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "push the boundaries"
     }
 }
