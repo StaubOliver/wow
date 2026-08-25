@@ -147,6 +147,8 @@ def get_wod_image(lang="en"):
 def get_public_lists_api(word, srclang="en", trglang="en"):
 	url = f"https://context.reverso.net/bst-web-user/user/publicLists?languagePairs={srclang}-{trglang}&length=10&filterByFavouriteText={word}&nbTranslations=0"
 	response = requests.get(url)
+	print(response)
+	print(response.text)
 	return response.json()
 
 def get_masked_expression(expression):
