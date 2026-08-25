@@ -27,14 +27,14 @@ if not lines:
 idx = random.randint(0, len(lines) - 1)
 
 item = json.loads(lines[idx])
-print(item)
+# print(item)
 # ------------------------------------------------
 
 # Append the selected item to target.jsonl
 with open(target_path, "w", encoding="utf-8") as f:
     f.write(json.dumps(item))
 
-print(f"Moved item: {item}")
+# print(f"Moved item: {item}")
 
 
 ######################################################################
@@ -144,13 +144,19 @@ def get_wod_image(lang="en"):
 	response = requests.get(url)
 	return response.json()
 
+def get_public_lists_api(word, srclang="en", trglang="en"):
+	url = f"https://context.reverso.net/bst-web-user/user/publicLists?languagePairs={srclang}-{trglang}&length=10&filterByFavouriteText={word}&nbTranslations=0"
+	response = requests.get(url)
+	return response.json()
+
 def get_masked_expression(expression):
+	
 	expression_masked = expression
-	print(len("".join(expression.split(" ")[:2])), "".join(expression.split(" ")[:2]))
+	# print(len("".join(expression.split(" ")[:2])), "".join(expression.split(" ")[:2]))
 	wc = len(expression.split(" "))
 	if wc>1:
 		one_or_two = 1 if wc == 2 or wc == 3 else 2
-		print(one_or_two)
+		# print(one_or_two)
 		if len("".join(expression.split(" ")[:2])) <= 5 and one_or_two == 2:
 			one_or_two = 1
 		
@@ -162,6 +168,11 @@ today = datetime.now().date()
 today_str = str(today)
 
 past = read_csv("past.csv",";")
+
+
+######################################################################
+# WORD EN
+######################################################################
 
 wod = get_wod()
 word = wod["word"]["entry"]
@@ -175,6 +186,71 @@ if len([i["date"] for i in past if i["date"]==today_str])==0:
 	past.append({"date":today_str, "word":word, "expression":expression, "image":wod_image})
 write_csv(past, "past.csv")
 
+tmp = {
+	"name":"",
+	"image":"",
+	"url":""
+}
+
+
+def filter_lists(lists):
+	return [l for l in lists["results"] if "TOEFL" not in l["listName"] and "IELTS" not in l["listName"]]
+
+def get_public_list_en(word, srclang="en", trglang="en"):
+	pl = filter_lists(get_public_lists_api(word, srclang, trglang))
+	if len(pl)>0:
+		pl = pl[0]
+	else:
+		pl = {}
+	return pl
+
+
+public_lists_en = get_public_list_en(word)
+public_lists_fr = get_public_list_en(word, trglang="fr")
+public_lists_es = get_public_list_en(word, trglang="es")
+public_lists_it = get_public_list_en(word, trglang="it")
+public_lists_ru = get_public_list_en(word, trglang="ru")
+
+public_lists_en_found = False
+public_lists_fr_found = False
+public_lists_es_found = False
+public_lists_it_found = False
+public_lists_ru_found = False
+
+# print(public_lists_en["listName"], public_lists_fr["listName"], public_lists_es["listName"], public_lists_it["listName"], public_lists_ru["listName"])
+
+# if public_lists_fr=={} and public_lists_en != {}:
+# 	public_lists_fr=public_lists_en
+
+# if public_lists_es=={} and public_lists_en != {}:
+# 	public_lists_es=public_lists_en
+
+# if public_lists_it=={} and public_lists_en != {}:
+# 	public_lists_it=public_lists_en
+
+# if public_lists_ru=={} and public_lists_en != {}:
+# 	public_lists_ru=public_lists_en
+
+if public_lists_en!={}:
+	public_lists_en_found = True
+
+if public_lists_fr!={}:
+	public_lists_fr_found = True
+
+if public_lists_es!={}:
+	public_lists_es_found = True
+
+if public_lists_it!={}:
+	public_lists_it_found = True
+
+if public_lists_ru!={}:
+	public_lists_ru_found = True
+
+######################################################################
+# WORD FR
+######################################################################
+
+
 past_fr = read_csv("past_fr.csv", ";")
 wod_fr = get_wod("fr")
 word_fr = wod_fr["word"]["entry"]
@@ -182,6 +258,11 @@ expression_fr = wod_fr["expression"]["entry"]
 if len([i["date"] for i in past_fr if i["date"]==today_str])==0:
 	past_fr.append({"date":today_str, "word":word_fr, "expression":expression_fr})
 write_csv(past_fr, "past_fr.csv")
+
+
+######################################################################
+# MAKE TODAY.JSON
+######################################################################
 
 
 for i in past:
@@ -214,6 +295,7 @@ for i in zip(selected_dates,["word","word", "expression", "expression"]):
 		})
 
 today = {
+	"word":word,
 	"expression":expression_masked,
 	"today":dtStylish(datetime.now().date()),
 	"date_fr":dtStylish(datetime.now().date(), locale="fr"),
@@ -223,7 +305,17 @@ today = {
 	"past_terms_1":past_terms[0],
 	"past_terms_2":past_terms[1],
 	"past_terms_3":past_terms[2],
-	"past_terms_4":past_terms[3]
+	"past_terms_4":past_terms[3], 
+	"public_lists_en_found":public_lists_en_found,
+	"public_lists_fr_found":public_lists_fr_found,
+	"public_lists_es_found":public_lists_es_found,
+	"public_lists_it_found":public_lists_it_found,
+	"public_lists_ru_found":public_lists_ru_found,
+	"public_lists_en":public_lists_en,
+	"public_lists_fr":public_lists_fr,
+	"public_lists_es":public_lists_es,
+	"public_lists_it":public_lists_it,
+	"public_lists_ru":public_lists_ru,
 }
 
 
