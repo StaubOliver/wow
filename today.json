@@ -1,40 +1,40 @@
 {
-    "expression": "axe to ____",
-    "today": "August 24th, 2026",
-    "date_fr": "24 ao\u00fbt 2026",
-    "date_es": "24 de agosto de 2026",
-    "date_it": "24 agosto 2026",
-    "date_ru": "24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "expression": "jump through ____",
+    "today": "August 25th, 2026",
+    "date_fr": "25 ao\u00fbt 2026",
+    "date_es": "25 de agosto de 2026",
+    "date_it": "25 agosto 2026",
+    "date_ru": "25 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 12th",
-        "date_fr": "12 ao\u00fbt",
-        "date_es": "12 de agosto",
-        "date_it": "12 agosto",
-        "date_ru": "12 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "topple"
-    },
-    "past_terms_2": {
-        "date": "August 15th",
-        "date_fr": "15 ao\u00fbt",
-        "date_es": "15 de agosto",
-        "date_it": "15 agosto",
-        "date_ru": "15 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "unfathomable"
-    },
-    "past_terms_3": {
         "date": "August 17th",
         "date_fr": "17 ao\u00fbt",
         "date_es": "17 de agosto",
         "date_it": "17 agosto",
         "date_ru": "17 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "against the elements"
+        "term": "stealthy"
     },
-    "past_terms_4": {
+    "past_terms_2": {
+        "date": "August 20th",
+        "date_fr": "20 ao\u00fbt",
+        "date_es": "20 de agosto",
+        "date_it": "20 agosto",
+        "date_ru": "20 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "elusive"
+    },
+    "past_terms_3": {
         "date": "August 22nd",
         "date_fr": "22 ao\u00fbt",
         "date_es": "22 de agosto",
         "date_it": "22 agosto",
         "date_ru": "22 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
         "term": "on all fours"
+    },
+    "past_terms_4": {
+        "date": "August 23rd",
+        "date_fr": "23 ao\u00fbt",
+        "date_es": "23 de agosto",
+        "date_it": "23 agosto",
+        "date_ru": "23 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "on all counts"
     }
 }
