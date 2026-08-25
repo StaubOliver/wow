@@ -207,46 +207,34 @@ def get_public_list_en(word, srclang="en", trglang="en"):
 	return pl
 
 
-public_lists_en = get_public_list_en(word)
-public_lists_fr = get_public_list_en(word, trglang="fr")
-public_lists_es = get_public_list_en(word, trglang="es")
-public_lists_it = get_public_list_en(word, trglang="it")
-public_lists_ru = get_public_list_en(word, trglang="ru")
+# public_lists_en = get_public_list_en(word)
+# public_lists_fr = get_public_list_en(word, trglang="fr")
+# public_lists_es = get_public_list_en(word, trglang="es")
+# public_lists_it = get_public_list_en(word, trglang="it")
+# public_lists_ru = get_public_list_en(word, trglang="ru")
 
-public_lists_en_found = False
-public_lists_fr_found = False
-public_lists_es_found = False
-public_lists_it_found = False
-public_lists_ru_found = False
+# public_lists_en_found = False
+# public_lists_fr_found = False
+# public_lists_es_found = False
+# public_lists_it_found = False
+# public_lists_ru_found = False
 
-# print(public_lists_en["listName"], public_lists_fr["listName"], public_lists_es["listName"], public_lists_it["listName"], public_lists_ru["listName"])
 
-# if public_lists_fr=={} and public_lists_en != {}:
-# 	public_lists_fr=public_lists_en
 
-# if public_lists_es=={} and public_lists_en != {}:
-# 	public_lists_es=public_lists_en
+# if public_lists_en!={}:
+# 	public_lists_en_found = True
 
-# if public_lists_it=={} and public_lists_en != {}:
-# 	public_lists_it=public_lists_en
+# if public_lists_fr!={}:
+# 	public_lists_fr_found = True
 
-# if public_lists_ru=={} and public_lists_en != {}:
-# 	public_lists_ru=public_lists_en
+# if public_lists_es!={}:
+# 	public_lists_es_found = True
 
-if public_lists_en!={}:
-	public_lists_en_found = True
+# if public_lists_it!={}:
+# 	public_lists_it_found = True
 
-if public_lists_fr!={}:
-	public_lists_fr_found = True
-
-if public_lists_es!={}:
-	public_lists_es_found = True
-
-if public_lists_it!={}:
-	public_lists_it_found = True
-
-if public_lists_ru!={}:
-	public_lists_ru_found = True
+# if public_lists_ru!={}:
+# 	public_lists_ru_found = True
 
 ######################################################################
 # WORD FR
@@ -308,16 +296,16 @@ today = {
 	"past_terms_2":past_terms[1],
 	"past_terms_3":past_terms[2],
 	"past_terms_4":past_terms[3], 
-	"public_lists_en_found":public_lists_en_found,
-	"public_lists_fr_found":public_lists_fr_found,
-	"public_lists_es_found":public_lists_es_found,
-	"public_lists_it_found":public_lists_it_found,
-	"public_lists_ru_found":public_lists_ru_found,
-	"public_lists_en":public_lists_en,
-	"public_lists_fr":public_lists_fr,
-	"public_lists_es":public_lists_es,
-	"public_lists_it":public_lists_it,
-	"public_lists_ru":public_lists_ru,
+# 	"public_lists_en_found":public_lists_en_found,
+# 	"public_lists_fr_found":public_lists_fr_found,
+# 	"public_lists_es_found":public_lists_es_found,
+# 	"public_lists_it_found":public_lists_it_found,
+# 	"public_lists_ru_found":public_lists_ru_found,
+# 	"public_lists_en":public_lists_en,
+# 	"public_lists_fr":public_lists_fr,
+# 	"public_lists_es":public_lists_es,
+# 	"public_lists_it":public_lists_it,
+# 	"public_lists_ru":public_lists_ru,
 }
 
 
