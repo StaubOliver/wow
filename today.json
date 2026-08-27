@@ -1,12 +1,20 @@
 {
-    "word": "preposterous",
-    "expression": "have second _______",
-    "today": "August 26th, 2026",
-    "date_fr": "26 ao\u00fbt 2026",
-    "date_es": "26 de agosto de 2026",
-    "date_it": "26 agosto 2026",
-    "date_ru": "26 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "word": "footloose",
+    "expression": "pull oneself _______",
+    "today": "August 27th, 2026",
+    "date_fr": "27 ao\u00fbt 2026",
+    "date_es": "27 de agosto de 2026",
+    "date_it": "27 agosto 2026",
+    "date_ru": "27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
+        "date": "August 14th",
+        "date_fr": "14 ao\u00fbt",
+        "date_es": "14 de agosto",
+        "date_it": "14 agosto",
+        "date_ru": "14 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "wimpy"
+    },
+    "past_terms_2": {
         "date": "August 16th",
         "date_fr": "16 ao\u00fbt",
         "date_es": "16 de agosto",
@@ -14,28 +22,20 @@
         "date_ru": "16 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
         "term": "downer"
     },
-    "past_terms_2": {
-        "date": "August 18th",
-        "date_fr": "18 ao\u00fbt",
-        "date_es": "18 de agosto",
-        "date_it": "18 agosto",
-        "date_ru": "18 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "wraith"
-    },
     "past_terms_3": {
-        "date": "August 19th",
-        "date_fr": "19 ao\u00fbt",
-        "date_es": "19 de agosto",
-        "date_it": "19 agosto",
-        "date_ru": "19 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "all that jazz"
+        "date": "August 20th",
+        "date_fr": "20 ao\u00fbt",
+        "date_es": "20 de agosto",
+        "date_it": "20 agosto",
+        "date_ru": "20 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "push the boundaries"
     },
     "past_terms_4": {
-        "date": "August 22nd",
-        "date_fr": "22 ao\u00fbt",
-        "date_es": "22 de agosto",
-        "date_it": "22 agosto",
-        "date_ru": "22 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "on all fours"
+        "date": "August 25th",
+        "date_fr": "25 ao\u00fbt",
+        "date_es": "25 de agosto",
+        "date_it": "25 agosto",
+        "date_ru": "25 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "jump through hoops"
     }
 }
