@@ -1,41 +1,41 @@
 {
-    "word": "gargantuan",
-    "expression": "in a _____",
-    "today": "August 28th, 2026",
-    "date_fr": "28 ao\u00fbt 2026",
-    "date_es": "28 de agosto de 2026",
-    "date_it": "28 agosto 2026",
-    "date_ru": "28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+    "word": "undergo",
+    "expression": "out of ____",
+    "today": "August 29th, 2026",
+    "date_fr": "29 ao\u00fbt 2026",
+    "date_es": "29 de agosto de 2026",
+    "date_it": "29 agosto 2026",
+    "date_ru": "29 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 17th",
-        "date_fr": "17 ao\u00fbt",
-        "date_es": "17 de agosto",
-        "date_it": "17 agosto",
-        "date_ru": "17 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "stealthy"
+        "date": "August 20th",
+        "date_fr": "20 ao\u00fbt",
+        "date_es": "20 de agosto",
+        "date_it": "20 agosto",
+        "date_ru": "20 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "elusive"
     },
     "past_terms_2": {
-        "date": "August 18th",
-        "date_fr": "18 ao\u00fbt",
-        "date_es": "18 de agosto",
-        "date_it": "18 agosto",
-        "date_ru": "18 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "wraith"
+        "date": "August 23rd",
+        "date_fr": "23 ao\u00fbt",
+        "date_es": "23 de agosto",
+        "date_it": "23 agosto",
+        "date_ru": "23 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "utterance"
     },
     "past_terms_3": {
-        "date": "August 21st",
-        "date_fr": "21 ao\u00fbt",
-        "date_es": "21 de agosto",
-        "date_it": "21 agosto",
-        "date_ru": "21 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "pop the question"
+        "date": "August 26th",
+        "date_fr": "26 ao\u00fbt",
+        "date_es": "26 de agosto",
+        "date_it": "26 agosto",
+        "date_ru": "26 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "have second thoughts"
     },
     "past_terms_4": {
-        "date": "August 27th",
-        "date_fr": "27 ao\u00fbt",
-        "date_es": "27 de agosto",
-        "date_it": "27 agosto",
-        "date_ru": "27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "pull oneself together"
+        "date": "August 28th",
+        "date_fr": "28 ao\u00fbt",
+        "date_es": "28 de agosto",
+        "date_it": "28 agosto",
+        "date_ru": "28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "in a frenzy"
     }
 }
