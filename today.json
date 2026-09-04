@@ -1,41 +1,41 @@
 {
-    "word": "handout",
-    "expression": "written in ____",
-    "today": "September 3rd, 2026",
-    "date_fr": "3 septembre 2026",
-    "date_es": "3 de septiembre de 2026",
-    "date_it": "3 settembre 2026",
-    "date_ru": "3 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "run-down",
+    "expression": "blow the ______",
+    "today": "September 4th, 2026",
+    "date_fr": "4 septembre 2026",
+    "date_es": "4 de septiembre de 2026",
+    "date_it": "4 settembre 2026",
+    "date_ru": "4 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 21st",
-        "date_fr": "21 ao\u00fbt",
-        "date_es": "21 de agosto",
-        "date_it": "21 agosto",
-        "date_ru": "21 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "uncanny"
+        "date": "August 23rd",
+        "date_fr": "23 ao\u00fbt",
+        "date_es": "23 de agosto",
+        "date_it": "23 agosto",
+        "date_ru": "23 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "utterance"
     },
     "past_terms_2": {
-        "date": "August 26th",
-        "date_fr": "26 ao\u00fbt",
-        "date_es": "26 de agosto",
-        "date_it": "26 agosto",
-        "date_ru": "26 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "preposterous"
-    },
-    "past_terms_3": {
         "date": "August 27th",
         "date_fr": "27 ao\u00fbt",
         "date_es": "27 de agosto",
         "date_it": "27 agosto",
         "date_ru": "27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "pull oneself together"
+        "term": "footloose"
+    },
+    "past_terms_3": {
+        "date": "August 31st",
+        "date_fr": "31 ao\u00fbt",
+        "date_es": "31 de agosto",
+        "date_it": "31 agosto",
+        "date_ru": "31 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "in a flash"
     },
     "past_terms_4": {
-        "date": "August 28th",
-        "date_fr": "28 ao\u00fbt",
-        "date_es": "28 de agosto",
-        "date_it": "28 agosto",
-        "date_ru": "28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "in a frenzy"
+        "date": "September 1st",
+        "date_fr": "1er septembre",
+        "date_es": "1 de septiembre",
+        "date_it": "1 settembre",
+        "date_ru": "1 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "go to pieces"
     }
 }
