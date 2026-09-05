@@ -1,11 +1,11 @@
 {
-    "word": "run-down",
-    "expression": "blow the ______",
-    "today": "September 4th, 2026",
-    "date_fr": "4 septembre 2026",
-    "date_es": "4 de septiembre de 2026",
-    "date_it": "4 settembre 2026",
-    "date_ru": "4 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "lavishly",
+    "expression": "clear as __",
+    "today": "September 5th, 2026",
+    "date_fr": "5 septembre 2026",
+    "date_es": "5 de septiembre de 2026",
+    "date_it": "5 settembre 2026",
+    "date_ru": "5 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "August 23rd",
         "date_fr": "23 ao\u00fbt",
@@ -15,27 +15,27 @@
         "term": "utterance"
     },
     "past_terms_2": {
-        "date": "August 27th",
-        "date_fr": "27 ao\u00fbt",
-        "date_es": "27 de agosto",
-        "date_it": "27 agosto",
-        "date_ru": "27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "footloose"
+        "date": "August 24th",
+        "date_fr": "24 ao\u00fbt",
+        "date_es": "24 de agosto",
+        "date_it": "24 agosto",
+        "date_ru": "24 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "whatnot"
     },
     "past_terms_3": {
+        "date": "August 30th",
+        "date_fr": "30 ao\u00fbt",
+        "date_es": "30 de agosto",
+        "date_it": "30 agosto",
+        "date_ru": "30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "plain and simple"
+    },
+    "past_terms_4": {
         "date": "August 31st",
         "date_fr": "31 ao\u00fbt",
         "date_es": "31 de agosto",
         "date_it": "31 agosto",
         "date_ru": "31 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
         "term": "in a flash"
-    },
-    "past_terms_4": {
-        "date": "September 1st",
-        "date_fr": "1er septembre",
-        "date_es": "1 de septiembre",
-        "date_it": "1 settembre",
-        "date_ru": "1 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "go to pieces"
     }
 }
