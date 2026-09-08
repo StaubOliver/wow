@@ -1,26 +1,26 @@
 {
-    "word": "depict",
-    "expression": "at full ___",
-    "today": "September 7th, 2026",
-    "date_fr": "7 septembre 2026",
-    "date_es": "7 de septiembre de 2026",
-    "date_it": "7 settembre 2026",
-    "date_ru": "7 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "bric-a-brac",
+    "expression": "hit the ____",
+    "today": "September 8th, 2026",
+    "date_fr": "8 septembre 2026",
+    "date_es": "8 de septiembre de 2026",
+    "date_it": "8 settembre 2026",
+    "date_ru": "8 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 27th",
-        "date_fr": "27 ao\u00fbt",
-        "date_es": "27 de agosto",
-        "date_it": "27 agosto",
-        "date_ru": "27 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "footloose"
+        "date": "August 26th",
+        "date_fr": "26 ao\u00fbt",
+        "date_es": "26 de agosto",
+        "date_it": "26 agosto",
+        "date_ru": "26 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "preposterous"
     },
     "past_terms_2": {
-        "date": "August 29th",
-        "date_fr": "29 ao\u00fbt",
-        "date_es": "29 de agosto",
-        "date_it": "29 agosto",
-        "date_ru": "29 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "undergo"
+        "date": "August 30th",
+        "date_fr": "30 ao\u00fbt",
+        "date_es": "30 de agosto",
+        "date_it": "30 agosto",
+        "date_ru": "30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "subdue"
     },
     "past_terms_3": {
         "date": "September 2nd",
@@ -31,11 +31,11 @@
         "term": "take a nap"
     },
     "past_terms_4": {
-        "date": "September 3rd",
-        "date_fr": "3 septembre",
-        "date_es": "3 de septiembre",
-        "date_it": "3 settembre",
-        "date_ru": "3 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "written in stone"
+        "date": "September 5th",
+        "date_fr": "5 septembre",
+        "date_es": "5 de septiembre",
+        "date_it": "5 settembre",
+        "date_ru": "5 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "clear as mud"
     }
 }
