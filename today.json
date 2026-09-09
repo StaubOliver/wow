@@ -1,41 +1,41 @@
 {
-    "word": "bric-a-brac",
-    "expression": "hit the ____",
-    "today": "September 8th, 2026",
-    "date_fr": "8 septembre 2026",
-    "date_es": "8 de septiembre de 2026",
-    "date_it": "8 settembre 2026",
-    "date_ru": "8 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "hasten",
+    "expression": "pick and _____",
+    "today": "September 9th, 2026",
+    "date_fr": "9 septembre 2026",
+    "date_es": "9 de septiembre de 2026",
+    "date_it": "9 settembre 2026",
+    "date_ru": "9 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 26th",
-        "date_fr": "26 ao\u00fbt",
-        "date_es": "26 de agosto",
-        "date_it": "26 agosto",
-        "date_ru": "26 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "preposterous"
+        "date": "August 28th",
+        "date_fr": "28 ao\u00fbt",
+        "date_es": "28 de agosto",
+        "date_it": "28 agosto",
+        "date_ru": "28 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "gargantuan"
     },
     "past_terms_2": {
-        "date": "August 30th",
-        "date_fr": "30 ao\u00fbt",
-        "date_es": "30 de agosto",
-        "date_it": "30 agosto",
-        "date_ru": "30 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "subdue"
+        "date": "August 31st",
+        "date_fr": "31 ao\u00fbt",
+        "date_es": "31 de agosto",
+        "date_it": "31 agosto",
+        "date_ru": "31 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "uproarious"
     },
     "past_terms_3": {
-        "date": "September 2nd",
-        "date_fr": "2 septembre",
-        "date_es": "2 de septiembre",
-        "date_it": "2 settembre",
-        "date_ru": "2 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "take a nap"
+        "date": "September 4th",
+        "date_fr": "4 septembre",
+        "date_es": "4 de septiembre",
+        "date_it": "4 settembre",
+        "date_ru": "4 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "blow the whistle"
     },
     "past_terms_4": {
-        "date": "September 5th",
-        "date_fr": "5 septembre",
-        "date_es": "5 de septiembre",
-        "date_it": "5 settembre",
-        "date_ru": "5 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "clear as mud"
+        "date": "September 8th",
+        "date_fr": "8 septembre",
+        "date_es": "8 de septiembre",
+        "date_it": "8 settembre",
+        "date_ru": "8 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "hit the books"
     }
 }
