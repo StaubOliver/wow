@@ -1,18 +1,18 @@
 {
-    "word": "thoroughfare",
-    "expression": "ready or __",
-    "today": "September 11th, 2026",
-    "date_fr": "11 septembre 2026",
-    "date_es": "11 de septiembre de 2026",
-    "date_it": "11 settembre 2026",
-    "date_ru": "11 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "drowsy",
+    "expression": "take the ___",
+    "today": "September 12th, 2026",
+    "date_fr": "12 septembre 2026",
+    "date_es": "12 de septiembre de 2026",
+    "date_it": "12 settembre 2026",
+    "date_ru": "12 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 29th",
-        "date_fr": "29 ao\u00fbt",
-        "date_es": "29 de agosto",
-        "date_it": "29 agosto",
-        "date_ru": "29 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "undergo"
+        "date": "August 31st",
+        "date_fr": "31 ao\u00fbt",
+        "date_es": "31 de agosto",
+        "date_it": "31 agosto",
+        "date_ru": "31 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
+        "term": "uproarious"
     },
     "past_terms_2": {
         "date": "September 1st",
@@ -23,19 +23,19 @@
         "term": "irate"
     },
     "past_terms_3": {
-        "date": "September 2nd",
-        "date_fr": "2 septembre",
-        "date_es": "2 de septiembre",
-        "date_it": "2 settembre",
-        "date_ru": "2 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "take a nap"
+        "date": "September 7th",
+        "date_fr": "7 septembre",
+        "date_es": "7 de septiembre",
+        "date_it": "7 settembre",
+        "date_ru": "7 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "at full tilt"
     },
     "past_terms_4": {
-        "date": "September 9th",
-        "date_fr": "9 septembre",
-        "date_es": "9 de septiembre",
-        "date_it": "9 settembre",
-        "date_ru": "9 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "pick and choose"
+        "date": "September 11th",
+        "date_fr": "11 septembre",
+        "date_es": "11 de septiembre",
+        "date_it": "11 settembre",
+        "date_ru": "11 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "ready or not"
     }
 }
