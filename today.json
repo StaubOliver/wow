@@ -1,41 +1,41 @@
 {
-    "word": "drowsy",
-    "expression": "take the ___",
-    "today": "September 12th, 2026",
-    "date_fr": "12 septembre 2026",
-    "date_es": "12 de septiembre de 2026",
-    "date_it": "12 settembre 2026",
-    "date_ru": "12 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "condone",
+    "expression": "strike a ____",
+    "today": "September 13th, 2026",
+    "date_fr": "13 septembre 2026",
+    "date_es": "13 de septiembre de 2026",
+    "date_it": "13 settembre 2026",
+    "date_ru": "13 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "August 31st",
-        "date_fr": "31 ao\u00fbt",
-        "date_es": "31 de agosto",
-        "date_it": "31 agosto",
-        "date_ru": "31 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2026 \u0433.",
-        "term": "uproarious"
+        "date": "September 5th",
+        "date_fr": "5 septembre",
+        "date_es": "5 de septiembre",
+        "date_it": "5 settembre",
+        "date_ru": "5 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "lavishly"
     },
     "past_terms_2": {
-        "date": "September 1st",
-        "date_fr": "1er septembre",
-        "date_es": "1 de septiembre",
-        "date_it": "1 settembre",
-        "date_ru": "1 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "irate"
-    },
-    "past_terms_3": {
         "date": "September 7th",
         "date_fr": "7 septembre",
         "date_es": "7 de septiembre",
         "date_it": "7 settembre",
         "date_ru": "7 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "at full tilt"
+        "term": "depict"
+    },
+    "past_terms_3": {
+        "date": "September 8th",
+        "date_fr": "8 septembre",
+        "date_es": "8 de septiembre",
+        "date_it": "8 settembre",
+        "date_ru": "8 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "hit the books"
     },
     "past_terms_4": {
-        "date": "September 11th",
-        "date_fr": "11 septembre",
-        "date_es": "11 de septiembre",
-        "date_it": "11 settembre",
-        "date_ru": "11 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "ready or not"
+        "date": "September 10th",
+        "date_fr": "10 septembre",
+        "date_es": "10 de septiembre",
+        "date_it": "10 settembre",
+        "date_ru": "10 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "nook and cranny"
     }
 }
