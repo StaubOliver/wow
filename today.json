@@ -1,41 +1,41 @@
 {
-    "word": "ubiquitous",
-    "expression": "by the ___",
-    "today": "September 19th, 2026",
-    "date_fr": "19 septembre 2026",
-    "date_es": "19 de septiembre de 2026",
-    "date_it": "19 settembre 2026",
-    "date_ru": "19 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "seasickness",
+    "expression": "bury the ______",
+    "today": "September 20th, 2026",
+    "date_fr": "20 septembre 2026",
+    "date_es": "20 de septiembre de 2026",
+    "date_it": "20 settembre 2026",
+    "date_ru": "20 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "September 7th",
-        "date_fr": "7 septembre",
-        "date_es": "7 de septiembre",
-        "date_it": "7 settembre",
-        "date_ru": "7 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "depict"
+        "date": "September 10th",
+        "date_fr": "10 septembre",
+        "date_es": "10 de septiembre",
+        "date_it": "10 settembre",
+        "date_ru": "10 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "mingle"
     },
     "past_terms_2": {
-        "date": "September 9th",
-        "date_fr": "9 septembre",
-        "date_es": "9 de septiembre",
-        "date_it": "9 settembre",
-        "date_ru": "9 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "hasten"
+        "date": "September 11th",
+        "date_fr": "11 septembre",
+        "date_es": "11 de septiembre",
+        "date_it": "11 settembre",
+        "date_ru": "11 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "thoroughfare"
     },
     "past_terms_3": {
-        "date": "September 16th",
-        "date_fr": "16 septembre",
-        "date_es": "16 de septiembre",
-        "date_it": "16 settembre",
-        "date_ru": "16 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "spell it out"
+        "date": "September 12th",
+        "date_fr": "12 septembre",
+        "date_es": "12 de septiembre",
+        "date_it": "12 settembre",
+        "date_ru": "12 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "take the hint"
     },
     "past_terms_4": {
-        "date": "September 18th",
-        "date_fr": "18 septembre",
-        "date_es": "18 de septiembre",
-        "date_it": "18 settembre",
-        "date_ru": "18 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "can of worms"
+        "date": "September 13th",
+        "date_fr": "13 septembre",
+        "date_es": "13 de septiembre",
+        "date_it": "13 settembre",
+        "date_ru": "13 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "strike a chord"
     }
 }
