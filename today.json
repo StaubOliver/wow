@@ -1,26 +1,26 @@
 {
-    "word": "gauzy",
-    "expression": "all hell ____ ____",
-    "today": "September 23rd, 2026",
-    "date_fr": "23 septembre 2026",
-    "date_es": "23 de septiembre de 2026",
-    "date_it": "23 settembre 2026",
-    "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "peephole",
+    "expression": "hang out _ __",
+    "today": "September 24th, 2026",
+    "date_fr": "24 septembre 2026",
+    "date_es": "24 de septiembre de 2026",
+    "date_it": "24 settembre 2026",
+    "date_ru": "24 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "September 11th",
-        "date_fr": "11 septembre",
-        "date_es": "11 de septiembre",
-        "date_it": "11 settembre",
-        "date_ru": "11 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "thoroughfare"
+        "date": "September 12th",
+        "date_fr": "12 septembre",
+        "date_es": "12 de septiembre",
+        "date_it": "12 settembre",
+        "date_ru": "12 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "drowsy"
     },
     "past_terms_2": {
-        "date": "September 15th",
-        "date_fr": "15 septembre",
-        "date_es": "15 de septiembre",
-        "date_it": "15 settembre",
-        "date_ru": "15 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "gambit"
+        "date": "September 16th",
+        "date_fr": "16 septembre",
+        "date_es": "16 de septiembre",
+        "date_it": "16 settembre",
+        "date_ru": "16 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "tantrum"
     },
     "past_terms_3": {
         "date": "September 17th",
@@ -31,11 +31,11 @@
         "term": "blessing "
     },
     "past_terms_4": {
-        "date": "September 21st",
-        "date_fr": "21 septembre",
-        "date_es": "21 de septiembre",
-        "date_it": "21 settembre",
-        "date_ru": "21 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "know the drill"
+        "date": "September 23rd",
+        "date_fr": "23 septembre",
+        "date_es": "23 de septiembre",
+        "date_it": "23 settembre",
+        "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "all hell broke loose"
     }
 }
