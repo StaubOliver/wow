@@ -1,41 +1,41 @@
 {
-    "word": "galore",
-    "expression": "turn a deaf __",
-    "today": "September 26th, 2026",
-    "date_fr": "26 septembre 2026",
-    "date_es": "26 de septiembre de 2026",
-    "date_it": "26 settembre 2026",
-    "date_ru": "26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "errand",
+    "expression": "in a split _____",
+    "today": "September 27th, 2026",
+    "date_fr": "27 septembre 2026",
+    "date_es": "27 de septiembre de 2026",
+    "date_it": "27 settembre 2026",
+    "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "September 17th",
-        "date_fr": "17 septembre",
-        "date_es": "17 de septiembre",
-        "date_it": "17 settembre",
-        "date_ru": "17 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "gratefully"
+        "date": "September 14th",
+        "date_fr": "14 septembre",
+        "date_es": "14 de septiembre",
+        "date_it": "14 settembre",
+        "date_ru": "14 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "remnant"
     },
     "past_terms_2": {
-        "date": "September 22nd",
-        "date_fr": "22 septembre",
-        "date_es": "22 de septiembre",
-        "date_it": "22 settembre",
-        "date_ru": "22 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "hitchhiker"
+        "date": "September 16th",
+        "date_fr": "16 septembre",
+        "date_es": "16 de septiembre",
+        "date_it": "16 settembre",
+        "date_ru": "16 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "tantrum"
     },
     "past_terms_3": {
-        "date": "September 23rd",
-        "date_fr": "23 septembre",
-        "date_es": "23 de septiembre",
-        "date_it": "23 settembre",
-        "date_ru": "23 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "all hell broke loose"
-    },
-    "past_terms_4": {
         "date": "September 24th",
         "date_fr": "24 septembre",
         "date_es": "24 de septiembre",
         "date_it": "24 settembre",
         "date_ru": "24 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
         "term": "hang out to dry"
+    },
+    "past_terms_4": {
+        "date": "September 25th",
+        "date_fr": "25 septembre",
+        "date_es": "25 de septiembre",
+        "date_it": "25 settembre",
+        "date_ru": "25 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "pay through the nose"
     }
 }
