@@ -1,26 +1,26 @@
 {
-    "word": "errand",
-    "expression": "in a split _____",
-    "today": "September 27th, 2026",
-    "date_fr": "27 septembre 2026",
-    "date_es": "27 de septiembre de 2026",
-    "date_it": "27 settembre 2026",
-    "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "inmate",
+    "expression": "go through __ ___",
+    "today": "September 28th, 2026",
+    "date_fr": "28 septembre 2026",
+    "date_es": "28 de septiembre de 2026",
+    "date_it": "28 settembre 2026",
+    "date_ru": "28 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "September 14th",
-        "date_fr": "14 septembre",
-        "date_es": "14 de septiembre",
-        "date_it": "14 settembre",
-        "date_ru": "14 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "remnant"
-    },
-    "past_terms_2": {
         "date": "September 16th",
         "date_fr": "16 septembre",
         "date_es": "16 de septiembre",
         "date_it": "16 settembre",
         "date_ru": "16 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
         "term": "tantrum"
+    },
+    "past_terms_2": {
+        "date": "September 19th",
+        "date_fr": "19 septembre",
+        "date_es": "19 de septiembre",
+        "date_it": "19 settembre",
+        "date_ru": "19 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "ubiquitous"
     },
     "past_terms_3": {
         "date": "September 24th",
@@ -31,11 +31,11 @@
         "term": "hang out to dry"
     },
     "past_terms_4": {
-        "date": "September 25th",
-        "date_fr": "25 septembre",
-        "date_es": "25 de septiembre",
-        "date_it": "25 settembre",
-        "date_ru": "25 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "pay through the nose"
+        "date": "September 26th",
+        "date_fr": "26 septembre",
+        "date_es": "26 de septiembre",
+        "date_it": "26 settembre",
+        "date_ru": "26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "turn a deaf ear"
     }
 }
