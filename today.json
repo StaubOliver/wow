@@ -1,41 +1,41 @@
 {
-    "word": "withstand",
-    "expression": "go down __ ____",
-    "today": "October 2nd, 2026",
-    "date_fr": "2 octobre 2026",
-    "date_es": "2 de octubre de 2026",
-    "date_it": "2 ottobre 2026",
-    "date_ru": "2 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "jigsaw",
+    "expression": "have the ____ __",
+    "today": "October 3rd, 2026",
+    "date_fr": "3 octobre 2026",
+    "date_es": "3 de octubre de 2026",
+    "date_it": "3 ottobre 2026",
+    "date_ru": "3 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "September 20th",
-        "date_fr": "20 septembre",
-        "date_es": "20 de septiembre",
-        "date_it": "20 settembre",
-        "date_ru": "20 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "seasickness"
-    },
-    "past_terms_2": {
-        "date": "September 21st",
-        "date_fr": "21 septembre",
-        "date_es": "21 de septiembre",
-        "date_it": "21 settembre",
-        "date_ru": "21 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "indulge"
-    },
-    "past_terms_3": {
         "date": "September 24th",
         "date_fr": "24 septembre",
         "date_es": "24 de septiembre",
         "date_it": "24 settembre",
         "date_ru": "24 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "hang out to dry"
+        "term": "peephole"
+    },
+    "past_terms_2": {
+        "date": "September 25th",
+        "date_fr": "25 septembre",
+        "date_es": "25 de septiembre",
+        "date_it": "25 settembre",
+        "date_ru": "25 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "luscious"
+    },
+    "past_terms_3": {
+        "date": "September 26th",
+        "date_fr": "26 septembre",
+        "date_es": "26 de septiembre",
+        "date_it": "26 settembre",
+        "date_ru": "26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "turn a deaf ear"
     },
     "past_terms_4": {
-        "date": "September 27th",
-        "date_fr": "27 septembre",
-        "date_es": "27 de septiembre",
-        "date_it": "27 settembre",
-        "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "in a split second"
+        "date": "October 2nd",
+        "date_fr": "2 octobre",
+        "date_es": "2 de octubre",
+        "date_it": "2 ottobre",
+        "date_ru": "2 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "go down the drain"
     }
 }
