@@ -1,20 +1,12 @@
 {
-    "word": "motto",
-    "expression": "live on __ ___",
-    "today": "October 6th, 2026",
-    "date_fr": "6 octobre 2026",
-    "date_es": "6 de octubre de 2026",
-    "date_it": "6 ottobre 2026",
-    "date_ru": "6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "gist",
+    "expression": "bring to _ __",
+    "today": "October 7th, 2026",
+    "date_fr": "7 octobre 2026",
+    "date_es": "7 de octubre de 2026",
+    "date_it": "7 ottobre 2026",
+    "date_ru": "7 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "September 25th",
-        "date_fr": "25 septembre",
-        "date_es": "25 de septiembre",
-        "date_it": "25 settembre",
-        "date_ru": "25 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "luscious"
-    },
-    "past_terms_2": {
         "date": "September 26th",
         "date_fr": "26 septembre",
         "date_es": "26 de septiembre",
@@ -22,13 +14,21 @@
         "date_ru": "26 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
         "term": "galore"
     },
+    "past_terms_2": {
+        "date": "September 29th",
+        "date_fr": "29 septembre",
+        "date_es": "29 de septiembre",
+        "date_it": "29 settembre",
+        "date_ru": "29 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "paucity"
+    },
     "past_terms_3": {
-        "date": "September 27th",
-        "date_fr": "27 septembre",
-        "date_es": "27 de septiembre",
-        "date_it": "27 settembre",
-        "date_ru": "27 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "in a split second"
+        "date": "October 4th",
+        "date_fr": "4 octobre",
+        "date_es": "4 de octubre",
+        "date_it": "4 ottobre",
+        "date_ru": "4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "all is not lost"
     },
     "past_terms_4": {
         "date": "October 5th",
