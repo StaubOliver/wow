@@ -1,41 +1,41 @@
 {
-    "word": "tantamount",
-    "expression": "as the crow ____",
-    "today": "October 10th, 2026",
-    "date_fr": "10 octobre 2026",
-    "date_es": "10 de octubre de 2026",
-    "date_it": "10 ottobre 2026",
-    "date_ru": "10 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "itchy",
+    "expression": "down in __ ____",
+    "today": "October 11th, 2026",
+    "date_fr": "11 octobre 2026",
+    "date_es": "11 de octubre de 2026",
+    "date_it": "11 ottobre 2026",
+    "date_ru": "11 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "September 29th",
-        "date_fr": "29 septembre",
-        "date_es": "29 de septiembre",
-        "date_it": "29 settembre",
-        "date_ru": "29 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "paucity"
+        "date": "September 28th",
+        "date_fr": "28 septembre",
+        "date_es": "28 de septiembre",
+        "date_it": "28 settembre",
+        "date_ru": "28 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "inmate"
     },
     "past_terms_2": {
-        "date": "October 4th",
-        "date_fr": "4 octobre",
-        "date_es": "4 de octubre",
-        "date_it": "4 ottobre",
-        "date_ru": "4 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "retaliate"
+        "date": "October 2nd",
+        "date_fr": "2 octobre",
+        "date_es": "2 de octubre",
+        "date_it": "2 ottobre",
+        "date_ru": "2 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "withstand"
     },
     "past_terms_3": {
-        "date": "October 7th",
-        "date_fr": "7 octobre",
-        "date_es": "7 de octubre",
-        "date_it": "7 ottobre",
-        "date_ru": "7 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "bring to an end"
+        "date": "October 3rd",
+        "date_fr": "3 octobre",
+        "date_es": "3 de octubre",
+        "date_it": "3 ottobre",
+        "date_ru": "3 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "have the final say"
     },
     "past_terms_4": {
-        "date": "October 9th",
-        "date_fr": "9 octobre",
-        "date_es": "9 de octubre",
-        "date_it": "9 ottobre",
-        "date_ru": "9 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "water under the bridge"
+        "date": "October 10th",
+        "date_fr": "10 octobre",
+        "date_es": "10 de octubre",
+        "date_it": "10 ottobre",
+        "date_ru": "10 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "as the crow flies"
     }
 }
