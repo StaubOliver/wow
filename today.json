@@ -1,18 +1,18 @@
 {
-    "word": "fluffy",
-    "expression": "work up _ _______",
-    "today": "October 17th, 2026",
-    "date_fr": "17 octobre 2026",
-    "date_es": "17 de octubre de 2026",
-    "date_it": "17 ottobre 2026",
-    "date_ru": "17 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "debunk",
+    "expression": "jump on __ ________",
+    "today": "October 18th, 2026",
+    "date_fr": "18 octobre 2026",
+    "date_es": "18 de octubre de 2026",
+    "date_it": "18 ottobre 2026",
+    "date_ru": "18 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "October 7th",
-        "date_fr": "7 octobre",
-        "date_es": "7 de octubre",
-        "date_it": "7 ottobre",
-        "date_ru": "7 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "gist"
+        "date": "October 6th",
+        "date_fr": "6 octobre",
+        "date_es": "6 de octubre",
+        "date_it": "6 ottobre",
+        "date_ru": "6 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "motto"
     },
     "past_terms_2": {
         "date": "October 8th",
@@ -23,19 +23,19 @@
         "term": "scrubby"
     },
     "past_terms_3": {
-        "date": "October 15th",
-        "date_fr": "15 octobre",
-        "date_es": "15 de octubre",
-        "date_it": "15 ottobre",
-        "date_ru": "15 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "keep an eye open"
+        "date": "October 13th",
+        "date_fr": "13 octobre",
+        "date_es": "13 de octubre",
+        "date_it": "13 ottobre",
+        "date_ru": "13 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "tough nut to crack"
     },
     "past_terms_4": {
-        "date": "October 16th",
-        "date_fr": "16 octobre",
-        "date_es": "16 de octubre",
-        "date_it": "16 ottobre",
-        "date_ru": "16 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "get a handle"
+        "date": "October 14th",
+        "date_fr": "14 octobre",
+        "date_es": "14 de octubre",
+        "date_it": "14 ottobre",
+        "date_ru": "14 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "get the upper hand"
     }
 }
