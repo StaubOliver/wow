@@ -1,11 +1,11 @@
 {
-    "word": "goldsmith",
-    "expression": "pain in __ ___",
-    "today": "October 19th, 2026",
-    "date_fr": "19 octobre 2026",
-    "date_es": "19 de octubre de 2026",
-    "date_it": "19 ottobre 2026",
-    "date_ru": "19 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "lessen",
+    "expression": "look the ____ __",
+    "today": "October 20th, 2026",
+    "date_fr": "20 octobre 2026",
+    "date_es": "20 de octubre de 2026",
+    "date_it": "20 ottobre 2026",
+    "date_ru": "20 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "October 7th",
         "date_fr": "7 octobre",
@@ -15,27 +15,27 @@
         "term": "gist"
     },
     "past_terms_2": {
-        "date": "October 14th",
-        "date_fr": "14 octobre",
-        "date_es": "14 de octubre",
-        "date_it": "14 ottobre",
-        "date_ru": "14 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "willpower"
+        "date": "October 8th",
+        "date_fr": "8 octobre",
+        "date_es": "8 de octubre",
+        "date_it": "8 ottobre",
+        "date_ru": "8 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "scrubby"
     },
     "past_terms_3": {
-        "date": "October 16th",
-        "date_fr": "16 octobre",
-        "date_es": "16 de octubre",
-        "date_it": "16 ottobre",
-        "date_ru": "16 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "get a handle"
+        "date": "October 9th",
+        "date_fr": "9 octobre",
+        "date_es": "9 de octubre",
+        "date_it": "9 ottobre",
+        "date_ru": "9 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "water under the bridge"
     },
     "past_terms_4": {
-        "date": "October 18th",
-        "date_fr": "18 octobre",
-        "date_es": "18 de octubre",
-        "date_it": "18 ottobre",
-        "date_ru": "18 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "jump on the bandwagon"
+        "date": "October 17th",
+        "date_fr": "17 octobre",
+        "date_es": "17 de octubre",
+        "date_it": "17 ottobre",
+        "date_ru": "17 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "work up an appetite"
     }
 }
