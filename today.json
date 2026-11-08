@@ -1,34 +1,34 @@
 {
-    "word": "tenet",
-    "expression": "stick to ___ ___",
-    "today": "November 7th, 2026",
-    "date_fr": "7 novembre 2026",
-    "date_es": "7 de noviembre de 2026",
-    "date_it": "7 novembre 2026",
-    "date_ru": "7 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "provost",
+    "expression": "to a lesser _____",
+    "today": "November 8th, 2026",
+    "date_fr": "8 novembre 2026",
+    "date_es": "8 de noviembre de 2026",
+    "date_it": "8 novembre 2026",
+    "date_ru": "8 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "October 25th",
-        "date_fr": "25 octobre",
-        "date_es": "25 de octubre",
-        "date_it": "25 ottobre",
-        "date_ru": "25 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "sluggish"
+        "date": "October 26th",
+        "date_fr": "26 octobre",
+        "date_es": "26 de octubre",
+        "date_it": "26 ottobre",
+        "date_ru": "26 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "shabby"
     },
     "past_terms_2": {
-        "date": "October 30th",
-        "date_fr": "30 octobre",
-        "date_es": "30 de octubre",
-        "date_it": "30 ottobre",
-        "date_ru": "30 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "pervasive"
+        "date": "October 27th",
+        "date_fr": "27 octobre",
+        "date_es": "27 de octubre",
+        "date_it": "27 ottobre",
+        "date_ru": "27 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "hijacker"
     },
     "past_terms_3": {
-        "date": "November 1st",
-        "date_fr": "1er novembre",
-        "date_es": "1 de noviembre",
-        "date_it": "1 novembre",
-        "date_ru": "1 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "dress to the nines"
+        "date": "October 29th",
+        "date_fr": "29 octobre",
+        "date_es": "29 de octubre",
+        "date_it": "29 ottobre",
+        "date_ru": "29 \u043e\u043a\u0442\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "burn the midnight oil"
     },
     "past_terms_4": {
         "date": "November 4th",
