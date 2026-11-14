@@ -1,41 +1,41 @@
 {
-    "word": "steadfast",
-    "expression": "crux of __ _____",
-    "today": "November 13th, 2026",
-    "date_fr": "13 novembre 2026",
-    "date_es": "13 de noviembre de 2026",
-    "date_it": "13 novembre 2026",
-    "date_ru": "13 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "seclusion",
+    "expression": "fly off __ ______",
+    "today": "November 14th, 2026",
+    "date_fr": "14 novembre 2026",
+    "date_es": "14 de noviembre de 2026",
+    "date_it": "14 novembre 2026",
+    "date_ru": "14 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "November 3rd",
-        "date_fr": "3 novembre",
-        "date_es": "3 de noviembre",
-        "date_it": "3 novembre",
-        "date_ru": "3 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "unruly"
+        "date": "November 2nd",
+        "date_fr": "2 novembre",
+        "date_es": "2 de noviembre",
+        "date_it": "2 novembre",
+        "date_ru": "2 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "loathe"
     },
     "past_terms_2": {
-        "date": "November 4th",
-        "date_fr": "4 novembre",
-        "date_es": "4 de noviembre",
-        "date_it": "4 novembre",
-        "date_ru": "4 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "chivalry"
-    },
-    "past_terms_3": {
         "date": "November 6th",
         "date_fr": "6 novembre",
         "date_es": "6 de noviembre",
         "date_it": "6 novembre",
         "date_ru": "6 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "cut through red tape"
+        "term": "queasiness"
+    },
+    "past_terms_3": {
+        "date": "November 10th",
+        "date_fr": "10 novembre",
+        "date_es": "10 de noviembre",
+        "date_it": "10 novembre",
+        "date_ru": "10 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "let your guard down"
     },
     "past_terms_4": {
-        "date": "November 11th",
-        "date_fr": "11 novembre",
-        "date_es": "11 de noviembre",
-        "date_it": "11 novembre",
-        "date_ru": "11 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "in the grips of"
+        "date": "November 12th",
+        "date_fr": "12 novembre",
+        "date_es": "12 de noviembre",
+        "date_it": "12 novembre",
+        "date_ru": "12 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "to hell and back"
     }
 }
