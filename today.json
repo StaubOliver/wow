@@ -1,11 +1,11 @@
 {
-    "word": "standoffish",
-    "expression": "rotten to __ ___",
-    "today": "November 20th, 2026",
-    "date_fr": "20 novembre 2026",
-    "date_es": "20 de noviembre de 2026",
-    "date_it": "20 novembre 2026",
-    "date_ru": "20 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "nitty-gritty",
+    "expression": "match made _ _____",
+    "today": "November 21st, 2026",
+    "date_fr": "21 novembre 2026",
+    "date_es": "21 de noviembre de 2026",
+    "date_it": "21 novembre 2026",
+    "date_ru": "21 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "November 8th",
         "date_fr": "8 novembre",
@@ -15,27 +15,27 @@
         "term": "provost"
     },
     "past_terms_2": {
-        "date": "November 14th",
-        "date_fr": "14 novembre",
-        "date_es": "14 de noviembre",
-        "date_it": "14 novembre",
-        "date_ru": "14 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "seclusion"
-    },
-    "past_terms_3": {
         "date": "November 16th",
         "date_fr": "16 novembre",
         "date_es": "16 de noviembre",
         "date_it": "16 novembre",
         "date_ru": "16 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "spin out of control"
+        "term": "overrule"
+    },
+    "past_terms_3": {
+        "date": "November 17th",
+        "date_fr": "17 novembre",
+        "date_es": "17 de noviembre",
+        "date_it": "17 novembre",
+        "date_ru": "17 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "cream of the crop"
     },
     "past_terms_4": {
-        "date": "November 18th",
-        "date_fr": "18 novembre",
-        "date_es": "18 de noviembre",
-        "date_it": "18 novembre",
-        "date_ru": "18 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "on the home stretch"
+        "date": "November 20th",
+        "date_fr": "20 novembre",
+        "date_es": "20 de noviembre",
+        "date_it": "20 novembre",
+        "date_ru": "20 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "rotten to the core"
     }
 }
