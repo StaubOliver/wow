@@ -1,11 +1,11 @@
 {
-    "word": "woozy",
-    "expression": "joined at __ __",
-    "today": "November 25th, 2026",
-    "date_fr": "25 novembre 2026",
-    "date_es": "25 de noviembre de 2026",
-    "date_it": "25 novembre 2026",
-    "date_ru": "25 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "sparkler",
+    "expression": "through thick __ ___",
+    "today": "November 26th, 2026",
+    "date_fr": "26 novembre 2026",
+    "date_es": "26 de noviembre de 2026",
+    "date_it": "26 novembre 2026",
+    "date_ru": "26 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
         "date": "November 13th",
         "date_fr": "13 novembre",
@@ -15,20 +15,20 @@
         "term": "steadfast"
     },
     "past_terms_2": {
+        "date": "November 14th",
+        "date_fr": "14 novembre",
+        "date_es": "14 de noviembre",
+        "date_it": "14 novembre",
+        "date_ru": "14 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "seclusion"
+    },
+    "past_terms_3": {
         "date": "November 17th",
         "date_fr": "17 novembre",
         "date_es": "17 de noviembre",
         "date_it": "17 novembre",
         "date_ru": "17 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "gambler"
-    },
-    "past_terms_3": {
-        "date": "November 18th",
-        "date_fr": "18 novembre",
-        "date_es": "18 de noviembre",
-        "date_it": "18 novembre",
-        "date_ru": "18 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "on the home stretch"
+        "term": "cream of the crop"
     },
     "past_terms_4": {
         "date": "November 23rd",
