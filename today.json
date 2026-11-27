@@ -1,41 +1,41 @@
 {
-    "word": "sparkler",
-    "expression": "through thick __ ___",
-    "today": "November 26th, 2026",
-    "date_fr": "26 novembre 2026",
-    "date_es": "26 de noviembre de 2026",
-    "date_it": "26 novembre 2026",
-    "date_ru": "26 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+    "word": "buzzword",
+    "expression": "get down _ _______",
+    "today": "November 27th, 2026",
+    "date_fr": "27 novembre 2026",
+    "date_es": "27 de noviembre de 2026",
+    "date_it": "27 novembre 2026",
+    "date_ru": "27 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
     "past_terms_1": {
-        "date": "November 13th",
-        "date_fr": "13 novembre",
-        "date_es": "13 de noviembre",
-        "date_it": "13 novembre",
-        "date_ru": "13 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "steadfast"
+        "date": "November 15th",
+        "date_fr": "15 novembre",
+        "date_es": "15 de noviembre",
+        "date_it": "15 novembre",
+        "date_ru": "15 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "leeway"
     },
     "past_terms_2": {
-        "date": "November 14th",
-        "date_fr": "14 novembre",
-        "date_es": "14 de noviembre",
-        "date_it": "14 novembre",
-        "date_ru": "14 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "seclusion"
+        "date": "November 16th",
+        "date_fr": "16 novembre",
+        "date_es": "16 de noviembre",
+        "date_it": "16 novembre",
+        "date_ru": "16 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "overrule"
     },
     "past_terms_3": {
-        "date": "November 17th",
-        "date_fr": "17 novembre",
-        "date_es": "17 de noviembre",
-        "date_it": "17 novembre",
-        "date_ru": "17 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "cream of the crop"
+        "date": "November 19th",
+        "date_fr": "19 novembre",
+        "date_es": "19 de noviembre",
+        "date_it": "19 novembre",
+        "date_ru": "19 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "set the bar high"
     },
     "past_terms_4": {
-        "date": "November 23rd",
-        "date_fr": "23 novembre",
-        "date_es": "23 de noviembre",
-        "date_it": "23 novembre",
-        "date_ru": "23 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
-        "term": "with a heavy heart"
+        "date": "November 26th",
+        "date_fr": "26 novembre",
+        "date_es": "26 de noviembre",
+        "date_it": "26 novembre",
+        "date_ru": "26 \u043d\u043e\u044f\u0431\u0440\u044f 2026 \u0433.",
+        "term": "through thick and thin"
     }
 }
